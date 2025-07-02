@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "swipers": "./components/swipers/index",
+    "card-box": "./components/cardBox/index",
+    "activity-list": "./components/activityList/index",
+    "notice-bar": "./components/noticeBar/index",
+    "menus": "./components/menus/index"
+  }
+}

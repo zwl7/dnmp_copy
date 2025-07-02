@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "入场指引",
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

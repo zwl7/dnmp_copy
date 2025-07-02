@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "报名详情",
+  "usingComponents": {
+    "train-apply-form": "./form",
+    "pa-form-detail": "../../components/paForm/paFormDetail"
+  }
+}

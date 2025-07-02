@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-count-down": "../../../../node-modules/@climblee/uv-ui/components/uv-count-down/uv-count-down",
+    "uni-icons": "../../../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

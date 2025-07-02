@@ -1,0 +1,1 @@
+<view class="date-box data-v-26aeb236"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="{{['data-v-26aeb236', 'date-item', item.c]}}" bindtap="{{item.e}}"><view class="p1 data-v-26aeb236">{{item.a}}</view><view class="p2 data-v-26aeb236">{{item.b}}</view></view></view>

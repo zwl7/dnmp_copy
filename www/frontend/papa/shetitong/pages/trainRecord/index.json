@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "报名记录",
+  "usingComponents": {
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "uv-tags": "../../node-modules/@climblee/uv-ui/components/uv-tags/uv-tags",
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="{{['carousel-item', b && 'active', c && 'card-type', d && 'card-prev', e && 'card-next']}}" style="{{f}}"><slot></slot><view wx:if="{{a}}" class="card-mask"></view></view>

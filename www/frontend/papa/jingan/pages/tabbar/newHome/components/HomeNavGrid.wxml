@@ -1,0 +1,1 @@
+<view class="nav-grid data-v-6fb11f60"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="nav-item data-v-6fb11f60" bindtap="{{item.d}}"><image src="{{item.a}}" class="nav-icon data-v-6fb11f60" mode="aspectFit"/><text class="nav-title data-v-6fb11f60">{{item.b}}</text></view></view>

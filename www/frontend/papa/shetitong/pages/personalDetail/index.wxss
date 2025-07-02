@@ -1,0 +1,19 @@
+.uni-input-placeholder.data-v-3f40a9d6 {
+  text-align: right;
+}
+.data-v-3f40a9d6 .uni-page-head {
+  box-sizing: unset;
+}
+.data-v-3f40a9d6 .uni-input-input {
+  text-align: right;
+}
+.center.data-v-3f40a9d6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-fixed.data-v-3f40a9d6 {
+  display: flex;
+  align-items: center;
+  gap: 36rpx;
+}

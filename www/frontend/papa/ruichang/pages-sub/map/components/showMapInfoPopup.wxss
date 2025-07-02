@@ -1,0 +1,93 @@
+.popup-box .line-box.data-v-42e7f597 {
+  height: 88rpx;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.popup-box .line.data-v-42e7f597 {
+  width: 94rpx;
+  height: 6rpx;
+  border-radius: 6rpx;
+  background: rgb(100, 101, 102);
+}
+.popup-box .bottom-box.data-v-42e7f597 {
+  height: 100rpx;
+  margin-top: 48rpx;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+  border-top: 1rpx solid #ebeef0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.popup-box .bottom-box .left.data-v-42e7f597 {
+  display: flex;
+  flex-direction: column;
+}
+.popup-box .bottom-box .left .text.data-v-42e7f597 {
+  font-size: 20rpx;
+  font-weight: 400;
+  line-height: 28rpx;
+  color: rgb(150, 151, 153);
+  text-align: center;
+  vertical-align: top;
+  margin-top: 4rpx;
+}
+.popup-box .bottom-box .right.data-v-42e7f597 {
+  flex: 1;
+  padding-left: 32rpx;
+}
+.popup-box .bottom-box .button.data-v-42e7f597 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28rpx;
+  width: 100%;
+  height: 80rpx;
+  opacity: 1;
+  border-radius: 80rpx;
+  border: none;
+  background-color: var(--hubei-primary-button-bg-color, #409eff);
+  color: var(--hubei-primary-button-font-color, #ffffff);
+  border: 1px solid var(--hubei-primary-button-border-color, #409eff);
+}
+.popup-box .bottom-box button.data-v-42e7f597::after {
+  border: none;
+}
+.input-container.data-v-42e7f597 {
+  background-color: #fff;
+  border-radius: 32rpx;
+  width: 500rpx;
+}
+.input-container .title.data-v-42e7f597 {
+  text-align: center;
+  padding: 20rpx 0;
+}
+.input-container .main-container.data-v-42e7f597 {
+  padding: 0 20rpx;
+  color: #333333;
+}
+.input-container .main-container .item radio.data-v-42e7f597 {
+  transform: scale(0.7);
+}
+.input-container .button.data-v-42e7f597 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80rpx;
+  margin-top: 20rpx;
+  border-top: 2rpx solid #ebedf0;
+}
+.input-container .button .cancel.data-v-42e7f597,
+.input-container .button .confirm.data-v-42e7f597 {
+  flex: 1;
+  text-align: center;
+}
+.input-container .button .cancel.data-v-42e7f597 {
+  border-right: 2rpx solid #ebedf0;
+}
+.radio-container.data-v-42e7f597 {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "站点",
+  "usingComponents": {
+    "map-touch-title-vue": "./components/mapTouchTitle",
+    "instructor-site-item": "../../components/InstructorSiteItem/index",
+    "map-touch": "../../components/mapTouch",
+    "show-map-info-popup": "./components/showMapInfoPopup",
+    "nav-bar": "../../components/navBar/index",
+    "scroll-tab-x": "./components/scrollTabX"
+  }
+}

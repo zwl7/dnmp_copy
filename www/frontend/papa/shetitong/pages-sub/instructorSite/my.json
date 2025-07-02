@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的站点",
+  "usingComponents": {
+    "instructor-site-item": "../../components/InstructorSiteItem/index",
+    "bottom-button": "../../components/bottomButton",
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "体育人才",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "drop-down": "../../components/dropDown/index",
+    "sport-talent-item": "./components/sportTalentItem",
+    "scroll-tab-x": "./components/scrollTabX",
+    "uv-sticky": "../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky"
+  }
+}

@@ -1,0 +1,1 @@
+<layout-default-uni u-s="{{['d']}}" u-i="031106e8-0" bind:__l="__l"><nav-bar wx:if="{{a}}" u-i="031106e8-1,031106e8-0" bind:__l="__l" u-p="{{a}}"></nav-bar><view class="" style="{{'padding-top:' + d}}"><week-calendar wx:if="{{c}}" bindclick="{{b}}" u-i="031106e8-2,031106e8-0" bind:__l="__l" u-p="{{c}}"></week-calendar></view></layout-default-uni>

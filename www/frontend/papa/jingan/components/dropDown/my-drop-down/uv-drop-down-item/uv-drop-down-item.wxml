@@ -1,0 +1,1 @@
+<view class="uv-drop-down-item data-v-4f2b6866" bindtap="{{f}}"><text style="{{'font-size:' + b + ';' + ('color:' + c)}}" class="item-text data-v-4f2b6866">{{a}}</text><view class="uv-icon data-v-4f2b6866"><uv-icon wx:if="{{d}}" class="data-v-4f2b6866" u-i="4f2b6866-0" bind:__l="__l" u-p="{{e}}"></uv-icon></view></view>

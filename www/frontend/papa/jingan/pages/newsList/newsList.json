@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "新闻列表",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "news-list-item": "./components/newsListItem",
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

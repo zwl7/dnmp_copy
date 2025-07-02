@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "活动报名",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "bottom-button": "../../../components/bottomButton",
+    "ceil-line": "../components/ceilLine",
+    "common-team-dialog": "./components/commonTeamDialog",
+    "pa-form": "../../../components/paForm/paForm"
+  }
+}

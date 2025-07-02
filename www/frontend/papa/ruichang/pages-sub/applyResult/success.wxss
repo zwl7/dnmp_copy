@@ -1,0 +1,27 @@
+.activity-result-container.data-v-cd512efe {
+  height: 100vh;
+  width: 100vw;
+  background-color: #fff;
+  padding: 32rpx;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40%;
+}
+.activity-result-container .img.data-v-cd512efe {
+  display: block;
+  width: 182rpx;
+  height: 182rpx;
+}
+.title.data-v-cd512efe {
+  font-size: 36rpx;
+  color: #333333;
+  font-weight: 500;
+  margin-top: 40rpx;
+  margin-bottom: 110rpx;
+}
+.login-btn.data-v-cd512efe {
+  width: 100%;
+  margin: 88rpx 0 36rpx;
+}

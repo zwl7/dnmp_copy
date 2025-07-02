@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "赛事日历",
+  "usingComponents": {
+    "wu-calendar": "../../../components/wu-calendar/components/wu-calendar/wu-calendar"
+  }
+}

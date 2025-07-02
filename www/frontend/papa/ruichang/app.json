@@ -1,0 +1,151 @@
+{
+  "pages": [
+    "pages/tabbar/home/index",
+    "pages/tabbar/commonPage/index",
+    "pages/tabbar/train/index",
+    "pages/tabbar/personal/index",
+    "pages/tabbar/train/listByType",
+    "pages/instructorSite/index",
+    "pages/instructor/index",
+    "pages/tabbar/dynamic/index",
+    "pages/personalDetail/index",
+    "pages/praise/index",
+    "pages/trainRecord/index",
+    "pages/login/index",
+    "pages/errors/404/index"
+  ],
+  "subPackages": [
+    {
+      "root": "pages-sub",
+      "pages": [
+        "activityList/index",
+        "activityDetail/index",
+        "contact/index",
+        "middleware/index",
+        "notice/detail",
+        "notice/index",
+        "realname/detail",
+        "realname/index",
+        "releaseDynamic/index",
+        "selectActivetyProject/index",
+        "selectActivitySite/index",
+        "selectOrganization/index",
+        "trainApply/detail",
+        "trainApply/index",
+        "trainDetail/index",
+        "webview/index",
+        "statement/index",
+        "instructorDetail/index",
+        "applyResult/success",
+        "starRatingRecord/index",
+        "levelRatingRecord/index",
+        "instructorSite/index",
+        "instructorSite/detail",
+        "instructorSite/my",
+        "instructorSite/select",
+        "demo/index",
+        "instructorRegion/index",
+        "sportsOrg/index",
+        "sportsOrg/detail",
+        "map/index",
+        "sportOrder/index",
+        "sportOrder/form",
+        "sportOrder/detail"
+      ]
+    },
+    {
+      "root": "pagesSub/platform",
+      "pages": [
+        "sportsOrg/index",
+        "sportsOrg/detail",
+        "sportsSite/index",
+        "sportsSite/detail",
+        "stadium/index",
+        "stadium/detail",
+        "yunLesson/index",
+        "yunLesson/detail"
+      ]
+    },
+    {
+      "root": "pagesSub/sportsService",
+      "pages": [
+        "serviceStyle/index",
+        "serviceStyle/myStyle",
+        "serviceStyle/orderStyle",
+        "serviceStyle/detail",
+        "serviceStyle/form",
+        "sprotOrder/index",
+        "sprotOrder/form",
+        "sprotOrder/detail",
+        "serviceUndertake/index",
+        "serviceUndertake/form",
+        "serviceAssign/index",
+        "serviceAssign/organList",
+        "serviceAssign/talenList",
+        "serviceAssign/detail",
+        "serviceComment/index",
+        "personalDetail/personalDetail",
+        "realAuth/index",
+        "realAuth/realAtuthSubmit",
+        "realAuth/myIdentity",
+        "dataOverview/index"
+      ]
+    }
+  ],
+  "window": {
+    "navigationStyle": "default",
+    "navigationBarTitleText": "社体指导员",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "titleNView": false
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#999999",
+    "selectedColor": "#018d71",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "iconPath": "static/tabbar/blue_index.png",
+        "selectedIconPath": "static/tabbar/blue_index_select.png",
+        "pagePath": "pages/tabbar/home/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "static/tabbar/blue_train.png",
+        "selectedIconPath": "static/tabbar/blue_train_select.png",
+        "pagePath": "pages/tabbar/train/index",
+        "text": "培训"
+      },
+      {
+        "iconPath": "static/tabbar/blue_site.png",
+        "selectedIconPath": "static/tabbar/blue_site_select.png",
+        "pagePath": "pages/tabbar/commonPage/index",
+        "text": "公共页面"
+      },
+      {
+        "iconPath": "static/tabbar/blue_mine.png",
+        "selectedIconPath": "static/tabbar/blue_mine_select.png",
+        "pagePath": "pages/tabbar/personal/index",
+        "text": "我的"
+      }
+    ]
+  },
+  "__usePrivacyCheck__": false,
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseLocation"
+  ],
+  "usingComponents": {
+    "via-icon": "/icons/components/ViaIcon/index",
+    "empty": "/components/empty",
+    "load-more": "/components/loadMore",
+    "bottom-button": "/components/bottomButton",
+    "pa-tag": "/components/paTag/index",
+    "pa-back-to-top": "/components/paBackToTop/index",
+    "nav-bar": "/components/navBar/index",
+    "layout-default-uni": "/layouts/default",
+    "layout-tabbar-uni": "/layouts/tabbar"
+  }
+}

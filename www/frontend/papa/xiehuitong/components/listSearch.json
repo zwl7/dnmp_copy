@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-input": "../node-modules/@climblee/uv-ui/components/uv-input/uv-input"
+  }
+}

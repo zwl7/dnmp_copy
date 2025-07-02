@@ -1,0 +1,1 @@
+<view class="bid-container data-v-5a0f2748" bindtap="{{d}}"><view class="title data-v-5a0f2748">{{a}}</view><view class="time mt12 mb4 data-v-5a0f2748">申请人：{{b}}</view><view class="time data-v-5a0f2748">申请时间：{{c}}</view></view>

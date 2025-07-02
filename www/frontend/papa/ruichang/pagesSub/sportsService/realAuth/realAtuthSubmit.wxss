@@ -1,0 +1,11 @@
+.outerBox.data-v-f9ba233f {
+  margin: 26rpx 32rpx;
+}
+.tip.data-v-f9ba233f {
+  display: flex;
+  align-items: start;
+  gap: 20rpx;
+  font-size: 24rpx;
+  color: rgb(144, 147, 153);
+  margin: 28rpx 0 60rpx;
+}

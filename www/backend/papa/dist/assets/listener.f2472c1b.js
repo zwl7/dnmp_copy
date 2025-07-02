@@ -1,0 +1,1 @@
+const d=()=>{const e=n=>{n.returnValue=""};return{windowBeforeunload:()=>{window.addEventListener("beforeunload",e)},removeWindowBfunload:()=>{window.removeEventListener("beforeunload",e)}}};export{d as g};

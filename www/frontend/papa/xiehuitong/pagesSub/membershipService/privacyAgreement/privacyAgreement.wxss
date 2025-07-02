@@ -1,0 +1,67 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.agreement.data-v-89afc6d3 {
+  padding: 50rpx;
+}
+.a-title.data-v-89afc6d3 {
+  font-size: 28rpx;
+  font-weight: 600;
+  margin-bottom: 29rpx;
+}
+.a-content.data-v-89afc6d3,
+.a-title.data-v-89afc6d3 {
+  color: #333;
+  line-height: 50rpx;
+}
+.a-content.data-v-89afc6d3 {
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-size: 26rpx;
+  font-weight: 400;
+  margin-bottom: 30rpx;
+  text-align: justify;
+}
+.indent.data-v-89afc6d3 {
+  text-indent: 2em;
+}
+.weight.data-v-89afc6d3 {
+  color: #333;
+  font-weight: 600;
+}
+.bottomBox.data-v-89afc6d3 {
+  background: #fff;
+  bottom: 0rpx;
+  box-shadow: 0rpx 2rpx 4rpx 0rpx rgba(0, 0, 0, 0.5);
+  display: flex;
+  height: 150rpx;
+  justify-content: center;
+  position: fixed;
+  width: 750rpx;
+}
+.btnLight.data-v-89afc6d3 {
+  background: linear-gradient(90deg, #fcac65, #fe7837);
+  box-shadow: 0 5px 10px 0 hsla(24, 95%, 70%, 0.5);
+}
+.btnGray.data-v-89afc6d3,
+.btnLight.data-v-89afc6d3 {
+  border-radius: 50rpx;
+  color: #fff;
+  font-size: 32rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  margin: auto;
+  text-align: center;
+  width: 690rpx;
+}
+.btnGray.data-v-89afc6d3 {
+  background: #d8d8d8;
+}

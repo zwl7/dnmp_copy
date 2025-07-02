@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "会员单位",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "association-item": "./components/associationItem",
+    "drop-down": "../../components/dropDown/index",
+    "drop-down-city-select": "../../components/dropDownCitySelect"
+  }
+}

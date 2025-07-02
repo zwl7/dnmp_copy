@@ -1,0 +1,1 @@
+<view class="record-item data-v-91df315d"><view class="timeline-section data-v-91df315d"><view wx:if="{{a}}" class="timeline-dot data-v-91df315d"></view></view><view class="content-section data-v-91df315d"><view wx:if="{{b}}" class="date data-v-91df315d">{{c}}</view><view class="rating-card data-v-91df315d"><slot></slot></view></view></view>

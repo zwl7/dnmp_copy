@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "认证详情",
+  "usingComponents": {
+    "pa-form-detail": "../../../components/paForm/paFormDetail"
+  }
+}

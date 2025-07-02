@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "赛事申办",
+  "usingComponents": {
+    "pa-form": "../../components/paForm/paForm",
+    "bottom-button": "../../components/bottomButton"
+  }
+}

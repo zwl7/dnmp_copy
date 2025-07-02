@@ -1,0 +1,1 @@
+import{_ as o,o as s,a as n,b as r,m as t}from"./index-73817fb6.js";const a={},c={class:"form-page"},_={class:"form-main-box"};function d(e,m){return s(),n("div",c,[r("div",_,[t(e.$slots,"default")])])}const l=o(a,[["render",d],["__file","/Users/zwl/dnmp/www/frontend/ppos-sport-online/src/components/FormPageLayout/index.vue"]]);export{l as F};

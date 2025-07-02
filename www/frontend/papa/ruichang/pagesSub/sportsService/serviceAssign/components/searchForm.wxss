@@ -1,0 +1,23 @@
+.searchForm.data-v-3c5750bb {
+  width: 100%;
+  display: flex;
+  padding: 0 60rpx;
+  gap: 24rpx;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+}
+.searchForm .searchInput.data-v-3c5750bb {
+  border-radius: 28rpx;
+  border: 1px solid rgb(48, 49, 51);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 28rpx;
+  line-height: 40rpx;
+  padding: 4rpx 20rpx 4rpx 36rpx;
+  width: 286rpx;
+  height: 48rpx;
+  box-sizing: border-box;
+  background: #fff;
+}

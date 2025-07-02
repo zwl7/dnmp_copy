@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "社体指导员专区",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "level-icon": "../../components/LevelIcon/index"
+  }
+}

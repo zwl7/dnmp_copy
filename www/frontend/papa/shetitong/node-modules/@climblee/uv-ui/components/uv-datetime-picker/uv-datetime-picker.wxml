@@ -1,0 +1,1 @@
+<uv-picker wx:if="{{f}}" class="r" u-r="picker" bindclose="{{b}}" bindcancel="{{c}}" bindconfirm="{{d}}" bindchange="{{e}}" u-i="46a2df6a-0" bind:__l="__l" u-p="{{f}}"></uv-picker>

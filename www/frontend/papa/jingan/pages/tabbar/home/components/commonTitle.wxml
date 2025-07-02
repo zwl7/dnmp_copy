@@ -1,0 +1,1 @@
+<view class="common-title-container data-v-e867f388"><view class="{{['data-v-e867f388', 'title', b]}}">{{a}}</view><view wx:if="{{c}}" class="right data-v-e867f388" bindtap="{{e}}"><text class="data-v-e867f388">更多</text><uni-icons wx:if="{{d}}" class="data-v-e867f388" u-i="e867f388-0" bind:__l="__l" u-p="{{d}}"></uni-icons></view></view>

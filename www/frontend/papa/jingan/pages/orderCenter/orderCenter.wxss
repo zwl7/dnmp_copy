@@ -1,0 +1,344 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.dis-return.data-v-442a49b0 {
+  position: absolute;
+  right: 20px;
+  top: 15px;
+}
+.disable-return.data-v-442a49b0 {
+  color: #d81e06;
+  font-size: 14px;
+  padding-left: 15px;
+}
+.icon-return2.data-v-442a49b0 {
+  height: 16px !important;
+  width: 16px !important;
+  margin-right: 8px;
+}
+.icon-return.data-v-442a49b0 {
+  height: 16px !important;
+  width: 16px !important;
+  margin-right: 3px;
+}
+.message-bg.data-v-442a49b0 {
+  background: #fff2eb;
+}
+.gap-50.data-v-442a49b0 {
+  height: 60px;
+  width: 100%;
+}
+.wrapper.data-v-442a49b0 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.order-content.data-v-442a49b0 {
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+.caption.data-v-442a49b0 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 50px;
+  font-size: 14px;
+  color: #303133;
+  border-bottom: 1px solid #eceef2;
+  padding: 0 15px;
+}
+.status.data-v-442a49b0 {
+  flex: 1;
+  color: #c0c4cc;
+  text-align: right;
+}
+.status-5FC266.data-v-442a49b0 {
+  color: #5fc266;
+}
+.status-orange.data-v-442a49b0 {
+  color: var(--hubei-primary, #409eff);
+}
+.item.data-v-442a49b0 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 14px;
+  color: #909399;
+  min-height: 35px;
+  padding: 0 15px;
+}
+.item.data-v-442a49b0:first-child {
+  padding-top: 10px;
+}
+.item.data-v-442a49b0:last-child {
+  padding-bottom: 10px;
+  color: #606266;
+}
+.icon-arrow.data-v-442a49b0 {
+  width: 8px;
+  height: 8px;
+  margin: 0 0 3px 10px;
+}
+.item-left.data-v-442a49b0 {
+  flex: 1;
+  text-align: left;
+}
+.item-right.data-v-442a49b0 {
+  flex: 3;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.item-52.data-v-442a49b0 {
+  display: flex;
+  flex-direction: row;
+  color: #909399;
+  padding: 0 15px;
+  border-bottom: 1px solid #eceef2;
+}
+.item-right.data-v-442a49b0 {
+  flex: 1;
+  text-align: right;
+}
+.icon-select.data-v-442a49b0 {
+  width: 16px;
+  height: 16px;
+}
+.item-left.data-v-442a49b0 {
+  flex: 3;
+}
+.icon-type.data-v-442a49b0 {
+  width: 20px;
+  margin-right: 10px;
+}
+.payment-type.data-v-442a49b0 {
+  line-height: 50px;
+  font-size: 15px;
+  color: #606266;
+  display: flex;
+  align-items: center;
+}
+.mr-10.data-v-442a49b0 {
+  margin-right: 10px;
+}
+.des.data-v-442a49b0 {
+  line-height: 30px;
+  font-size: 12px;
+}
+.line-height-30.data-v-442a49b0 {
+  line-height: 30px;
+}
+.line-height-50.data-v-442a49b0 {
+  line-height: 50px;
+}
+.order-msg.data-v-442a49b0 {
+  align-items: unset;
+  line-height: 26px;
+  min-height: 20px;
+}
+.icon.data-v-442a49b0 {
+  width: 10px;
+  height: 10px;
+  margin-left: 10px;
+}
+.card-Item.data-v-442a49b0 {
+  padding: 0 17px;
+  line-height: 44px;
+  font-size: 14px;
+  border-top: 1px solid #efefef;
+}
+.icon-hook.data-v-442a49b0 {
+  width: 14px;
+  height: 14px;
+  margin-right: 17px;
+}
+.item-common.data-v-442a49b0,
+.item-special.data-v-442a49b0 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: #303133;
+}
+.item-common p.data-v-442a49b0,
+.item-special p.data-v-442a49b0 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-right: 10px;
+}
+.item-common p.data-v-442a49b0:nth-child(2),
+.item-special p.data-v-442a49b0:nth-child(2) {
+  flex: 2;
+}
+.item-common p.data-v-442a49b0:nth-child(3),
+.item-special p.data-v-442a49b0:nth-child(3) {
+  flex: 2;
+}
+.item-common p.data-v-442a49b0:last-child,
+.item-special p.data-v-442a49b0:last-child {
+  margin-right: unset;
+}
+.item-special.data-v-442a49b0 {
+  margin-left: 31px;
+  color: #909399;
+}
+.card-type.data-v-442a49b0 {
+  color: #606266;
+}
+.order-payment.data-v-442a49b0 {
+  background-color: #fff;
+}
+.caption.data-v-442a49b0 {
+  padding: 0 15px;
+  line-height: 50px;
+  height: 50px;
+}
+.order.data-v-442a49b0 {
+  text-align: left;
+}
+.footer-bottom.data-v-442a49b0 {
+  position: fixed;
+  background: #ffffff;
+  bottom: 0;
+  height: 49px;
+  width: 100%;
+}
+.footer-confirm.data-v-442a49b0 {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  background-image: linear-gradient(270deg, var(--hubei-primary, #409eff) 0%, var(--hubei-primary-light2, #6ad1ff) 100%);
+  font-size: 14px;
+  color: #ffffff;
+  border-radius: 20px;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  width: 166px;
+}
+.footer-left.data-v-442a49b0 {
+  background: #ffffff;
+  display: flex;
+}
+.footer-left-key.data-v-442a49b0 {
+  font-size: 13px;
+  color: #666666;
+  letter-spacing: 0;
+  line-height: 19px;
+  height: 49px;
+  line-height: 49px;
+  margin: auto 6px auto 16px;
+}
+.footer-left-value.data-v-442a49b0 {
+  font-family: Helvetica;
+  font-size: 20px;
+  color: #ff4864;
+  letter-spacing: 0;
+  height: 49px;
+  line-height: 49px;
+}
+.blue-words.data-v-442a49b0 {
+  font-size: 14px;
+  color: #159eff;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.orange-words.data-v-442a49b0 {
+  font-size: 14px;
+  color: var(--hubei-primary, #409eff);
+  letter-spacing: 0;
+}
+.content-order.data-v-442a49b0 {
+  width: 100%;
+  height: 243px;
+  background: #ffffff;
+  border-radius: 4px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+.content-title.data-v-442a49b0 {
+  text-align: left;
+  padding: 15px;
+  height: 50px;
+  font-size: 14px;
+  color: #303133;
+  line-height: 30px;
+  font-weight: 700;
+}
+.content-info.data-v-442a49b0 {
+  color: #909399;
+  text-align: left;
+  padding: 16px 15px 0 15px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.line-gery.data-v-442a49b0 {
+  border-bottom: #ebedf0 solid 1px;
+}
+.content-detail.data-v-442a49b0 {
+  font-size: 14px;
+  color: #606266;
+  text-align: left;
+  line-height: 20px;
+  padding: 15px;
+}
+.dialog-item.data-v-442a49b0 {
+  font-size: 14px;
+  color: #303133;
+  text-align: left;
+  line-height: 20px;
+  padding: 24px;
+}
+.orange-ok.data-v-442a49b0 {
+  color: var(--hubei-primary, #409eff);
+}
+.grey-ok.data-v-442a49b0 {
+  color: #c8c9cc;
+}
+.card-num.data-v-442a49b0 {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.order-celler-title.data-v-442a49b0 {
+  font-size: 14px;
+  color: #323233;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+.order-celler-icon.data-v-442a49b0 {
+  margin-top: 3px;
+  margin-right: 13px;
+}
+.order-celler.data-v-442a49b0 {
+  margin-bottom: 10px;
+}
+.van-cell__title.data-v-442a49b0 {
+  flex: 6;
+}
+.van-cell__value.data-v-442a49b0 {
+  flex: 1;
+}
+.van-toast.data-v-442a49b0 {
+  width: auto !important;
+}
+.topbar.data-v-442a49b0 {
+  background-color: var(--hubei-card-bg, rgba(64, 158, 255, 0.05));
+  padding: 24rpx 32rpx;
+  color: var(--hubei-primary, #409eff);
+  font-weight: 400;
+  font-size: 26rpx;
+}

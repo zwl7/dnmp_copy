@@ -1,0 +1,1 @@
+<view class="{{['uv-checkbox-group', 'data-v-ac6503f5', a]}}" style="{{b}}"><slot></slot></view>

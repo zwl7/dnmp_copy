@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-scroll-list": "../../../../components/scrollList/u-scroll-list"
+  }
+}

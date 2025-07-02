@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-tags": "../../node-modules/@climblee/uv-ui/components/uv-tags/uv-tags",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-button": "../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

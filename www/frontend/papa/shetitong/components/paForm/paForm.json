@@ -1,0 +1,19 @@
+{
+  "component": true,
+  "usingComponents": {
+    "img-upload": "../upload/imgs",
+    "city-picker": "../city-picker/index",
+    "multiple-picker": "../multiple-picker/multiple-picker",
+    "uv-input": "../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-radio": "../../node-modules/@climblee/uv-ui/components/uv-radio/uv-radio",
+    "uv-radio-group": "../../node-modules/@climblee/uv-ui/components/uv-radio-group/uv-radio-group",
+    "uv-checkbox": "../../node-modules/@climblee/uv-ui/components/uv-checkbox/uv-checkbox",
+    "uv-checkbox-group": "../../node-modules/@climblee/uv-ui/components/uv-checkbox-group/uv-checkbox-group",
+    "uv-textarea": "../../node-modules/@climblee/uv-ui/components/uv-textarea/uv-textarea",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-picker": "../../node-modules/@climblee/uv-ui/components/uv-picker/uv-picker",
+    "uv-datetime-picker": "../../node-modules/@climblee/uv-ui/components/uv-datetime-picker/uv-datetime-picker",
+    "uv-form-item": "../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-form": "../../node-modules/@climblee/uv-ui/components/uv-form/uv-form"
+  }
+}

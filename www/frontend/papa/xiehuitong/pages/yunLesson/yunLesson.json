@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "云课堂",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar",
+    "yun-lesson-item": "./components/yunLessonItem"
+  }
+}

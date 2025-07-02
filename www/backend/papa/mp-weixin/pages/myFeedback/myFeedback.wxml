@@ -1,0 +1,1 @@
+<view class="container data-v-8f5488fa"><uni-easyinput wx:if="{{b}}" class="data-v-8f5488fa" u-i="8f5488fa-0" bind:__l="__l" bindupdateModelValue="{{a}}" u-p="{{b}}"></uni-easyinput><view class="button data-v-8f5488fa" bindtap="{{c}}"> 提交 </view></view>

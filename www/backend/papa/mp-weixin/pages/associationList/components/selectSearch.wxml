@@ -1,0 +1,1 @@
+<view class="main-container data-v-516b4da2"><uni-search-bar wx:if="{{d}}" class="data-v-516b4da2" bindconfirm="{{a}}" bindclear="{{b}}" bindcancel="{{c}}" u-i="516b4da2-0" bind:__l="__l" u-p="{{d}}"/><dropdown-menu wx:if="{{g}}" class="data-v-516b4da2" bindonConfirm="{{e}}" u-i="516b4da2-1" bind:__l="__l" bindupdateMenuList="{{f}}" u-p="{{g}}"></dropdown-menu></view>

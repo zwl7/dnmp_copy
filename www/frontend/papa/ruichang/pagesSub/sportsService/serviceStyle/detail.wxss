@@ -1,0 +1,26 @@
+.detail-page.data-v-60ec64c2 {
+  min-height: 100vh;
+  padding: 16px;
+  background: #fff;
+}
+.like-section.data-v-60ec64c2 {
+  display: flex;
+  gap: 24rpx;
+  padding: 24rpx;
+  background: #f8fcf7;
+  border-radius: 8px;
+}
+.like-section image.data-v-60ec64c2 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.like-section .like-count.data-v-60ec64c2 {
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #666;
+}
+.like-section .avatar-group.data-v-60ec64c2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+}

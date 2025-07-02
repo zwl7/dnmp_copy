@@ -1,0 +1,27 @@
+.data-v-e9e2988f .uv-input__content__prefix-icon {
+  margin-left: 10px;
+  color: rgb(96, 98, 102);
+}
+.data-v-e9e2988f .uv-input__content__subfix-icon {
+  margin-right: 10px;
+}
+.data-v-e9e2988f .uv-input {
+  background: rgb(246, 248, 252);
+}
+.data-v-e9e2988f .uv-input__content__field-wrapper__field {
+  text-align: right !important;
+  padding-right: 10rpx !important;
+}
+.data-v-e9e2988f .uv-form-item__body__right__message {
+  text-align: right;
+}
+.next-step.data-v-e9e2988f {
+  width: 45%;
+}
+.center.data-v-e9e2988f {
+  display: flex;
+  justify-content: center;
+}
+.suffix-idcard.data-v-e9e2988f {
+  color: rgb(168, 171, 178);
+}

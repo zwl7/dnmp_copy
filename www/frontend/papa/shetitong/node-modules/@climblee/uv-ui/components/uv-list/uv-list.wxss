@@ -1,0 +1,40 @@
+view.data-v-df0c8042,
+scroll-view.data-v-df0c8042,
+swiper-item.data-v-df0c8042 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-list.data-v-df0c8042 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+.uv-list--border.data-v-df0c8042 {
+  position: relative;
+  z-index: -1;
+}
+.uv-list--border-top.data-v-df0c8042 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 1px;
+  transform: scaleY(0.5);
+  background-color: #dadbde;
+  z-index: 1;
+}
+.uv-list--border-bottom.data-v-df0c8042 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: 1px;
+  transform: scaleY(0.5);
+  background-color: #dadbde;
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "场馆列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "drop-down": "../../../components/dropDown/index",
+    "stadium-item": "./components/stadiumItem",
+    "drop-down-city-select": "../../../components/dropDownCitySelect",
+    "uv-sticky": "../../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky"
+  }
+}

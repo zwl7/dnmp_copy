@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-line-progress": "../../../../node-modules/@climblee/uv-ui/components/uv-line-progress/uv-line-progress"
+  }
+}

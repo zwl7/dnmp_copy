@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "服务点单",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "order-item": "./components/OrderItem"
+  }
+}

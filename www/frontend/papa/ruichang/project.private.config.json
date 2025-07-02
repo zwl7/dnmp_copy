@@ -1,0 +1,211 @@
+{
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages-sub/releaseDynamic/index",
+                    "pathName": "pages-sub/releaseDynamic/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/demo/index",
+                    "pathName": "pages-sub/demo/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/demo/index",
+                    "pathName": "pages-sub/demo/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/instructorSite/detail",
+                    "pathName": "pages-sub/instructorSite/detail",
+                    "query": "instructor_site_id=897",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/sportsService/sprotOrder/index",
+                    "pathName": "pagesSub/sportsService/sprotOrder/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/selectOrganization/index",
+                    "pathName": "pages-sub/selectOrganization/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/platform/sportsOrg/index",
+                    "pathName": "pagesSub/platform/sportsOrg/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/sportsService/serviceAssign/organList",
+                    "pathName": "pagesSub/sportsService/serviceAssign/organList",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages/tabbar/home/index",
+                    "pathName": "pages/tabbar/home/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/releaseDynamic/index",
+                    "pathName": "pages-sub/releaseDynamic/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/realname/index",
+                    "pathName": "pages-sub/realname/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/sportsService/serviceStyle/orderStyle",
+                    "pathName": "pagesSub/sportsService/serviceStyle/orderStyle",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/sportsService/serviceStyle/index",
+                    "pathName": "pagesSub/sportsService/serviceStyle/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/instructorRegion/index",
+                    "pathName": "pages-sub/instructorRegion/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/realname/index",
+                    "pathName": "pages-sub/realname/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/instructorSite/index",
+                    "pathName": "pages-sub/instructorSite/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/instructorRegion/index",
+                    "pathName": "pages-sub/instructorRegion/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/instructorSite/index",
+                    "pathName": "pages-sub/instructorSite/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/sportsOrg/index",
+                    "pathName": "pages-sub/sportsOrg/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/releaseDynamic/index",
+                    "pathName": "pages-sub/releaseDynamic/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/platform/yunLesson/index",
+                    "pathName": "pagesSub/platform/yunLesson/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/sportsOrg/index",
+                    "pathName": "pages-sub/sportsOrg/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages-sub/map/index",
+                    "pathName": "pages-sub/map/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/platform/stadium/index",
+                    "pathName": "pagesSub/platform/stadium/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages/personalDetail/index",
+                    "pathName": "pages/personalDetail/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages/tabbar/newHome/index",
+                    "pathName": "pages/tabbar/newHome/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/sportsService/sprotOrder/index",
+                    "pathName": "pagesSub/sportsService/sprotOrder/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pagesSub/sportsService/serviceStyle/index",
+                    "pathName": "pagesSub/sportsService/serviceStyle/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                }
+            ]
+        }
+    },
+    "setting": {
+        "skylineRenderEnable": true,
+        "compileHotReLoad": true
+    },
+    "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+    "libVersion": "3.7.12",
+    "projectname": "%E7%91%9E%E6%98%8C%E5%B8%82%E7%A4%BE%E4%BC%9A%E4%BD%93%E8%82%B2%E6%8C%87%E5%AF%BC%E5%91%98%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0"
+}

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "体质监测详情",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "bottom-button": "../../../components/bottomButton",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uni-icons": "../../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uv-safe-bottom": "../../../node-modules/@climblee/uv-ui/components/uv-safe-bottom/uv-safe-bottom"
+  }
+}

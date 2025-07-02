@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "投票专区",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "vote-item": "./components/voteItem"
+  }
+}

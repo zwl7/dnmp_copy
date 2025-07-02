@@ -1,0 +1,1 @@
+const t={community_id:0,city_id:0,member_id:0,hot:0,type_id:0,name:"",c_time_range:"0",street_id:0,address:"",latitude:0,longitude:0,images:[],banner:"",status:"0",operator:0,amount:0,can_draw_amount:0,has_draw_amount:0,wait_amount:0,freeze_amount:0,c_time:0,u_time:0,des:"",signature:"",activity_num:0,people_num:1,is_auth:"0",pay_conf_id:0,keywords:""};export{t as m};

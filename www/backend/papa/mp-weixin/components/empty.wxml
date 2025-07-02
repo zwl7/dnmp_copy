@@ -1,0 +1,1 @@
+<view class="empty_container empty-class" style="{{'padding-top:' + d}}"><image src="{{a}}" mode="widthFix" class="icon_imgae"></image><view class="title title-class">{{b}}</view><view class="tips tip-class">{{c}}</view></view>

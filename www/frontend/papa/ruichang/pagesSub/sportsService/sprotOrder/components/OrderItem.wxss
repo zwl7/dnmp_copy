@@ -1,0 +1,100 @@
+.order-item.data-v-7b1f9fd4 {
+  position: relative;
+  margin-bottom: 32rpx;
+  background: #fff;
+  border-radius: 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(234, 249, 214, 0.2666666667);
+  overflow: hidden;
+  padding-bottom: 24rpx;
+}
+.status-triangle.data-v-7b1f9fd4 {
+  border-radius: 4rpx;
+  position: absolute;
+  top: 24rpx;
+  right: 24rpx;
+  width: 95rpx;
+  /* 控制三角形宽度 */
+  height: 95rpx;
+  /* 控制三角形高度 */
+  clip-path: polygon(0 0, 100% 0, 104% 104%);
+  /* 裁剪为直角三角形 */
+  border-radius: 20rpx;
+  z-index: 2;
+}
+.status-triangle .title-text.data-v-7b1f9fd4 {
+  font-size: 24rpx;
+  color: #fff;
+  position: absolute;
+  /* 精准计算中点位置（基于 80x80 的三角形） */
+  left: 23%;
+  /* 横向位置：80px 对应 100% */
+  top: 18%;
+  /* 纵向位置：40px 对应 50% */
+  transform: rotate(45deg);
+}
+.title-area.data-v-7b1f9fd4 {
+  background: linear-gradient(225.64deg, rgb(255, 255, 255) 0%, rgb(236, 247, 255) 100%);
+  padding: 24rpx;
+  border-top-left-radius: 20rpx;
+  border-top-right-radius: 20rpx;
+  position: relative;
+}
+.title-area .title.data-v-7b1f9fd4 {
+  font-size: 30rpx;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 12rpx;
+  display: flex;
+}
+.title-area .category-tag.data-v-7b1f9fd4 {
+  display: inline-block;
+  font-size: 24rpx;
+  background: #ddf999;
+  border-radius: 12rpx;
+  padding: 2rpx 12rpx;
+  border-radius: 24rpx;
+  line-height: 36rpx;
+}
+.info-area.data-v-7b1f9fd4 {
+  padding: 18rpx 24rpx 40rpx;
+  color: rgb(144, 147, 153);
+}
+.info-area .info-item.data-v-7b1f9fd4 {
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+  margin-bottom: 12rpx;
+}
+.info-area .info-item .info-text.data-v-7b1f9fd4 {
+  margin-left: 16rpx;
+}
+.bottom-area.data-v-7b1f9fd4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24rpx;
+}
+.bottom-area .submit-time.data-v-7b1f9fd4 {
+  font-size: 24rpx;
+  color: rgb(144, 147, 153);
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.bottom-area .action-btns.data-v-7b1f9fd4 {
+  display: flex;
+  flex-flow: row-reverse;
+  gap: 16rpx;
+  flex: 1;
+  margin-left: 24rpx;
+}
+.bottom-area .action-btns .active.data-v-7b1f9fd4 {
+  border-radius: 100rpx;
+  padding: 8rpx 40rpx;
+  box-sizing: border-box;
+}
+.bottom-area .action-btns .btn-black.data-v-7b1f9fd4 {
+  min-width: 140rpx;
+}
+.bottom-area .action-btns .btn-green.data-v-7b1f9fd4 {
+  min-width: 140rpx;
+}

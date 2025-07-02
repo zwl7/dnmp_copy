@@ -1,0 +1,45 @@
+.bg-white.data-v-2bee5bcc {
+  min-height: 100vh;
+  background-color: #fff;
+}
+.z-paging-content.data-v-2bee5bcc {
+  padding-bottom: 140rpx;
+  background-color: #fff;
+}
+.recommend-container.data-v-2bee5bcc {
+  padding: 48rpx 32rpx;
+  font-size: 28rpx;
+}
+.recommend-container .tab.data-v-2bee5bcc {
+  display: inline-block;
+}
+.recommend-container .recommend-title.data-v-2bee5bcc {
+  font-weight: bold;
+  margin-bottom: 24rpx;
+}
+.recommend-container .recommend-list.data-v-2bee5bcc {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-flow: dense;
+  grid-row-gap: 12rpx;
+  grid-column-gap: 24rpx;
+}
+.recommend-container .recommend-list .recommend-item.data-v-2bee5bcc {
+  padding: 6rpx 32rpx;
+  border-radius: 60rpx;
+  border: 1px solid var(--hubei-primary, #409EFF);
+  color: var(--hubei-primary, #409EFF);
+}
+.search.data-v-2bee5bcc {
+  padding: 0 32rpx;
+  margin-bottom: 32rpx;
+}
+.sticky.data-v-2bee5bcc {
+  top: -1px !important;
+}
+.list-container.data-v-2bee5bcc {
+  padding-bottom: 250rpx;
+}
+.footer-fixed.data-v-2bee5bcc {
+  gap: 20rpx;
+}

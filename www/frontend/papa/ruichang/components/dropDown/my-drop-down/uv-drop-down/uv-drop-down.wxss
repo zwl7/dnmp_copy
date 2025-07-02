@@ -1,0 +1,17 @@
+view.data-v-a6b340ba,
+scroll-view.data-v-a6b340ba,
+swiper-item.data-v-a6b340ba {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-drop-down.data-v-a6b340ba {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  overflow: hidden;
+}

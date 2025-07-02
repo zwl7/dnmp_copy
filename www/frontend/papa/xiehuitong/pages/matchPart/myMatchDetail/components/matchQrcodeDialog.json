@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-popup": "../../../../node-modules/@climblee/uv-ui/components/uv-popup/uv-popup",
+    "uv-qrcode": "../../../../node-modules/@climblee/uv-ui/components/uv-qrcode/uv-qrcode"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-sticky": "../../../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky"
+  }
+}

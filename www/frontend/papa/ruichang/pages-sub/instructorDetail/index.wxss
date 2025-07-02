@@ -1,0 +1,9 @@
+.page-main-container.data-v-11b22c0f {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+  background-image: url("https://cdn-static.papa.com.cn/social/instruct_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}

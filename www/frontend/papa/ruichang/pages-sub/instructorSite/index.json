@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "站点",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "list-search": "../../components/SearchComponent/listSearch",
+    "instructor-site-item": "./components/InstructorSiteItem",
+    "instructor-drop-down": "./components/instructorDropDown",
+    "nav-bar": "../../components/navBar/index",
+    "uv-sticky": "../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky",
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

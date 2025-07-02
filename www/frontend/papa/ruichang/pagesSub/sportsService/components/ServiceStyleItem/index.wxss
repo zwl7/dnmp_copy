@@ -1,0 +1,171 @@
+.styleItem.data-v-aa255743 {
+  padding: 24rpx;
+  margin-bottom: 24rpx;
+  background: #fbfefa;
+  border-radius: 40rpx;
+}
+.tags.data-v-aa255743 {
+  display: flex;
+  width: 100%;
+  margin-bottom: 28rpx;
+  background: var(--hubei-card-bg2, rgba(64, 158, 255, 0.1));
+  border-radius: 200rpx;
+}
+.tag.data-v-aa255743 {
+  height: 52rpx;
+  font-size: 28rpx;
+}
+.green.data-v-aa255743 {
+  z-index: 2;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 28rpx;
+  font-family: "YouSheBiaoTiHei";
+  color: #fff;
+  text-shadow: 1px 1px 0 var(--hubei-primary, #409eff);
+  background: var(--hubei-primary, #409eff);
+  border: 1px solid var(--hubei-primary, #409eff);
+  border-radius: 200rpx;
+}
+.shallowGreen.data-v-aa255743 {
+  z-index: 1;
+  flex-grow: 1;
+  padding-left: 24rpx;
+  line-height: 52rpx;
+  color: var(--hubei-primary, #409eff);
+}
+.user-info.data-v-aa255743 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+  gap: 24rpx;
+}
+.user-info .user-meta.data-v-aa255743 {
+  display: flex;
+  flex-direction: column;
+}
+.user-info .level-img.data-v-aa255743 {
+  width: 102rpx;
+  height: 36rpx;
+}
+.avatar.data-v-aa255743 {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+.nickname.data-v-aa255743 {
+  font-size: 14px;
+  font-weight: bold;
+}
+.tag-level.data-v-aa255743 {
+  margin-left: 4px;
+  font-size: 12px;
+  color: #faad14;
+}
+.time.data-v-aa255743 {
+  font-size: 12px;
+  color: #999;
+}
+.content.data-v-aa255743 {
+  margin: 24rpx 0;
+  font-size: 28rpx;
+  color: #303133;
+  line-height: 44rpx;
+}
+.img-list.data-v-aa255743 {
+  display: flex;
+  gap: 16rpx;
+  margin: 24rpx auto;
+}
+.img-list .img-item.data-v-aa255743 {
+  width: 208rpx;
+  height: 208rpx;
+  border-radius: 24rpx;
+}
+.img-list-box.data-v-aa255743 image {
+  border-radius: 24rpx;
+}
+.img.data-v-aa255743 {
+  width: 70px;
+  height: 70px;
+  border-radius: 8px;
+}
+.meta-bottom.data-v-aa255743 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 6px;
+}
+.participants.data-v-aa255743 {
+  display: flex;
+  align-items: center;
+}
+.p-avatar.data-v-aa255743 {
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+  border-radius: 50%;
+}
+.count.data-v-aa255743 {
+  margin-left: 4px;
+  font-size: 12px;
+  color: #888;
+}
+.actions.data-v-aa255743 {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 24rpx;
+}
+.actions .action.data-v-aa255743 {
+  display: flex;
+  align-items: center;
+  gap: 10rpx;
+  color: #666;
+  cursor: pointer;
+}
+.actions .share-btn.data-v-aa255743 {
+  background: transparent;
+}
+.action .iconfont.data-v-aa255743 {
+  margin-right: 2px;
+  font-size: 16px;
+}
+.location.data-v-aa255743 {
+  display: flex;
+  gap: 14rpx;
+  margin: 24rpx 0 32rpx;
+  font-size: 24rpx;
+  line-height: 40rpx;
+  color: #a8abb2;
+}
+.avaterGroup.data-v-aa255743 {
+  margin-right: 37rpx;
+}
+.avaterGroup .avatar.data-v-aa255743 {
+  margin-right: -25rpx;
+  border: 2px solid #fff;
+  border-radius: 50%;
+}
+.action-icon.data-v-aa255743 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.rate-popup.data-v-aa255743 {
+  width: 280px;
+  text-align: left;
+  background: #fff;
+  border-radius: 16px;
+}
+.rate-popup .rate-desc.data-v-aa255743 {
+  margin-bottom: 16px;
+  margin-top: 40rpx;
+  font-size: 30rpx;
+  font-weight: 400;
+}
+.rate-popup .rate-text.data-v-aa255743 {
+  font-size: 30rpx;
+  color: #666;
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "drop-down": "../../../components/dropDown/index",
+    "drop-down-city-select": "../../../components/dropDown/dropDownCitySelect",
+    "drop-down-project-select": "../../../components/dropDown/dropDownProjectSelect"
+  }
+}

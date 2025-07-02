@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "选手资料",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "vote-success-dialog": "./components/voteSuccessDialog",
+    "bottom-button": "../../../components/bottomButton",
+    "uv-safe-bottom": "../../../node-modules/@climblee/uv-ui/components/uv-safe-bottom/uv-safe-bottom"
+  }
+}

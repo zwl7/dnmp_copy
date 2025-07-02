@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "报名信息",
+  "usingComponents": {
+    "uv-qrcode": "../../../node-modules/@climblee/uv-ui/components/uv-qrcode/uv-qrcode"
+  }
+}

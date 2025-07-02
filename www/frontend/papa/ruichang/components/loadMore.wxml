@@ -1,0 +1,1 @@
+<view class="load-more-container"><uv-load-more wx:if="{{a}}" u-i="dd2dffde-0" bind:__l="__l" u-p="{{a}}"/></view>

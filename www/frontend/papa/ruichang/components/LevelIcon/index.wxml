@@ -1,0 +1,1 @@
+<view class="data-v-6b7b8a05"><view wx:if="{{a}}" class="icon-level u-level data-v-6b7b8a05" style="{{d}}"><uv-icon wx:if="{{b}}" class="data-v-6b7b8a05" u-i="6b7b8a05-0" bind:__l="__l" u-p="{{b}}"></uv-icon><text class="data-v-6b7b8a05">{{c}}</text></view><view wx:else class="empty data-v-6b7b8a05">暂无级别</view></view>

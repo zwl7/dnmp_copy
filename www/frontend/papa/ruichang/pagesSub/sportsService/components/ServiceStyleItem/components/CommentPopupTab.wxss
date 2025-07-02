@@ -1,0 +1,26 @@
+.tab-container.data-v-7110391b {
+  display: flex;
+  width: 100%;
+  height: 56rpx;
+  background: #fff;
+  border-radius: 32rpx;
+  border: 2rpx solid #222;
+  overflow: hidden;
+}
+.tab-item.data-v-7110391b {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28rpx;
+  color: #222;
+  background: #fff;
+  transition: all 0.2s;
+  height: 100%;
+  cursor: pointer;
+}
+.tab-item.active.data-v-7110391b {
+  background: #222;
+  color: #c5f730;
+  border-radius: 32rpx;
+}

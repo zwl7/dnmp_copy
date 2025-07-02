@@ -1,0 +1,106 @@
+.service-assign.data-v-3c49f847 {
+  min-height: 100vh;
+  background-color: var(--hubei-list-page-bg-color, #f7f8fa);
+}
+.service-assign .header .title.data-v-3c49f847 {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.service-assign .header .tabs.data-v-3c49f847 {
+  display: flex;
+  border-bottom: 1px solid #eee;
+}
+.service-assign .header .tabs .tab-item.data-v-3c49f847 {
+  position: relative;
+  flex: 1;
+  padding: 20px 0;
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+}
+.service-assign .header .tabs .tab-item .count.data-v-3c49f847 {
+  font-size: 12px;
+  color: #999;
+}
+.service-assign .header .tabs .tab-item.active.data-v-3c49f847 {
+  font-weight: bold;
+  color: #2979ff;
+}
+.service-assign .header .tabs .tab-item.active.data-v-3c49f847::after {
+  position: absolute;
+  bottom: -1px;
+  left: 50%;
+  width: 40px;
+  height: 4px;
+  content: "";
+  background-color: #2979ff;
+  transform: translateX(-50%);
+}
+.tab-bar-scroll.data-v-3c49f847 {
+  width: 100vw;
+  background: transparent;
+  margin-top: -32rpx;
+  margin-bottom: 12rpx;
+}
+.tab-bar.data-v-3c49f847 {
+  display: flex;
+  background: #fff;
+  border-radius: 40rpx;
+  box-shadow: 0 2rpx 8rpx #eaf9d6;
+  padding: 8rpx 12rpx;
+  margin: 0 24rpx;
+  overflow-x: auto;
+}
+.tab-bar .tab-item.data-v-3c49f847 {
+  min-width: 120rpx;
+  padding: 12rpx 0;
+  margin: 0 12rpx;
+  font-size: 28rpx;
+  color: #888;
+  text-align: center;
+  border-radius: 32rpx;
+  background: transparent;
+  transition: all 0.2s;
+}
+.tab-bar .tab-item.active.data-v-3c49f847 {
+  color: #fff;
+  background: linear-gradient(90deg, #b6f730 0%, #7bb800 100%);
+  font-weight: 700;
+  box-shadow: 0 2rpx 8rpx rgba(182, 247, 48, 0.2666666667);
+}
+.order-header.data-v-3c49f847 {
+  width: 100vw;
+  height: 370rpx;
+  background: url("https://cdn-static.papa.com.cn/social/sportsService/organAssignBg.png");
+  background-size: cover;
+  position: relative;
+}
+.order-header .header-content.data-v-3c49f847 {
+  position: absolute;
+  bottom: 50rpx;
+  left: 32rpx;
+  z-index: 2;
+}
+.order-header .header-content .header-title.data-v-3c49f847 {
+  display: flex;
+  gap: 22rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+  color: rgb(48, 49, 51);
+  line-height: 44rpx;
+}
+.order-header .header-content .header-desc.data-v-3c49f847 {
+  font-size: 32rpx;
+  color: rgb(48, 49, 51);
+  background: linear-gradient(90deg, rgb(140, 244, 188) 0%, rgb(225, 255, 122) 100%);
+  display: inline-block;
+  border-radius: 26rpx;
+  padding: 0 24rpx;
+  line-height: 56rpx;
+}
+.order-list.data-v-3c49f847 {
+  box-sizing: border-box;
+  padding: 36rpx 32rpx 24rpx;
+  background: transparent;
+}

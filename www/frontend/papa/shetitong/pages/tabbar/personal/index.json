@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "user-info-card": "./components/userInfo",
+    "levelcard": "./components/levelCard",
+    "func-card": "./components/funcCard",
+    "data-card": "./components/dataCard"
+  }
+}

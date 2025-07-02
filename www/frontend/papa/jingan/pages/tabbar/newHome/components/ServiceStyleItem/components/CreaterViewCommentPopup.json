@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "circle-progress": "../../../../../../components/CircleProgress/index",
+    "center-popue": "../../../../../../components/centerPopue/index",
+    "comment-popup-tab": "./CommentPopupTab",
+    "uv-rate": "../../../../../../node-modules/@climblee/uv-ui/components/uv-rate/uv-rate"
+  }
+}

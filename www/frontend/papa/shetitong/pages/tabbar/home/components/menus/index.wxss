@@ -1,0 +1,82 @@
+.menu-out-box.data-v-9cb79776 {
+  position: relative;
+  z-index: 10;
+  margin: -80rpx 32rpx 0;
+  box-sizing: border-box;
+  background: #ffffff;
+  border-radius: 24rpx;
+  box-shadow: 0px 1px 4px rgba(26, 163, 135, 0.08), 0px 0px 18px rgba(0, 133, 82, 0.09);
+}
+.dot.data-v-9cb79776 {
+  width: 100%;
+  padding-bottom: 20rpx;
+}
+.dot .instruct.data-v-9cb79776 {
+  width: 50rpx;
+  height: 36rpx;
+  line-height: 36rpx;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 16rpx;
+  font-size: 24rpx;
+  text-align: center;
+}
+.dot .dot-item.data-v-9cb79776 {
+  width: 10rpx;
+  height: 10rpx;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 50%;
+  margin: 0 4px;
+}
+.dot .dot-item.line_dot-item.data-v-9cb79776 {
+  width: 20rpx;
+  height: 5rpx;
+  border-radius: 3rpx;
+}
+.nav.oneNav.data-v-9cb79776 {
+  padding-bottom: 25rpx;
+}
+.nav .item.data-v-9cb79776 {
+  margin-top: 30rpx;
+  width: 160rpx;
+  text-align: center;
+  font-size: 24rpx;
+  display: inline-block;
+  color: #303313;
+}
+.nav .item .pictrue.data-v-9cb79776 {
+  width: 92rpx;
+  height: 92rpx;
+  margin: 0 auto;
+}
+.nav .item .pictrue image.data-v-9cb79776 {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.nav .item .pictrue.on image.data-v-9cb79776 {
+  border-radius: 0;
+}
+.nav .item .menu-txt.data-v-9cb79776 {
+  margin-top: 15rpx;
+}
+.swiper.data-v-9cb79776 {
+  z-index: 20;
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 30rpx;
+}
+.swiper .nav .item.data-v-9cb79776 {
+  width: 33.3333%;
+}
+.swiper .nav .item.four.data-v-9cb79776 {
+  width: 25%;
+}
+.swiper .nav .item.five.data-v-9cb79776 {
+  width: 20%;
+}
+.swiper swiper.data-v-9cb79776,
+.swiper .swiper-item.data-v-9cb79776 {
+  width: 100%;
+  display: block;
+}

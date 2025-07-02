@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "map-item": "./mapItem",
+    "uni-icons": "../../../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uv-popup": "../../../../node-modules/@climblee/uv-ui/components/uv-popup/uv-popup"
+  }
+}

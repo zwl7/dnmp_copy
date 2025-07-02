@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "测试文件",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pa-tag": "../../components/paTag/index",
+    "bottom-button": "../../components/bottomButton"
+  }
+}

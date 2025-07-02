@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-text": "../../../../node-modules/@climblee/uv-ui/components/uv-text/uv-text",
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-transition": "../../../../node-modules/@climblee/uv-ui/components/uv-transition/uv-transition"
+  }
+}

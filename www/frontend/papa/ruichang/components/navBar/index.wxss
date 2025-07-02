@@ -1,0 +1,105 @@
+.nav-bar.data-v-daf2569b {
+  box-sizing: border-box;
+  width: 100%;
+  z-index: 999;
+  top: 0;
+}
+.nav-bar .left.data-v-daf2569b {
+  position: absolute;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.commonHead_wrap.data-v-daf2569b {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  position: relative;
+}
+.commonHead_left.data-v-daf2569b {
+  font-size: 30rpx;
+  align-items: center;
+  display: flex;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.commonHead_left .title.data-v-daf2569b {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.commonHead_left .back.data-v-daf2569b {
+  width: 56rpx;
+  height: 56rpx;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20rpx;
+}
+.commonHead_left .right_box.data-v-daf2569b {
+  flex: 1;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  padding: 0 52rpx;
+}
+.commonHead_left .right_box .search_box.data-v-daf2569b {
+  width: 100%;
+  height: 100%;
+  background-color: #f7f9fc;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  padding: 0 28rpx;
+  color: #a8abb2;
+  font-size: 28rpx;
+}
+.commonHead_left .right_box .search_box .text.data-v-daf2569b {
+  margin-left: 16rpx;
+}
+.commonHead_center.data-v-daf2569b {
+  font-size: 30rpx;
+  width: 100%;
+  height: 100%;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-align: center;
+  color: #fff;
+  font-size: 34rpx;
+}
+.commonHead_center_text.data-v-daf2569b {
+  margin: 0 auto;
+  line-height: 100%;
+  height: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 282rpx;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  font-size: 30rpx;
+}
+.right_logo.data-v-daf2569b {
+  display: block;
+  width: 74rpx;
+  height: 74rpx;
+  float: right;
+}

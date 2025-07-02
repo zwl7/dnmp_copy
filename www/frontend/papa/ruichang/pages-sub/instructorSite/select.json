@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "选择站点",
+  "usingComponents": {
+    "list-search": "../../components/SearchComponent/listSearch",
+    "instructor-site-item": "../../components/InstructorSiteItem/index",
+    "uv-sticky": "../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky",
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "场馆详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "stadium-recommend": "../../components/stadiumRecommend",
+    "good-nav": "../../components/goodNav/goodNav"
+  }
+}

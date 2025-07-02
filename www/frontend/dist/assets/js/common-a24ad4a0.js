@@ -1,0 +1,1 @@
+import{C as o}from"./index-73817fb6.js";const s=t=>o.post("/pub/export/taskRate",t,{}),r=t=>o.post("/pub/export/task",t,{}),a=t=>o.post("/pub/export/taskDel",t,{}),n=t=>o.post("/sportOnlinePlatform/config/getAll",t,{headers:{noLoading:!0}}),p=t=>o.post("/sportOnlinePlatform/config/update",t,{headers:{noLoading:!0}});export{r as a,s as b,n as g,a as t,p as u};

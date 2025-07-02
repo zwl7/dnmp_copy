@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "体育人才详情",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "nav-bar": "../../components/navBar",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

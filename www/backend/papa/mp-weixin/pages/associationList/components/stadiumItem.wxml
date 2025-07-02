@@ -1,0 +1,1 @@
+<view class="association_item data-v-e3d5a866" bindtap="{{d}}"><image class="v_image data-v-e3d5a866" src="{{a}}"/><view class="data-v-e3d5a866"><view class="name data-v-e3d5a866">{{b}}</view><view class="address data-v-e3d5a866">位置: {{c}}</view></view></view>

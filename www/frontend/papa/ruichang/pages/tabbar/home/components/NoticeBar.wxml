@@ -1,0 +1,1 @@
+<view class="notice-bar-box data-v-aded5f58"><uv-notice-bar wx:if="{{c}}" class="data-v-aded5f58" bindclick="{{a}}" bindclose="{{b}}" u-i="aded5f58-0" bind:__l="__l" u-p="{{c}}"></uv-notice-bar></view>

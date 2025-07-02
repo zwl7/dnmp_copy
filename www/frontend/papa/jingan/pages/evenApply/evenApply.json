@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我要办赛",
+  "usingComponents": {
+    "apply-item": "./components/ApplyItem"
+  }
+}

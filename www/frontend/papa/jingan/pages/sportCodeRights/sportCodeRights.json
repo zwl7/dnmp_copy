@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "运动码权益",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "sport-code-card": "./components/sportCodeCard",
+    "equity-info-card": "./components/equityInfoCard"
+  }
+}

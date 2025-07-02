@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "认证详情",
+  "usingComponents": {
+    "train-apply-form": "../trainApply/form"
+  }
+}

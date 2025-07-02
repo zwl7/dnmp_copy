@@ -1,0 +1,28 @@
+.apply-container.data-v-74996d59 {
+  padding-top: 32rpx;
+  min-height: 100%;
+  background-color: #fff;
+}
+.apply-container .color-grey.data-v-74996d59 {
+  color: rgb(122, 134, 154);
+}
+.apply-container .w-50.data-v-74996d59 {
+  width: 50%;
+}
+.apply-container .pd-32.data-v-74996d59 {
+  padding: 32rpx;
+}
+.apply-container .flex-justify-center.data-v-74996d59 {
+  display: flex;
+  justify-content: center;
+}
+.apply-container .flex-between.data-v-74996d59 {
+  display: flex;
+  justify-content: space-between;
+}
+.apply-container .form-container.data-v-74996d59 {
+  padding: 0 32rpx;
+  font-size: 28rpx;
+  color: #606266;
+  font-weight: 400;
+}

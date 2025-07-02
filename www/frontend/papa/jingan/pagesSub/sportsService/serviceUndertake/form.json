@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "发布服务承接",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "img-upload": "../../../components/upload/imgs",
+    "uv-input": "../../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-form-item": "../../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-textarea": "../../../node-modules/@climblee/uv-ui/components/uv-textarea/uv-textarea",
+    "uv-datetime-picker": "../../../node-modules/@climblee/uv-ui/components/uv-datetime-picker/uv-datetime-picker",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-form": "../../../node-modules/@climblee/uv-ui/components/uv-form/uv-form"
+  }
+}

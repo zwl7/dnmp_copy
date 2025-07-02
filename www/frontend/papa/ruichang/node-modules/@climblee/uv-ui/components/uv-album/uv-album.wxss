@@ -1,0 +1,35 @@
+view.data-v-dd839e47,
+scroll-view.data-v-dd839e47,
+swiper-item.data-v-dd839e47 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-album.data-v-dd839e47 {
+  display: flex;
+  flex-direction: column;
+}
+.uv-album__row.data-v-dd839e47 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.uv-album__row__wrapper.data-v-dd839e47 {
+  position: relative;
+}
+.uv-album__row__wrapper__text.data-v-dd839e47 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

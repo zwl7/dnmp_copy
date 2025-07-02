@@ -1,0 +1,31 @@
+.activity-container .r-container.data-v-e6691b57 {
+  margin: 20rpx 40rpx 0rpx 40rpx;
+  padding: 10rpx;
+  border-radius: 8rpx;
+  background: white;
+}
+.activity-container .r-container .r-header.data-v-e6691b57 {
+  justify-content: space-between;
+}
+.activity-container .r-container .r-header .r-title.data-v-e6691b57 {
+  overflow: auto;
+}
+.activity-container .r-container .r-header .r-tag.data-v-e6691b57 {
+  float: right;
+}
+.activity-container .r-container hr.data-v-e6691b57 {
+  opacity: 0.1;
+  background: rgb(235, 237, 240);
+}
+.activity-container .r-container .r-content.data-v-e6691b57 {
+  font-size: 26rpx;
+  color: rgb(96, 98, 102);
+}
+.activity-container .r-container .r-content .r-text.data-v-e6691b57 {
+  padding: 20rpx;
+  display: flex;
+  flex-direction: row;
+}
+.activity-container .r-container .r-content .r-text.data-v-e6691b57 :first-child {
+  width: 150rpx;
+}

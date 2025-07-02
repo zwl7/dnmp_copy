@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "选择站点",
+  "usingComponents": {
+    "uv-tags": "../../node-modules/@climblee/uv-ui/components/uv-tags/uv-tags",
+    "uv-search": "../../node-modules/@climblee/uv-ui/components/uv-search/uv-search",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-cell": "../../node-modules/@climblee/uv-ui/components/uv-cell/uv-cell",
+    "uv-list-item": "../../node-modules/@climblee/uv-ui/components/uv-list-item/uv-list-item",
+    "uv-list": "../../node-modules/@climblee/uv-ui/components/uv-list/uv-list",
+    "uv-button": "../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

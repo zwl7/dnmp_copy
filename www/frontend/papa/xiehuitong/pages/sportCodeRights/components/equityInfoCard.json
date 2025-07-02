@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "equity-info-card-item": "./equityInfoCardItem"
+  }
+}

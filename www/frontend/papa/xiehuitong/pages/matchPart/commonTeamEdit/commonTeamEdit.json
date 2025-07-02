@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "编辑团队",
+  "usingComponents": {
+    "bottom-button": "../../../components/bottomButton",
+    "round-button": "../components/roundButton",
+    "common-team-user-list": "../components/commonTeamUserList",
+    "uv-input": "../../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

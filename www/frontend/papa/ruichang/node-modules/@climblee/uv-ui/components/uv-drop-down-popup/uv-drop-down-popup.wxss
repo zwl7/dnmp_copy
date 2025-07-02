@@ -1,0 +1,8 @@
+.uv-dp__container.data-v-0fdf0659 {
+  overflow: hidden;
+  transition: all 0.15s;
+  background-color: #fff;
+}
+.uv-dp__container__list--item.data-v-0fdf0659 {
+  padding: 20rpx 60rpx;
+}

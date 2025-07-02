@@ -1,0 +1,10 @@
+.train-form.data-v-381bdc7b {
+  padding: 0 32rpx;
+  font-size: 28rpx;
+  color: #606266;
+  font-weight: 400;
+}
+.center.data-v-381bdc7b {
+  display: flex;
+  justify-content: center;
+}

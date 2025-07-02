@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "预约凭证",
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "sport-code-card": "../../../pages/sportCodeRights/components/sportCodeCard",
+    "order-code-card": "../../../pages/orderVoucher/components/orderCodeCard",
+    "bottom-button": "../../../components/bottomButton"
+  }
+}

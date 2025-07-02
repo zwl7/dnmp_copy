@@ -1,0 +1,1 @@
+<layout-default-uni u-s="{{['d']}}" u-i="23988ab5-0" bind:__l="__l"><view class="h-full flex items-center justify-center -mt-12"><uv-empty wx:if="{{a}}" u-i="23988ab5-1,23988ab5-0" bind:__l="__l" u-p="{{a}}"></uv-empty></view></layout-default-uni>

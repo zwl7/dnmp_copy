@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "人才详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

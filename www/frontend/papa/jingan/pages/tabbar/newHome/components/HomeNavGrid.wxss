@@ -1,0 +1,24 @@
+
+.nav-grid.data-v-6fb11f60 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin: 16px 0 8px 0;
+}
+.nav-item.data-v-6fb11f60 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  padding: 8px 0;
+}
+.nav-icon.data-v-6fb11f60 {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 4px;
+}
+.nav-title.data-v-6fb11f60 {
+  font-size: 13px;
+  color: #333;
+}

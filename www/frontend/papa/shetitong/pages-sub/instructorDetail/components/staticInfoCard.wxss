@@ -1,0 +1,41 @@
+.train-des.data-v-b262da91 {
+  position: relative;
+  border-radius: 24rpx;
+  padding: 32rpx 32rpx 10rpx;
+  background-color: #fff;
+  min-height: 200rpx;
+  box-shadow: 0px 1px 4px rgba(26, 163, 135, 0.08), 0px 0px 18px rgba(0, 133, 82, 0.09);
+}
+.train-des .des-title.data-v-b262da91 {
+  font-size: 32rpx;
+  font-weight: 610;
+  display: flex;
+  align-items: center;
+  color: #323233;
+}
+.train-des .des-title .image.data-v-b262da91 {
+  display: block;
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 12rpx;
+}
+.train-des .des-item.data-v-b262da91 {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 32rpx;
+  font-weight: 500;
+  font-size: 28rpx;
+}
+.train-des .des-item .i-title.data-v-b262da91 {
+  padding-bottom: 16rpx;
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.train-des .des-item.data-v-b262da91:last-child {
+  padding-top: 16rpx;
+  color: #606266;
+}
+.train-des .des-content.data-v-b262da91 {
+  margin-top: 16rpx;
+  color: #303313;
+}

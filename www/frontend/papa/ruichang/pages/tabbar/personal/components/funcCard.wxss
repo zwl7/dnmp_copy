@@ -1,0 +1,52 @@
+.func-card-out.data-v-19a811ad {
+  box-sizing: border-box;
+  background-color: #fff;
+  padding: 32rpx 0;
+  border-radius: 24rpx;
+  margin: 0 32rpx 24rpx;
+}
+.func-card-out .func-card.data-v-19a811ad {
+  box-sizing: border-box;
+}
+.func-card-out .func-card .card-header.data-v-19a811ad {
+  display: flex;
+  align-items: center;
+  margin-bottom: 32rpx;
+  padding: 0 32rpx;
+}
+.func-card-out .func-card .card-header .card-header-image.data-v-19a811ad {
+  display: block;
+  width: 36rpx;
+  height: 36rpx;
+  margin-right: 12rpx;
+}
+.func-card-out .func-card .card-header .card-header-title.data-v-19a811ad {
+  color: #303313;
+  font-size: 32rpx;
+  line-height: 48rpx;
+  font-weight: 600;
+  box-sizing: border-box;
+}
+.func-card-out .func-card .card-container .text-tip.data-v-19a811ad {
+  font-size: 26rpx;
+  height: 44rpx;
+  color: #303313;
+  margin-top: 12rpx;
+}
+.card-icon-text.data-v-19a811ad {
+  position: absolute;
+  top: 0rpx;
+  right: 12rpx;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30rpx;
+  height: 30rpx;
+  background: red;
+  border-radius: 50%;
+  font-size: 24rpx;
+  color: #fff;
+  font-weight: 400;
+  padding: 4rpx;
+}

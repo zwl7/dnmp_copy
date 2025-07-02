@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "custom-swiper-indicator": "../custom-swiper-indicator/custom-swiper-indicator",
+    "uv-loading-icon": "../../../../../node-modules/@climblee/uv-ui/components/uv-loading-icon/uv-loading-icon"
+  }
+}

@@ -1,0 +1,28 @@
+.card-out.data-v-b70cc798 {
+  margin: 0 32rpx 32rpx;
+  box-sizing: border-box;
+}
+.card.data-v-b70cc798 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20rpx 24rpx;
+  background: rgb(255, 255, 255);
+  border-radius: 24rpx;
+}
+.level.data-v-b70cc798,
+.rating.data-v-b70cc798 {
+  display: flex;
+  align-items: center;
+  font-size: 28rpx;
+  color: #606266;
+  line-height: 1;
+}
+.badge.data-v-b70cc798 {
+  margin: 0 10rpx;
+}
+.stars.data-v-b70cc798 {
+  display: flex;
+  align-items: center;
+  margin: 0 10rpx;
+}

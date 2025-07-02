@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "信息编辑",
+  "usingComponents": {
+    "pa-form": "../../../components/paForm/paForm",
+    "base-info-form": "./components/baseInfoForm",
+    "bottom-button": "../../../components/bottomButton",
+    "uv-safe-bottom": "../../../node-modules/@climblee/uv-ui/components/uv-safe-bottom/uv-safe-bottom"
+  }
+}

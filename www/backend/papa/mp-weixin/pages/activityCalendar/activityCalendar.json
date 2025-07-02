@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "活动日历",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "activity-calender-header": "./components/activityCalenderHeader",
+    "select-search": "./components/selectSearch",
+    "activity-item": "../activityAll/components/activityItem",
+    "uni-load-more": "../../uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

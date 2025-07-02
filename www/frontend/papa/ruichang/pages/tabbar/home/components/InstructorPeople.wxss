@@ -1,0 +1,57 @@
+.flex.data-v-393a2060 {
+  display: flex;
+  align-items: center;
+}
+.main-container.data-v-393a2060 {
+  margin: 32rpx 24rpx 0;
+}
+.list-container.data-v-393a2060 {
+  padding-bottom: 24rpx;
+  overflow: scroll;
+  display: flex;
+}
+.item.data-v-393a2060 {
+  margin-right: 16rpx;
+  padding: 18rpx 36rpx 24rpx;
+  text-align: center;
+  border-radius: 20rpx;
+  background: linear-gradient(180deg, #fff6eb 0%, #ffffff 100%);
+}
+.name.data-v-393a2060 {
+  font-size: 30rpx;
+  color: #303133;
+  font-weight: 500;
+}
+.tag.data-v-393a2060 {
+  margin: 6rpx 0 24rpx;
+  height: 17px;
+  font-size: 24rpx;
+  color: #ff9900;
+  border: 1px solid #ff9900;
+  border-radius: 8rpx;
+}
+.avatar-container.data-v-393a2060 {
+  position: relative;
+}
+.avatar.data-v-393a2060 {
+  width: 128rpx;
+  height: 128rpx;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.avatar .img.data-v-393a2060 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.medal.data-v-393a2060 {
+  position: absolute;
+  bottom: -14rpx;
+  min-width: 112rpx;
+  height: 36rpx;
+}
+.medal .img.data-v-393a2060 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}

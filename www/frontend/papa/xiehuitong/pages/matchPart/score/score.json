@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "赛事成绩",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "score-list": "./components/scoreList",
+    "nav-bar": "../../../components/navBar",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-picker": "../../../node-modules/@climblee/uv-ui/components/uv-picker/uv-picker"
+  }
+}

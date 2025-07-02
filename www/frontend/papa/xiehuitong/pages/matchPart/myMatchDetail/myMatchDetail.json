@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "赛事详情",
+  "usingComponents": {
+    "date-ball-item": "../../matchIndex/components/dateBallItem",
+    "match-group-info": "./components/matchGroupInfo",
+    "match-user-info-box": "./components/matchUserInfoBox",
+    "match-team-user-info": "./components/matchTeamUserInfo",
+    "match-qrcode-dialog": "./components/matchQrcodeDialog",
+    "insurance-card-vue": "../../../components/insurance/insuranceCard"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "办赛详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar",
+    "pa-form-detail": "../../components/paForm/paFormDetail"
+  }
+}

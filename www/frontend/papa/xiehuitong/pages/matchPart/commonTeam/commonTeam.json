@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "常用团队",
+  "usingComponents": {
+    "bottom-button": "../../../components/bottomButton",
+    "ceil-line": "../components/ceilLine",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

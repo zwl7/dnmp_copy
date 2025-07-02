@@ -1,0 +1,7 @@
+.user-info.data-v-17908de4 {
+  opacity: 1;
+  z-index: 1;
+}
+.user-info .uv-id.data-v-17908de4 {
+  color: rgb(165, 173, 186);
+}

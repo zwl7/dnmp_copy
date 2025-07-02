@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "个人资料",
+  "usingComponents": {
+    "uv-avatar": "../../node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-form-item": "../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-input": "../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-picker": "../../node-modules/@climblee/uv-ui/components/uv-picker/uv-picker",
+    "uv-form": "../../node-modules/@climblee/uv-ui/components/uv-form/uv-form",
+    "uv-button": "../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

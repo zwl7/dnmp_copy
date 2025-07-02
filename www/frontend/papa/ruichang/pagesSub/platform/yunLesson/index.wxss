@@ -1,0 +1,46 @@
+.page.data-v-48f1ebd8 {
+  box-sizing: border-box;
+  min-height: 100vh;
+  background: var(--hubei-list-page-bg-color, #f7f8fa);
+}
+.main_content_container.data-v-48f1ebd8 {
+  position: relative;
+}
+.nav_top_bg.data-v-48f1ebd8 {
+  height: 290rpx;
+}
+.nav_top_bg .image.data-v-48f1ebd8 {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.tab_container.data-v-48f1ebd8 {
+  position: sticky;
+  box-shadow: 0 -1px var(--hubei-list-page-bg-color, #f7f8fa);
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background-color: transparent;
+}
+.page-pad.data-v-48f1ebd8 {
+  padding: 0 32rpx 22rpx 32rpx;
+  margin-top: 30rpx;
+  box-sizing: border-box;
+}
+.main_list.data-v-48f1ebd8 {
+  padding: 0 32rpx 0 32rpx;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+.main_list .main_list_item.data-v-48f1ebd8 {
+  width: 50%;
+  box-sizing: border-box;
+  margin-bottom: 22rpx;
+}
+.main_list .main_list_item.data-v-48f1ebd8:nth-child(odd) {
+  padding-right: 11rpx;
+}
+.main_list .main_list_item.data-v-48f1ebd8:nth-child(even) {
+  padding-left: 11rpx;
+}

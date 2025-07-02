@@ -1,0 +1,1 @@
+<layout-default-uni class="data-v-8a7adf72" u-s="{{['d']}}" u-i="8a7adf72-0" bind:__l="__l"><view class="data-v-8a7adf72"><nav-bar wx:if="{{a}}" class="data-v-8a7adf72" u-i="8a7adf72-1,8a7adf72-0" bind:__l="__l" u-p="{{a}}"/><image src="https://cdn-static.papa.com.cn/jingAn/static.png" mode="widthFix" class="bg-img data-v-8a7adf72"/></view></layout-default-uni>

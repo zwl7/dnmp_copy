@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-notice-bar": "../../../../node-modules/@climblee/uv-ui/components/uv-notice-bar/uv-notice-bar"
+  }
+}

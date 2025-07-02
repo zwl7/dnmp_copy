@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "reject-popue": "./rejectPopue",
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

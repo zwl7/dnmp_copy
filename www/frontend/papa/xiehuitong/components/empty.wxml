@@ -1,0 +1,1 @@
+<view style="{{'padding-top:' + b}}"><uv-empty wx:if="{{a}}" u-i="5cb03ae7-0" bind:__l="__l" u-p="{{a}}"></uv-empty></view>

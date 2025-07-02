@@ -1,0 +1,1 @@
+<view class="service-order-banner data-v-47c99fe1" bindtap="{{b}}"><image src="{{a}}" class="banner-img data-v-47c99fe1" mode="aspectFill"/><slot></slot></view>

@@ -1,0 +1,62 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.order-card.data-v-fe8cdfb4 {
+  opacity: 1;
+  border-radius: 24rpx;
+  background: linear-gradient(180deg, rgb(213, 235, 255) 0%, rgb(255, 255, 255) 30%);
+  box-shadow: 0px 6rpx 16rpx rgba(20, 66, 112, 0.07);
+  padding: 32rpx;
+}
+.order-card .header.data-v-fe8cdfb4 {
+  font-size: 32rpx;
+  font-weight: 600;
+  line-height: 44rpx;
+  color: rgb(37, 56, 88);
+}
+.order-card .body .row-1.data-v-fe8cdfb4 {
+  padding: 36rpx 0rpx;
+}
+.order-card .body .row-1 .icon.data-v-fe8cdfb4 {
+  width: 60rpx;
+  height: 60rpx;
+  opacity: 1;
+}
+.order-card .body .row-1 .icon .image.data-v-fe8cdfb4 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.order-card .body .row-1 .name.data-v-fe8cdfb4 {
+  padding-left: 36rpx;
+  font-size: 28rpx;
+  font-weight: 400;
+  line-height: 44rpx;
+  color: rgb(48, 49, 51);
+}
+.order-card .body .line.data-v-fe8cdfb4 {
+  width: 100%;
+  height: 0px;
+  opacity: 1;
+  border: 1rpx solid rgb(235, 238, 245);
+}
+.order-card .body .button.data-v-fe8cdfb4 {
+  min-width: 156rpx;
+  height: 56rpx;
+  opacity: 1;
+  border-radius: 28rpx;
+  border: 2rpx solid var(--hubei-primary, #409eff);
+  font-size: 28rpx;
+  font-weight: 500;
+  line-height: 44rpx;
+  color: var(--hubei-primary, #409eff);
+}

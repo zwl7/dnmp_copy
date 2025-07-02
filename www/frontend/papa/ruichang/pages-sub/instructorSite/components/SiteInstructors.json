@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "instructor-item": "../../../components/InstructorItem/index",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-button": "../../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

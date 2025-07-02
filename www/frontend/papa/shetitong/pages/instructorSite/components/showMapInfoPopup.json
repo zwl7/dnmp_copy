@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "instructor-site-item": "../../../components/InstructorSiteItem/index",
+    "uv-popup": "../../../node-modules/@climblee/uv-ui/components/uv-popup/uv-popup"
+  }
+}

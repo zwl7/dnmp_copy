@@ -1,0 +1,74 @@
+{
+    "packages": [
+        {
+            "name": "godruoyi/php-snowflake",
+            "version": "2.2.4",
+            "version_normalized": "2.2.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/godruoyi/php-snowflake.git",
+                "reference": "833ce5a542034c847ae9d74c4d89c9592cf77a4e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/godruoyi/php-snowflake/zipball/833ce5a542034c847ae9d74c4d89c9592cf77a4e",
+                "reference": "833ce5a542034c847ae9d74c4d89c9592cf77a4e",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=7.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~7|^8|^9"
+            },
+            "time": "2023-07-05T13:35:47+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Godruoyi\\Snowflake\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Godruoyi",
+                    "email": "g@godruoyi.com"
+                }
+            ],
+            "description": "An ID Generator for PHP based on Snowflake Algorithm (Twitter announced).",
+            "homepage": "https://github.com/godruoyi/php-snowflake",
+            "keywords": [
+                "Unique ID",
+                "laravel snowflake",
+                "order id",
+                "php snowflake",
+                "php unique id",
+                "snowflake algorithm",
+                "unique order id"
+            ],
+            "support": {
+                "issues": "https://github.com/godruoyi/php-snowflake/issues",
+                "source": "https://github.com/godruoyi/php-snowflake/tree/2.2.4"
+            },
+            "funding": [
+                {
+                    "url": "https://images.godruoyi.com/wechat.png",
+                    "type": "custom"
+                }
+            ],
+            "install-path": "../godruoyi/php-snowflake"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

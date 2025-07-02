@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "实名认证",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#e7f2fe",
+  "backgroundColor": "#e7f2fe",
+  "usingComponents": {}
+}

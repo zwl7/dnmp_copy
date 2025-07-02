@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "extend-form-common-title": "./ExtendFormCommonTitle",
+    "pa-form": "../../../../components/paForm/paForm"
+  }
+}

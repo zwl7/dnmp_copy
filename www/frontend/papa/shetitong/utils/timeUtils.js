@@ -1,0 +1,49 @@
+"use strict";
+const getMonthStartAndEnd = (year, month) => {
+  const startOfMonth = new Date(year, month - 1, 1);
+  const endOfMonth = new Date(year, month, 0);
+  startOfMonth.setHours(0, 0, 0, 0);
+  endOfMonth.setHours(23, 59, 59, 999);
+  return {
+    start: startOfMonth,
+    end: endOfMonth
+  };
+};
+function formatTimeBase(time, cformat) {
+  if (arguments.length == 0) {
+    return null;
+  }
+  const format = cformat;
+  let date;
+  if (typeof time === "object" && time instanceof Date) {
+    date = time;
+  } else {
+    if (typeof time === "string" && /^[0-9]+$/.test(time)) {
+      time = parseInt(time);
+    }
+    if (typeof time === "number" && time.toString().length === 10) {
+      time = time * 1e3;
+    }
+    date = new Date(time);
+  }
+  const formatObj = {
+    y: date.getFullYear(),
+    m: date.getMonth() + 1,
+    d: date.getDate(),
+    h: date.getHours(),
+    i: date.getMinutes(),
+    s: date.getSeconds(),
+    a: date.getDay()
+  };
+  const time_str = format.replace(/{([ymdhisa])+}/g, (result, key) => {
+    let value = formatObj[key];
+    if (key === "a") {
+      return ["日", "一", "二", "三", "四", "五", "六"][value];
+    }
+    return value.toString().padStart(2, "0");
+  });
+  return time_str;
+}
+exports.formatTimeBase = formatTimeBase;
+exports.getMonthStartAndEnd = getMonthStartAndEnd;
+//# sourceMappingURL=timeUtils.js.map

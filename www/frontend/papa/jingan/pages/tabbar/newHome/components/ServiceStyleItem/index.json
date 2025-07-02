@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "visitor-view-comment-popup": "./components/VisitorViewCommentPopup",
+    "creater-view-comment-popup": "./components/CreaterViewCommentPopup",
+    "uv-avatar": "../../../../../node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar",
+    "uv-album": "../../../../../node-modules/@climblee/uv-ui/components/uv-album/uv-album",
+    "uv-icon": "../../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

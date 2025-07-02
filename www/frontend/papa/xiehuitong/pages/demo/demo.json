@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "测试文件",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

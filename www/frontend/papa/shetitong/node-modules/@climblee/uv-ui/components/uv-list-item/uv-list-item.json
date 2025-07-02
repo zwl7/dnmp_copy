@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-icon": "../uv-icon/uv-icon",
+    "uv-badge": "../uv-badge/uv-badge",
+    "uv-switch": "../uv-switch/uv-switch"
+  }
+}

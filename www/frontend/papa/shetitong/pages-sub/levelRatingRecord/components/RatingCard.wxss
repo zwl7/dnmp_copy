@@ -1,0 +1,47 @@
+.card.data-v-d53193da {
+  background-color: #fff;
+  border-radius: 12rpx;
+  padding: 24rpx;
+}
+.card .record-content .row.data-v-d53193da {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 16rpx;
+  font-size: 28rpx;
+  color: #666;
+}
+.card .record-content .row .label.data-v-d53193da {
+  min-width: 140rpx;
+  margin-right: 20rpx;
+}
+.card .record-content .row .first-label.data-v-d53193da {
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  margin-right: 20rpx;
+}
+.card .record-content .row .project.data-v-d53193da {
+  min-width: 140rpx;
+  margin-left: 40rpx;
+}
+.card .record-content .row .project-text.data-v-d53193da {
+  flex: 1;
+  word-break: break-all;
+  word-wrap: break-word;
+  white-space: normal;
+  min-width: 200rpx;
+  max-width: 300rpx;
+}
+.card .record-content .row .level-tag.data-v-d53193da {
+  padding: 4rpx 16rpx;
+  border-radius: 6rpx;
+  font-size: 24rpx;
+}
+.card .record-content .row .level-tag.national.data-v-d53193da {
+  background-color: #fff7e6;
+  color: #fa8c16;
+}
+.card .record-content .row .level-tag.second.data-v-d53193da {
+  background-color: #e6f7ff;
+  color: #1890ff;
+}

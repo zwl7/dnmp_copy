@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "场馆详情",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "order-card": "./components/orderCard",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uni-icons": "../../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uv-tabs": "../../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

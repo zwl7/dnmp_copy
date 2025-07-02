@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "index-top-search": "../../../components/indexTopSearch",
+    "scroll-one": "../../../components/scrollOne",
+    "notice-bar": "../../../components/noticeBar",
+    "fun-btn-panel-one": "../../../components/funBtnPanelOne",
+    "coupon": "../../../components/coupon",
+    "scroll-list": "../../../components/scrollList",
+    "news-list": "../../../components/newsList",
+    "bottom-one": "../../../components/bottomOne"
+  }
+}

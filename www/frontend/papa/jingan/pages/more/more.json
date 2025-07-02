@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "更多",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "bottom-button": "../../components/bottomButton",
+    "uv-sticky": "../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-safe-bottom": "../../node-modules/@climblee/uv-ui/components/uv-safe-bottom/uv-safe-bottom"
+  }
+}

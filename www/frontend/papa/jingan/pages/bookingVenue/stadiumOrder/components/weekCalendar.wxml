@@ -1,0 +1,1 @@
+<view class="week-calendar data-v-2ee0359c"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="data-v-2ee0359c"><view class="{{['flex-direction', 'flx-center', 'week-item', 'data-v-2ee0359c', item.a]}}" bindtap="{{item.b}}"><text class="week-day common-day data-v-2ee0359c">周一</text><text class="date common-date data-v-2ee0359c">11-09</text></view></view></view>

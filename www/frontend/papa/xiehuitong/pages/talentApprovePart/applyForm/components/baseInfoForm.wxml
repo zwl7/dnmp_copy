@@ -1,0 +1,1 @@
+<view><pa-form wx:if="{{b}}" class="r" u-r="paForm" u-i="464f22d4-0" bind:__l="__l" u-p="{{b}}"/></view>

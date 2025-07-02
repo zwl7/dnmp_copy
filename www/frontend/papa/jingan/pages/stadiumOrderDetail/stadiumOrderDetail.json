@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "场馆订单详情",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "insurance-card-vue": "../../components/insurance/insuranceCard"
+  }
+}

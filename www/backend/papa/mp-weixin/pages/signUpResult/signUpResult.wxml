@@ -1,0 +1,1 @@
+<view class="container data-v-0ddc2f1c"><image class="first_img data-v-0ddc2f1c" src="{{a}}"/><view class="tips data-v-0ddc2f1c"> 报名成功 </view><view class="button-box data-v-0ddc2f1c"><button class="button1 data-v-0ddc2f1c" bindtap="{{b}}">查看报名信息</button><button class="button2 data-v-0ddc2f1c" bindtap="{{c}}">活动日历</button></view></view>

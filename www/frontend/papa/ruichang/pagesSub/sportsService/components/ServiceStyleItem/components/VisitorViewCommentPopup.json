@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "center-popue": "../../../../../components/centerPopue/index",
+    "bottom-button": "../../../../../components/bottomButton",
+    "uv-rate": "../../../../../node-modules/@climblee/uv-ui/components/uv-rate/uv-rate"
+  }
+}

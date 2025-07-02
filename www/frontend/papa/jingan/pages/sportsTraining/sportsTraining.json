@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "体育培训",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "sports-training-item": "./components/sportsTrainingItem",
+    "drop-down": "../../components/dropDown/index"
+  }
+}

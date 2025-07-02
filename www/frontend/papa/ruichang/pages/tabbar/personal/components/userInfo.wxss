@@ -1,0 +1,52 @@
+.user-info.data-v-17908de4 {
+  opacity: 1;
+  z-index: 1;
+}
+.user-info .uv-id.data-v-17908de4 {
+  color: rgb(165, 173, 186);
+}
+.badgeBox.data-v-17908de4 {
+  display: flex;
+  align-items: center;
+  height: 44rpx;
+  border-radius: 26rpx;
+  margin-right: 12rpx;
+}
+.badgeBox .badgeIcon.data-v-17908de4 {
+  border: 1px solid var(--hubei-primary, #409eff);
+  border-radius: 50%;
+  height: 44rpx;
+  width: 44rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5rpx;
+  background: #ffffff;
+  position: relative;
+  z-index: 2;
+  box-sizing: border-box;
+}
+.badgeBox .user-role.data-v-17908de4 {
+  display: flex;
+  font-size: 24rpx;
+  height: 100%;
+  color: #ffffff;
+  background: var(--hubei-primary, #409eff);
+  border-radius: 8rpx;
+  padding: 4rpx 16rpx;
+  padding-left: 34rpx;
+  font-weight: 500;
+  margin-left: -30rpx;
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  border-radius: 26rpx;
+}
+.badgeBox .user-is-not-auth.data-v-17908de4 {
+  background: #c5f730;
+  color: #303133;
+  border: 1px solid #303133;
+}
+.tag-box.data-v-17908de4 {
+  margin-top: 6rpx;
+}

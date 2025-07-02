@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-sticky": "../uv-sticky/uv-sticky"
+  }
+}

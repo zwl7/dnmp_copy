@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "发布",
+  "usingComponents": {
+    "imgs": "../../components/upload/imgs",
+    "uv-textarea": "../../node-modules/@climblee/uv-ui/components/uv-textarea/uv-textarea",
+    "uv-form-item": "../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-radio": "../../node-modules/@climblee/uv-ui/components/uv-radio/uv-radio",
+    "uv-radio-group": "../../node-modules/@climblee/uv-ui/components/uv-radio-group/uv-radio-group",
+    "uv-input": "../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-form": "../../node-modules/@climblee/uv-ui/components/uv-form/uv-form",
+    "uv-picker": "../../node-modules/@climblee/uv-ui/components/uv-picker/uv-picker",
+    "uv-button": "../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

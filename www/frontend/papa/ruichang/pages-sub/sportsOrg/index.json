@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "体育组织",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "association-item": "./components/associationItem",
+    "drop-down-city-select": "../../components/dropDown/dropDownCitySelect",
+    "drop-down": "../../components/dropDown/index"
+  }
+}

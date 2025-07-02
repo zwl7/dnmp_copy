@@ -1,0 +1,8 @@
+.page-main-container.data-v-9cbf8dbe {
+  padding-top: 150rpx;
+  padding-bottom: calc(250rpx + env(safe-area-inset-bottom));
+  background: url("https://cdn-static.papa.com.cn/social/home-color-bg.png") no-repeat;
+  background-color: #fff;
+  background-position: 0 0;
+  background-size: 100% 530rpx;
+}

@@ -1,0 +1,161 @@
+.video-detail-container .video {
+  width: 100%;
+  height: 422rpx;
+  display: block;
+  margin: 0 auto;
+}
+.video-detail-container .video-content {
+  padding: 32rpx;
+  padding-bottom: 100px;
+  margin-bottom: 24rpx;
+  background-color: #fff;
+  position: relative;
+}
+.video-detail-container .video-content .v-title {
+  font-size: 36rpx;
+  font-weight: 600;
+}
+.video-detail-container .video-content .v-statistics {
+  margin: 20rpx 0 40rpx;
+  font-size: 24rpx;
+  color: #969799;
+}
+.video-detail-container .video-content .v-statistics .tag {
+  color: #408bff;
+  border-radius: 4rpx;
+  border: 1px solid #408bff;
+  padding: 0 8rpx;
+}
+.video-detail-container .video-content .v-statistics .play-count {
+  padding: 0 32rpx;
+}
+.video-detail-container .video-content .v-statistics .time {
+  padding: 0 8rpx;
+}
+.video-detail-container .video-content .v-statistics .f-right-item .text {
+  padding-right: 10rpx;
+}
+.video-detail-container .video-content .brief-text {
+  font-size: 26rpx;
+  color: #646566;
+}
+.video-detail-container .video-content .brief-text .brief-title {
+  font-size: 32rpx;
+  padding-bottom: 16rpx;
+  font-weight: 600;
+  color: #323233;
+}
+.video-detail-container .video-content .brief-text .brief-content {
+  text-indent: 2em;
+  font-size: 28rpx;
+  color: #606266;
+  letter-spacing: 0;
+  line-height: 48rpx;
+  white-space: normal !important;
+  max-width: 100% !important;
+}
+.video-detail-container .video-content .report {
+  position: absolute;
+  top: 32rpx;
+  right: 32rpx;
+  color: #c8c9cc;
+  font-size: 22rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.video-detail-container .coach-content {
+  padding: 32rpx;
+  background-color: #fff;
+}
+.video-detail-container .coach-content .introduce {
+  display: flex;
+  align-items: center;
+  padding-bottom: 32rpx;
+  border-bottom: 1px solid #ebedf0;
+}
+.video-detail-container .coach-content .introduce .coach-photo {
+  width: 90rpx;
+  height: 90rpx;
+  border-radius: 50%;
+  margin-right: 24rpx;
+}
+.video-detail-container .coach-content .introduce .coach-info {
+  display: flex;
+  flex-direction: column;
+  font-size: 24rpx;
+  color: #969799;
+  flex: 1;
+}
+.video-detail-container .coach-content .introduce .coach-info .coach-name {
+  color: #323233;
+  font-size: 32rpx;
+  font-weight: 600;
+  padding-bottom: 10rpx;
+}
+.video-detail-container .coach-content .course {
+  border: 1px solid red;
+}
+.video-detail-container .footer {
+  display: flex;
+  justify-content: center;
+  color: #646566;
+  font-size: 28rpx;
+  background-color: #fff;
+  padding: 32rpx;
+}
+.video-detail-container .footer .f-item {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  line-height: 1;
+}
+.video-detail-container .footer .f-item .count {
+  padding-left: 16rpx;
+}
+.video-detail-container .footer .f-item:last-child {
+  padding-left: 226rpx;
+}
+.share .share-container {
+  padding: 40rpx 0 0;
+  border-radius: 24rpx 24rpx 0 0;
+  background-color: #fff;
+  text-align: center;
+}
+.share .share-container .s-title {
+  font-size: 28rpx;
+  padding-bottom: 40rpx;
+}
+.share .share-container .s-list {
+  display: flex;
+  justify-content: space-between;
+  font-size: 24rpx;
+  padding: 0 32rpx 16rpx;
+  border-bottom: 16rpx solid #f7f8fa !important;
+}
+.share .share-container .s-list .s-item-btn {
+  flex: 1;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.share .share-container .s-list .s-item-btn image {
+  width: 96rpx;
+  height: 96rpx;
+  margin-bottom: 16rpx;
+}
+.share .share-container .s-list .s-item-btn .i-name {
+  line-height: normal;
+  font-size: 24rpx;
+}
+.share .share-container .s-footer {
+  font-size: 32rpx;
+  color: #646566;
+  padding: 26rpx 0;
+}
+.bottm_box .bottom-button {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-top: 0 !important;
+}

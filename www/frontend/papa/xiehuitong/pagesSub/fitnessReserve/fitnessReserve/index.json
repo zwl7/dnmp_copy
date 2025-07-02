@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "体质监测",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "fitness-reserve-item": "./components/fitnessReserveItem"
+  }
+}

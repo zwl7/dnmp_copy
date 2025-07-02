@@ -1,0 +1,99 @@
+/* [z-paging]公用的静态css资源 */
+.zp-line-loading-image.data-v-fff6d205 {
+
+	animation: loading-flower-fff6d205 1s steps(12) infinite;
+
+	color: #666666;
+}
+.zp-line-loading-image-rpx.data-v-fff6d205 {
+	margin-right: 8rpx;
+	width: 34rpx;
+	height: 34rpx;
+}
+.zp-line-loading-image-px.data-v-fff6d205 {
+	margin-right: 4px;
+	width: 17px;
+	height: 17px;
+}
+.zp-loading-image-ios-rpx.data-v-fff6d205 {
+	width: 40rpx;
+	height: 40rpx;
+}
+.zp-loading-image-ios-px.data-v-fff6d205 {
+	width: 20px;
+	height: 20px;
+}
+.zp-loading-image-android-rpx.data-v-fff6d205 {
+	width: 34rpx;
+	height: 34rpx;
+}
+.zp-loading-image-android-px.data-v-fff6d205 {
+	width: 17px;
+	height: 17px;
+}
+@keyframes loading-flower-fff6d205 {
+0% {
+		transform: rotate(0deg);
+}
+to {
+		transform: rotate(1turn);
+}
+}
+.zp-r-container.data-v-fff6d205 {
+
+		display: flex;
+		height: 100%;
+
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+}
+.zp-r-container-padding.data-v-fff6d205 {
+}
+.zp-r-left.data-v-fff6d205 {
+
+		display: flex;
+
+		flex-direction: row;
+		align-items: center;
+		overflow: hidden;
+}
+.zp-r-left-image.data-v-fff6d205 {
+		transition-duration: .2s;
+		transition-property: transform;
+		color: #666666;
+}
+.zp-r-left-image-pre-size-rpx.data-v-fff6d205 {
+
+		width: 34rpx;
+		height: 34rpx;
+		overflow: hidden;
+}
+.zp-r-left-image-pre-size-px.data-v-fff6d205 {
+
+		width: 17px;
+		height: 17px;
+		overflow: hidden;
+}
+.zp-r-arrow-top.data-v-fff6d205 {
+		transform: rotate(0deg);
+}
+.zp-r-arrow-down.data-v-fff6d205 {
+		transform: rotate(180deg);
+}
+.zp-r-right.data-v-fff6d205 {
+
+		display: flex;
+
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+}
+.zp-r-right-time-text-rpx.data-v-fff6d205 {
+		margin-top: 10rpx;
+		font-size: 26rpx;
+}
+.zp-r-right-time-text-px.data-v-fff6d205 {
+		margin-top: 5px;
+		font-size: 13px;
+}

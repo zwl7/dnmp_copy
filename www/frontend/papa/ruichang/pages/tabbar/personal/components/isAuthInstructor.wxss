@@ -1,0 +1,11 @@
+.stadium-join-card.data-v-8e8f2d53 {
+  padding: 0 32rpx;
+  box-sizing: border-box;
+  margin-bottom: 24rpx;
+}
+.stadium-join-card .image.data-v-8e8f2d53 {
+  display: block;
+  width: 100%;
+  height: 140rpx !important;
+  border-radius: 16rpx;
+}

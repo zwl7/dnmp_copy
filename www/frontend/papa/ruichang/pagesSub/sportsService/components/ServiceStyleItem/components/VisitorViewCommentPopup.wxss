@@ -1,0 +1,16 @@
+.rate-popup.data-v-0e06e440 {
+  width: 280px;
+  text-align: left;
+  background: #fff;
+  border-radius: 16px;
+}
+.rate-popup .rate-desc.data-v-0e06e440 {
+  margin-bottom: 16px;
+  margin-top: 40rpx;
+  font-size: 30rpx;
+  font-weight: 400;
+}
+.rate-popup .rate-text.data-v-0e06e440 {
+  font-size: 30rpx;
+  color: #666;
+}

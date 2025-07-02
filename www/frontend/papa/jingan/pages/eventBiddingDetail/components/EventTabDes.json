@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-tabs": "../../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

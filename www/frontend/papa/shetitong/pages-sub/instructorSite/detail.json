@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "站点详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "phone-address-service": "../../components/phoneAddressService/index",
+    "nav-bar": "../../components/navBar/index",
+    "site-instructors": "./components/SiteInstructors",
+    "site-activities": "./components/SiteActivities",
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

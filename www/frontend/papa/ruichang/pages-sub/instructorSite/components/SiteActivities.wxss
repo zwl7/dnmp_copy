@@ -1,0 +1,13 @@
+.site-activities.data-v-1035d0da {
+  padding: 20rpx 0;
+}
+.site-activities .activity-list .activity-item.data-v-1035d0da {
+  border-bottom: 1rpx solid #f0f0f0;
+}
+.des-content-title.data-v-1035d0da {
+  font-size: 30rpx;
+  color: #303313;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0 22rpx;
+}

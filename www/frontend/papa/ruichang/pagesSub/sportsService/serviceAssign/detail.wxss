@@ -1,0 +1,104 @@
+.order-detail.data-v-ec032890 {
+  min-height: 100vh;
+  background: #f5f7fa;
+  padding-bottom: 180rpx;
+}
+.order-detail .serviceTimeBox.data-v-ec032890 {
+  background: #c5f730;
+  border-radius: 24rpx;
+  margin-bottom: -30rpx;
+  height: 130rpx;
+}
+.order-detail .serviceTimeBox .btn-black.data-v-ec032890 {
+  padding: 6rpx 40rpx;
+}
+.checkUnitBox.data-v-ec032890 {
+  margin-top: 24rpx;
+  padding: 24rpx;
+  margin: 0 32rpx;
+}
+.checkUnitBox .searchInput.data-v-ec032890 {
+  display: flex;
+  align-items: center;
+  padding: 16rpx 32rpx;
+  border: 1px solid #303133;
+  border-radius: 40rpx;
+  position: relative;
+}
+.checkUnitBox .searchInput input.data-v-ec032890 {
+  flex: 1;
+}
+.checkUnitBox .searchInput input.data-v-ec032890::-moz-placeholder {
+  color: red !important;
+}
+.checkUnitBox .searchInput input.data-v-ec032890::placeholder {
+  color: red !important;
+}
+.checkUnitBox .searchInput input.data-v-ec032890::-webkit-input-placeholder {
+  color: red !important;
+  /* WebKit browsers */
+}
+.checkUnitBox .searchInput .searchIcon.data-v-ec032890 {
+  width: 56rpx;
+  height: 56rpx;
+}
+.checkUnitBox .staffList.data-v-ec032890 {
+  margin-top: 24rpx;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+.checkUnitBox .staffList .staffItem.data-v-ec032890 {
+  padding: 24rpx 8rpx;
+  height: 100rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #606266;
+  box-sizing: border-box;
+}
+.checkUnitBox .staffList .staffItem .left.data-v-ec032890 {
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+}
+.checkUnitBox .staffList .staffItem .name.data-v-ec032890 {
+  width: 70%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.checkUnitBox .staffList .staffItem .checkIcon.data-v-ec032890 {
+  height: 44rpx;
+  width: 44rpx;
+  border-radius: 50%;
+  background-color: #c5f730;
+  border: 1.5px solid #303133;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btmBtn.data-v-ec032890 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  padding: 10rpx 32rpx;
+  display: flex;
+  gap: 26rpx;
+  padding-bottom: calc(env(safe-area-inset-bottom) + 10rpx);
+  box-sizing: border-box;
+}
+.btmBtn .styleBox.data-v-ec032890 {
+  width: 100%;
+}
+.btmBtn .active.data-v-ec032890 {
+  padding: 18rpx 0;
+  border-radius: 100px;
+}
+.btmBtn .oneBtn.data-v-ec032890 {
+  width: 90%;
+}
+.btmBtn .halfBtn.data-v-ec032890 {
+  width: 45%;
+}

@@ -1,0 +1,47 @@
+.record-item.data-v-91df315d {
+  display: flex;
+}
+.record-item .timeline-section.data-v-91df315d {
+  position: relative;
+  width: 40rpx;
+  margin-right: 24rpx;
+}
+.record-item .timeline-section.data-v-91df315d::before {
+  content: "";
+  position: absolute;
+  left: 20rpx;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  border-left: 4rpx dashed var(--hubei-primary-disabled, #ecf5ff);
+}
+.record-item .timeline-section .timeline-dot.data-v-91df315d {
+  position: absolute;
+  left: 10rpx;
+  top: 44rpx;
+  width: 24rpx;
+  height: 24rpx;
+  background-color: var(--hubei-primary-disabled, #ecf5ff);
+  border-radius: 50%;
+  z-index: 1;
+}
+.record-item .timeline-section .timeline-dot.data-v-91df315d::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 12rpx;
+  height: 12rpx;
+  background-color: var(--hubei-primary, #409eff);
+  border-radius: 50%;
+}
+.record-item .content-section.data-v-91df315d {
+  flex: 1;
+  padding-top: 32rpx;
+}
+.record-item .content-section .date.data-v-91df315d {
+  font-size: 32rpx;
+  color: #606266;
+  margin-bottom: 16rpx;
+}

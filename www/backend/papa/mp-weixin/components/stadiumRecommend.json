@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "stadium-item": "../pages/tabbar/stadium/components/stadiumItem"
+  }
+}

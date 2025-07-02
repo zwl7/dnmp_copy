@@ -1,0 +1,1 @@
+<view class="card-box data-v-2c44a503"><view wx:for="{{a}}" wx:for-item="item" wx:key="e" class="item-box data-v-2c44a503"><view class="title ellipsis data-v-2c44a503">{{item.a}}</view><view class="num ellipsis data-v-2c44a503"><text class="data-v-2c44a503">{{item.b}}</text><text wx:if="{{item.c}}" class="unit data-v-2c44a503">{{item.d}}</text></view></view></view>

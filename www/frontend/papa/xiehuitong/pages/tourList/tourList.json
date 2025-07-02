@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "体育旅游",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar",
+    "tour-item": "./components/tourItem",
+    "drop-down": "../../components/dropDown/index"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "社体指导员",
+  "usingComponents": {
+    "instructor-item": "../../components/InstructorItem/index",
+    "instructor-drop-down": "./components/instructorDropDown",
+    "list-search": "../../components/SearchComponent/listSearch",
+    "nav-bar": "../../components/navBar/index",
+    "uv-sticky": "../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky",
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

@@ -1,0 +1,220 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page.data-v-28503669 {
+  background-color: #fff;
+}
+.my-dropdown.data-v-28503669 .le-dropdown-cell-item {
+  border-bottom: 2rpx solid #ebedf0 !important;
+}
+.van-dropdown-menu__bar.data-v-28503669 {
+  position: relative;
+  display: flex;
+  height: 96rpx;
+  background-color: #fff;
+  box-shadow: 0 4rpx 24rpx rgba(100, 101, 102, 0.12);
+}
+.dropdown-menu.data-v-28503669 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 96rpx;
+}
+.van-ellipsis.data-v-28503669 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.van-dropdown-menu__item.data-v-28503669 {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+.van-dropdown-menu__title.data-v-28503669 {
+  position: relative;
+  box-sizing: border-box;
+  max-width: 100%;
+  padding: 0 16rpx;
+  color: #323233;
+  font-size: 30rpx;
+  line-height: 44rpx;
+  display: flex;
+  align-items: center;
+}
+.box.data-v-28503669 {
+  position: relative;
+  overflow: hidden;
+}
+.icon.data-v-28503669 {
+  transform: rotate(180deg);
+}
+.van-cell.data-v-28503669 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 20rpx 32rpx;
+  overflow: hidden;
+  color: #323233;
+  font-size: 28rpx;
+  line-height: 48rpx;
+  background-color: #fff;
+}
+.van-cell.data-v-28503669::after {
+  position: absolute;
+  box-sizing: border-box;
+  content: " ";
+  pointer-events: none;
+  right: 32rpx;
+  bottom: 0;
+  left: 32rpx;
+  border-bottom: 2rpx solid #ebedf0;
+  transform: scaleY(0.5);
+}
+.van-cell__title.data-v-28503669,
+.van-cell__value.data-v-28503669 {
+  flex: 1;
+}
+.van-cell__value.data-v-28503669 {
+  text-align: right;
+}
+.van-cell-active.data-v-28503669 {
+  color: #e05830;
+}
+.pop-container.data-v-28503669 {
+  min-height: 600rpx;
+  max-height: 80vh;
+}
+.pop-header.data-v-28503669 {
+  font-size: 32rpx;
+  font-weight: 500;
+  text-align: center;
+  padding: 32rpx;
+  position: relative;
+}
+.pop-header .close.data-v-28503669 {
+  position: absolute;
+  right: 32rpx;
+  top: 32rpx;
+}
+.row.data-v-28503669 {
+  display: flex;
+  justify-content: space-between;
+}
+.row .left.data-v-28503669 {
+  width: 230rpx;
+}
+.row .right.data-v-28503669 {
+  width: 480rpx;
+}
+.pop-main.data-v-28503669 {
+  font-size: 28rpx;
+  height: 100%;
+}
+.pop-main .tags.data-v-28503669 {
+  margin-bottom: 20rpx;
+}
+.pop-main .tags .type-tag.data-v-28503669 {
+  position: relative;
+  display: inline-block;
+  margin-right: 14rpx;
+  margin-bottom: 14rpx;
+  line-height: 66rpx;
+  background: #ebebeb;
+  border-radius: 6rpx;
+  padding: 0 16rpx;
+  box-sizing: border-box;
+}
+.pop-main .tags .type-tag .tag-icon.data-v-28503669 {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.pop-main .type.data-v-28503669 {
+  font-size: 24rpx;
+  line-height: 80rpx;
+  text-align: center;
+}
+.pop-main .title.data-v-28503669 {
+  margin-top: 32rpx;
+  margin-bottom: 40rpx;
+  text-align: center;
+  font-size: 32rpx;
+}
+.pop-main .bottom.data-v-28503669 {
+  margin: 40rpx 0;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pop-main .bottom .reset.data-v-28503669,
+.pop-main .bottom .ok.data-v-28503669 {
+  width: 200rpx;
+  height: 80rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.pop-main .bottom .reset.data-v-28503669 {
+  border: 2rpx solid #ebedf0;
+  border-radius: 4rpx;
+  margin-right: 10rpx;
+}
+.pop-main .bottom .ok.data-v-28503669 {
+  background-color: #07c160;
+  color: #fff;
+  margin-left: 10rpx;
+}
+.dropdown-footer.data-v-28503669 {
+  display: flex;
+  align-items: center;
+  padding: 20rpx 0;
+}
+.dropdown-cancel.data-v-28503669,
+.dropdown-confirm.data-v-28503669 {
+  flex: 1;
+  margin: 0 20rpx;
+  height: 80rpx;
+  border-radius: 80rpx;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 28rpx;
+}
+.dropdown-cancel.data-v-28503669 {
+  border: 2rpx solid #e05830;
+  box-sizing: border-box;
+  color: #323233;
+}
+.dropdown-confirm.data-v-28503669 {
+  background-color: #e05830;
+  color: #fff;
+}

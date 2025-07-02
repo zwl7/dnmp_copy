@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "服务评价",
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "service-comment-item": "../components/serviceCommentItem",
+    "uv-empty": "../../../node-modules/@climblee/uv-ui/components/uv-empty/uv-empty",
+    "uv-load-more": "../../../node-modules/@climblee/uv-ui/components/uv-load-more/uv-load-more"
+  }
+}

@@ -1,0 +1,1 @@
+<view style="background-color:#fff"><drop-down wx:if="{{e}}" class="r" u-r="dropDown" bindchange="{{b}}" bindpopupChange="{{c}}" bindopen="{{d}}" u-i="e336af2a-0" bind:__l="__l" u-p="{{e}}"></drop-down></view>

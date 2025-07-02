@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "common-team-user-list": "../components/commonTeamUserList",
+    "uv-input": "../../../node-modules/@climblee/uv-ui/components/uv-input/uv-input"
+  }
+}

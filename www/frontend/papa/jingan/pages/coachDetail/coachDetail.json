@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "教练详情",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "coach-item": "../sportsTrainingDetail/components/coachItem"
+  }
+}

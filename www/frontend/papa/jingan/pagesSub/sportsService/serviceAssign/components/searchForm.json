@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-action-sheet": "../../../../node-modules/@climblee/uv-ui/components/uv-action-sheet/uv-action-sheet"
+  }
+}

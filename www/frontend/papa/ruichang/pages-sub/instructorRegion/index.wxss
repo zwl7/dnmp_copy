@@ -1,0 +1,177 @@
+.flex.data-v-6721982d {
+  display: flex;
+  align-items: center;
+}
+.page-main-container.data-v-6721982d {
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+.top-box.data-v-6721982d {
+  height: 426rpx;
+  background-image: url("https://cdn-static.papa.com.cn/social/instrutor-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.list-box.data-v-6721982d {
+  position: relative;
+  transform: translateY(-98rpx);
+  padding: 0 24rpx;
+}
+.person.data-v-6721982d {
+  margin-bottom: 24rpx;
+  border-radius: 20rpx;
+  background: linear-gradient(180deg, #d7eeff 0%, #ffffff 10%);
+}
+.person .info-container.data-v-6721982d {
+  padding: 24rpx 36rpx;
+  display: flex;
+  align-items: center;
+}
+.person .avatar.data-v-6721982d {
+  margin-right: 24rpx;
+  width: 128rpx;
+  height: 128rpx;
+  border-radius: 50%;
+}
+.person .avatar .img.data-v-6721982d {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.person .name.data-v-6721982d {
+  margin-right: 12rpx;
+  color: #303133;
+  font-size: 40rpx;
+  font-weight: 500;
+}
+.person .medal-img.data-v-6721982d {
+  width: 112rpx;
+  height: 36rpx;
+}
+.person .medal-img .img.data-v-6721982d {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.person .tag-row.data-v-6721982d {
+  margin-top: 22rpx;
+  color: #ff9900;
+  font-size: 24rpx;
+  display: flex;
+}
+.person .tag-item.data-v-6721982d {
+  margin-right: 6rpx;
+  padding: 0 16rpx;
+  border: 1px solid #ff9900;
+  border-radius: 8rpx;
+}
+.person .title.data-v-6721982d {
+  padding: 0 32rpx;
+  color: title;
+  font-size: 32rpx;
+  font-weight: 500;
+}
+.person .card-container.data-v-6721982d {
+  padding: 24rpx;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 18rpx;
+}
+.person .static-card.data-v-6721982d {
+  position: relative;
+  padding: 24rpx;
+  height: 160rpx;
+  color: #606266;
+  font-size: 28rpx;
+  border-radius: 20rpx;
+  box-sizing: border-box;
+  background: #f4fbff;
+}
+.person .static-num.data-v-6721982d {
+  margin-top: 8rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  font-size: 40rpx;
+  font-weight: 700;
+  color: #303133;
+}
+.person .static-img.data-v-6721982d {
+  position: absolute;
+}
+.person .static-img .img.data-v-6721982d {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.person .static.data-v-6721982d {
+  width: 96rpx;
+  height: 88rpx;
+  right: 6rpx;
+  bottom: 0;
+}
+.person .num.data-v-6721982d {
+  width: 94rpx;
+  height: 94rpx;
+  right: -6rpx;
+  bottom: -2rpx;
+}
+.person .people.data-v-6721982d {
+  width: 88rpx;
+  height: 98rpx;
+  right: -6rpx;
+  bottom: -2rpx;
+}
+.person .location.data-v-6721982d {
+  width: 108rpx;
+  height: 102rpx;
+  right: -6rpx;
+  bottom: -2rpx;
+}
+.function.data-v-6721982d {
+  padding: 24rpx;
+  border-radius: 20rpx;
+  background: #fff;
+}
+.function .title.data-v-6721982d {
+  color: title;
+  font-size: 32rpx;
+  font-weight: 500;
+}
+.function .card-container.data-v-6721982d {
+  margin-top: 32rpx;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 18rpx;
+}
+.function .card-item.data-v-6721982d {
+  padding: 16rpx;
+  border-radius: 20rpx;
+  background: #f4fbff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.function .function-img.data-v-6721982d {
+  width: 80rpx;
+  height: 80rpx;
+}
+.function .function-img .img.data-v-6721982d {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.function .fun-title.data-v-6721982d {
+  margin-top: 14rpx;
+  height: 44rpx;
+  line-height: 44rpx;
+}
+.desc.data-v-6721982d {
+  color: #909399;
+}
+.todo-container.data-v-6721982d {
+  margin-top: 30rpx;
+}
+.list-container.data-v-6721982d {
+  margin-top: 24rpx;
+}

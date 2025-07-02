@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "云课堂",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "yun-lesson-item": "./components/yunLessonItem",
+    "uv-tabs": "../../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

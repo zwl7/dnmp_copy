@@ -1,0 +1,43 @@
+.apply-container.data-v-13a29669 {
+  margin: 32rpx;
+  min-height: 100%;
+  background-color: #fff;
+}
+.apply-container.data-v-13a29669 .form-container .uv-form-item .uni-input-input {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  width: auto;
+}
+.apply-container.data-v-13a29669 .uni-textarea-wrapper {
+  min-height: 150rpx;
+}
+.apply-container .submit-btn.data-v-13a29669 {
+  margin-top: 80rpx;
+  height: 80rpx;
+  font-size: 28rpx;
+  color: #fff;
+  border-radius: 200rpx;
+  line-height: 80rpx;
+}
+.greenBox.data-v-13a29669 {
+  padding-top: 40rpx;
+  background: linear-gradient(180deg, var(--hubei-card-bg3, rgba(64, 158, 255, 0.3)) 0%, rgb(255, 255, 255) 7%);
+}
+.data-v-13a29669 .form-container .uv-form-item .uv-radio-group {
+  justify-content: flex-end;
+}
+.data-v-13a29669 .uv-radio {
+  padding-left: 15px;
+}
+.border-none.data-v-13a29669 {
+  border-bottom: 2rpx solid red;
+}
+.footer-fixed.data-v-13a29669 {
+  background-color: #fff;
+  z-index: 100;
+}
+.footer-fixed .btn-black.data-v-13a29669 {
+  width: 100%;
+  padding: 18rpx 0;
+}

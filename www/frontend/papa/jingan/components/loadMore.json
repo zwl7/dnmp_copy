@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-load-more": "../node-modules/@climblee/uv-ui/components/uv-load-more/uv-load-more"
+  }
+}

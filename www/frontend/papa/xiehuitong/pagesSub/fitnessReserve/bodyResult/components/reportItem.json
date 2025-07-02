@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-button": "../../../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

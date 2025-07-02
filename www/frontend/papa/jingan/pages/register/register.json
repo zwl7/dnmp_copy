@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "实名认证",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "bottom-button": "../../components/bottomButton",
+    "uv-input": "../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-form-item": "../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-form": "../../node-modules/@climblee/uv-ui/components/uv-form/uv-form"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "入会申请",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "select-area-popup": "./components/selectAreaPopup",
+    "form-item": "./components/formItem",
+    "step": "./components/step",
+    "upload-file-step": "./components/uploadFileStep",
+    "privacy-popup": "../../../components/privacyPopup",
+    "uni-icons": "../../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

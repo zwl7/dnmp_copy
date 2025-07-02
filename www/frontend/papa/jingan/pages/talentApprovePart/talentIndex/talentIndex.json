@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "体育人才",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "drop-down": "../../../components/dropDown/index",
+    "sport-talent-item": "./components/sportTalentItem",
+    "drop-down-city-select": "../../../components/dropDownCitySelect",
+    "uv-tabs": "../../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "uv-sticky": "../../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "赛事活动",
+  "usingComponents": {
+    "recomend-swiper": "./components/recomendSwiper",
+    "date-ball-item": "./components/dateBallItem",
+    "drop-down": "../../components/dropDown/index",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

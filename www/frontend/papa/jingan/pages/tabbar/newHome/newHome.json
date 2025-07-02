@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "新首页",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "home-nav-grid": "./components/HomeNavGrid",
+    "service-order-banner": "./components/ServiceOrderBanner",
+    "service-style-list": "./components/ServiceStyleList",
+    "organization-section": "./components/OrganizationSection",
+    "yun-lesson-section": "./components/YunLessonSection",
+    "service-manage": "./components/serviceManage",
+    "swiper-list": "./components/swiperList"
+  }
+}

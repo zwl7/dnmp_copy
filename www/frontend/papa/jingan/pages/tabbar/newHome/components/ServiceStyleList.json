@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "service-style-item": "./ServiceStyleItem/index",
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我要办赛",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar",
+    "pa-form": "../../components/paForm/paForm",
+    "applicant-form": "./components/ApplicantForm",
+    "bottom-button": "../../components/bottomButton",
+    "apply-bid-event-dialog": "./components/ApplyBidEventDialog",
+    "uv-safe-bottom": "../../node-modules/@climblee/uv-ui/components/uv-safe-bottom/uv-safe-bottom"
+  }
+}

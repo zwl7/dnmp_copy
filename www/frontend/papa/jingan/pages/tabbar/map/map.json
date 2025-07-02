@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "健身圈",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "show-map-info-popup": "./components/showMapInfoPopup",
+    "scroll-tab-x": "./components/scrollTabX",
+    "map-touch-title": "./components/mapTouchTitle",
+    "map-touch": "../../../components/mapTouch",
+    "map-item": "./components/mapItem"
+  }
+}

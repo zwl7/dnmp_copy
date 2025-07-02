@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "培训",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "train-item": "../../../components/TrainItem/index",
+    "train-drop-down": "./components/trainDropDown",
+    "nav-bar": "../../../components/navBar/index",
+    "uv-tabs": "../../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "z-paging": "../../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

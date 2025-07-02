@@ -1,0 +1,1 @@
+<view class="match-team-box data-v-365bd181"><view class="common-title data-v-365bd181">队员信息</view><view class="more-box data-v-365bd181"><ceil-line wx:for="{{a}}" wx:for-item="item" wx:key="a" class="data-v-365bd181" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"></ceil-line></view></view>

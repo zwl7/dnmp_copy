@@ -1,0 +1,21 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar",
+    "history-item": "./components/historyItem",
+    "news-list-item": "../newsList/components/newsListItem",
+    "association-item": "../associationList/components/associationItem",
+    "sports-training-item": "../sportsTraining/components/sportsTrainingItem",
+    "sport-talent-item": "./components/sportTalentItem",
+    "date-ball-item": "../matchIndex/components/dateBallItem",
+    "fitness-reserve-item": "../../pagesSub/fitnessReserve/fitnessReserve/components/fitnessReserveItem",
+    "tour-item": "../tourList/components/tourItem",
+    "business-site-item": "../businessSiteList/components/businessSiteItem",
+    "vote-item": "../../pagesSub/votePart/vote/components/voteItem",
+    "uv-input": "../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

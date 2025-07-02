@@ -1,0 +1,1 @@
+<uv-button wx:if="{{b}}" u-s="{{['d']}}" bindclick="{{a}}" u-i="42bbb4da-0" bind:__l="__l" u-p="{{b}}"><slot></slot></uv-button>

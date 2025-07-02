@@ -1,0 +1,19 @@
+.input-container.data-v-8a9c6dfa {
+  width: 100%;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+.input-container .left-box.data-v-8a9c6dfa {
+  flex: 1;
+}
+.input-container .right-box.data-v-8a9c6dfa {
+  flex-shrink: 0;
+  margin-left: 32rpx;
+}
+.input-container .img.data-v-8a9c6dfa {
+  display: block;
+  width: 44rpx;
+  height: 44rpx;
+}

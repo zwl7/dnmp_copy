@@ -1,0 +1,19 @@
+.code-btn.data-v-ee947af2 {
+  color: var(--hubei-primary, #409eff);
+}
+.data-v-ee947af2 .uv-form-item__body__right__message {
+  margin: 0 !important;
+}
+.data-v-ee947af2 .uv-input__content__subfix-icon {
+  margin-right: 10px;
+}
+.next-step.data-v-ee947af2 {
+  width: 45%;
+}
+.center.data-v-ee947af2 {
+  display: flex;
+  justify-content: center;
+}
+.suffix-idcard.data-v-ee947af2 {
+  color: rgb(168, 171, 178);
+}

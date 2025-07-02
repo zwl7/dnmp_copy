@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "赛事申办",
+  "usingComponents": {
+    "list-search": "../../components/listSearch",
+    "drop-down": "../../components/dropDown/index",
+    "bidding-item": "./components/BiddingItem",
+    "apply-form-dialog": "./components/ApplyFormDialog",
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "service-detail-title": "./serviceDetailTitle",
+    "visitor-view-comment-popup": "./ServiceStyleItem/components/VisitorViewCommentPopup"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "常用人添加",
+  "usingComponents": {
+    "common-user-base-form": "../components/commonUserBaseForm",
+    "ceil-line": "../components/ceilLine",
+    "common-user-select-dialog": "../components/commonUserSelectDialog",
+    "bottom-button": "../../../components/bottomButton",
+    "uv-safe-bottom": "../../../node-modules/@climblee/uv-ui/components/uv-safe-bottom/uv-safe-bottom"
+  }
+}

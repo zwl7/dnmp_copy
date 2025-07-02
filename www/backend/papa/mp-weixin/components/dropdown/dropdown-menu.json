@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "dropdown-item": "./dropdown-item",
+    "le-picker": "./le-picker",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

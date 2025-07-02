@@ -1,0 +1,35 @@
+.swiper-container.data-v-65b4bd2e {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.noticebar.data-v-65b4bd2e {
+  position: absolute;
+  bottom: 24rpx;
+  right: 0;
+  left: 0;
+  z-index: 33;
+}
+.swiper-item.data-v-65b4bd2e {
+  position: relative;
+  height: 100%;
+}
+.swiper-item .title.data-v-65b4bd2e {
+  position: absolute;
+  bottom: 24rpx;
+  left: 32rpx;
+  z-index: 2;
+  max-width: 90%;
+  font-size: 28rpx;
+  color: #fff;
+}
+.swiper-item img.data-v-65b4bd2e,
+.swiper-item image.data-v-65b4bd2e {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}

@@ -1,0 +1,32 @@
+@font-face {
+	font-family: "iconfont";
+	src: url('iconfont.ttf?t=1686291193285') format('truetype');
+}
+
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-suiji:before {
+	content: "\e71f";
+}
+
+.icon-erweima:before {
+	content: "\e600";
+}
+
+.icon-canyuqingkuang:before {
+	content: "\e707";
+}
+
+.icon-time:before {
+	content: "\e680";
+}
+
+.icon-xia:before {
+	content: "\e65d";
+}

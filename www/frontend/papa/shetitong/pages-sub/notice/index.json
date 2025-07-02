@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "公告消息",
+  "usingComponents": {
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

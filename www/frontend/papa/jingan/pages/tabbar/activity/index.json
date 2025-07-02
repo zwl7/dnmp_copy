@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "活动",
+  "enablePullDownRefresh": true,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "recomend-swiper": "./components/recomendSwiper",
+    "activity-index-item": "./components/ActivityIndexItem",
+    "drop-down": "../../../components/dropDown/index",
+    "uni-icons": "../../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

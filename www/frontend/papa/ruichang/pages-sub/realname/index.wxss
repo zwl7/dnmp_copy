@@ -1,0 +1,11 @@
+.h-full.data-v-ef7443e6 {
+  background: white;
+}
+.data-v-ef7443e6 .uv-line-progress {
+  overflow: hidden;
+}
+.data-v-ef7443e6 .uv-steps-item__wrapper,.data-v-ef7443e6 .uv-steps-item__wrapper--row {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+}

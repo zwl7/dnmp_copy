@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "服务派单详情",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#e7f2fe",
+  "backgroundColor": "#e7f2fe",
+  "usingComponents": {
+    "order-detail": "../components/orderDetail",
+    "reject-popue": "./components/rejectPopue",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

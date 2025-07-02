@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "服务承接",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#e7f2fe",
+  "backgroundColor": "#e7f2fe",
+  "usingComponents": {
+    "service-order-item": "./components/ServiceOrderItem",
+    "search-form": "./components/searchForm",
+    "uv-tabs": "../../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

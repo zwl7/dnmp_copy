@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "设置",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "cell-item": "./components/cellItem",
+    "bottom-button": "../../../components/bottomButton"
+  }
+}

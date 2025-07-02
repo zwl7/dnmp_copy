@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "pc-carousel": "./pc-carousel",
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

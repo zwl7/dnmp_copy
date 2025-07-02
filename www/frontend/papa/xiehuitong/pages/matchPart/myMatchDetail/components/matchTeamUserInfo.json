@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "ceil-line": "../../components/ceilLine"
+  }
+}

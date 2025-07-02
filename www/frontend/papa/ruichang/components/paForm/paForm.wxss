@@ -1,0 +1,17 @@
+.uv-page.data-v-87425e30 {
+  width: 100%;
+}
+.upload-image-box.data-v-87425e30 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  color: rgb(192, 196, 204);
+}
+.upload-image.data-v-87425e30 {
+  display: block;
+  width: 72rpx;
+  height: 72rpx;
+  border-radius: 72rpx;
+  margin-right: 6rpx;
+}

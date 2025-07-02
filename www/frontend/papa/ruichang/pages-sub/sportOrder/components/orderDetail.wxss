@@ -1,0 +1,58 @@
+.order-detail.data-v-8b994352 {
+  padding: 24rpx 32rpx;
+  background: #f5f7fa;
+}
+.order-detail .serviceTimeBox.data-v-8b994352 {
+  background: #c5f730;
+  border-radius: 24rpx;
+  margin-bottom: -30rpx;
+  height: 140rpx;
+}
+.order-detail .serviceTimeBox .btn-black.data-v-8b994352 {
+  padding: 6rpx 30rpx;
+  height: 56rpx;
+  width: 150rpx;
+}
+.order-detail .serviceTimeBox .time.data-v-8b994352 {
+  width: 285rpx;
+  font-size: 28rpx;
+  word-break: break-all;
+}
+.order-detail .assignBox.data-v-8b994352 {
+  margin-bottom: 32rpx;
+}
+.order-detail .greenBox.data-v-8b994352 {
+  padding: 0;
+}
+.order-detail .card.data-v-8b994352 {
+  margin-top: 24rpx;
+  background: #fff;
+  border-radius: 24rpx;
+}
+.order-detail .card .cardItem.data-v-8b994352 {
+  margin-bottom: 20rpx;
+}
+.order-detail .card .cardItem .card-title.data-v-8b994352 {
+  margin-bottom: 16rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+  padding: 28rpx 24rpx;
+}
+.order-detail .card .cardItem .card-content.data-v-8b994352 {
+  font-size: 28rpx;
+}
+.order-detail .formItem.data-v-8b994352 {
+  display: flex;
+  padding: 24rpx;
+  color: rgb(96, 98, 102);
+}
+.order-detail .formItem .label.data-v-8b994352 {
+  width: 160rpx;
+  font-size: 28rpx;
+  line-height: 44rpx;
+}
+.order-detail .formItem .content.data-v-8b994352 {
+  color: #303133;
+  flex: 1;
+  flex-wrap: wrap;
+}

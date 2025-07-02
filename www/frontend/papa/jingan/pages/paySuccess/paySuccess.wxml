@@ -1,0 +1,1 @@
+<layout-default-uni class="data-v-788a4eb2" u-s="{{['d']}}" u-i="788a4eb2-0" bind:__l="__l"><view class="activity-result-container data-v-788a4eb2"><image src="{{a}}" class="img data-v-788a4eb2" mode=""></image><view class="title data-v-788a4eb2">{{b}}</view><view class="apply-btn flx-center data-v-788a4eb2" bindtap="{{c}}">回到首页</view></view></layout-default-uni>

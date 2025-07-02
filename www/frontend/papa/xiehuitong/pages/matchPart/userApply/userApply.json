@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "用户报名",
+  "navigationStyle": "custom",
+  "disableScroll": false,
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "bottom-button": "../../../components/bottomButton",
+    "ceil-line": "../components/ceilLine",
+    "common-user-select-dialog": "../components/commonUserSelectDialog",
+    "insurance-card-vue": "../../../components/insurance/insuranceCard",
+    "pa-form": "../../../components/paForm/paForm"
+  }
+}

@@ -1,0 +1,53 @@
+.order-form-page.data-v-61248808 {
+  min-height: 100vh;
+  background: #f7f8fa;
+  padding-bottom: 230rpx;
+}
+.main.data-v-61248808 {
+  padding: 20rpx 32rpx;
+}
+.form-header.data-v-61248808 {
+  position: relative;
+  height: 322rpx;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-left: 70rpx;
+  background: url("https://cdn-static.papa.com.cn/social/sportsService/addOrderBanner.png") no-repeat;
+  background-size: cover;
+}
+.form-header .header-title.data-v-61248808 {
+  font-size: 70rpx;
+  font-weight: 400;
+  color: rgb(48, 49, 51);
+  line-height: 90rpx;
+  margin-top: 160rpx;
+}
+.form-header .header-icon.data-v-61248808 {
+  width: 120rpx;
+  height: 120rpx;
+  margin-top: -32rpx;
+}
+.greenBox.data-v-61248808 {
+  margin-bottom: 24rpx;
+}
+.greenBox .block-title-bg.data-v-61248808 {
+  font-size: 32rpx;
+  color: rgb(51, 51, 51);
+  font-weight: 500;
+  line-height: 46rpx;
+  margin-bottom: 16rpx;
+}
+.greenBox .block-content.data-v-61248808 {
+  padding: 8rpx 24rpx 24rpx 24rpx;
+  background: #fff;
+}
+.footer-btn-wrap.data-v-61248808 {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: transparent;
+  padding: 24rpx 32rpx 32rpx 32rpx;
+  z-index: 10;
+}

@@ -1,0 +1,27 @@
+.page.data-v-469d15fb {
+  background: var(--hubei-list-page-bg-color, #f7f8fa);
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+.main_content_container.data-v-469d15fb {
+  position: relative;
+}
+.nav_top_bg.data-v-469d15fb {
+  height: 294rpx;
+}
+.nav_top_bg .image.data-v-469d15fb {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.tab_container.data-v-469d15fb {
+  position: sticky;
+  box-shadow: 0 -1px var(--hubei-list-page-bg-color, #f7f8fa);
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+.page-pad.data-v-469d15fb {
+  padding: 20rpx 32rpx 0 32rpx;
+  box-sizing: border-box;
+}

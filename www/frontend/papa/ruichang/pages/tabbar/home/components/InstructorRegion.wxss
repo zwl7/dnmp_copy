@@ -1,0 +1,68 @@
+.flex.data-v-6884b696 {
+  display: flex;
+  align-items: center;
+}
+.main-container.data-v-6884b696 {
+  margin: 32rpx 24rpx 0;
+}
+.list-container.data-v-6884b696 {
+  padding: 16rpx;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 16rpx;
+}
+.title.data-v-6884b696 {
+  position: relative;
+  padding: 20rpx 24rpx 22rpx;
+  height: 48rpx;
+  line-height: 48rpx;
+  font-weight: 400;
+  color: #495064;
+  display: flex;
+  justify-content: space-between;
+}
+.title .title-text.data-v-6884b696 {
+  font-family: "YouSheBiaoTiHei";
+  font-size: 44rpx;
+}
+.click.data-v-6884b696 {
+  position: absolute;
+  top: 14rpx;
+  right: 18rpx;
+  font-size: 28rpx;
+  color: #fff;
+}
+.item-container.data-v-6884b696 {
+  height: 200rpx;
+  text-align: center;
+  border-radius: 16rpx;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.verify.data-v-6884b696 {
+  width: 72rpx;
+  height: 100rpx;
+}
+.style.data-v-6884b696 {
+  width: 90rpx;
+  height: 100rpx;
+}
+.service.data-v-6884b696 {
+  width: 120rpx;
+  height: 104rpx;
+}
+.img.data-v-6884b696 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.name.data-v-6884b696 {
+  height: 24px;
+  line-height: 24px;
+  font-size: 28rpx;
+  color: #083768;
+  margin-top: 8rpx;
+}

@@ -1,0 +1,1 @@
+<view style="{{a}}" class="tabbar-container data-v-808a5a56"><slot></slot><my-tab-bar class="data-v-808a5a56" u-i="808a5a56-0" bind:__l="__l"/></view>

@@ -1,0 +1,57 @@
+.rate-popup.data-v-a2d3c16e {
+  width: 280px;
+  text-align: left;
+  background: #fff;
+  border-radius: 16px;
+}
+.rate-popup .rate-desc.data-v-a2d3c16e {
+  margin-bottom: 16px;
+  margin-top: 40rpx;
+  font-size: 30rpx;
+  font-weight: 400;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.rate-popup .rate-desc-right.data-v-a2d3c16e {
+  font-size: 24rpx;
+  color: #999;
+}
+.rate-popup .rate-text.data-v-a2d3c16e {
+  font-size: 30rpx;
+  color: #666;
+}
+.rate-popup .rate-time.data-v-a2d3c16e {
+  font-size: 24rpx;
+  color: #999;
+  margin-top: 32rpx;
+  padding-left: 20rpx;
+}
+.rate-progress-box.data-v-a2d3c16e {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 32rpx 16rpx;
+}
+.rate-progress-box .rate-progress-item.data-v-a2d3c16e {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rate-progress-box .rate-progress-item .rate-progress-item-text.data-v-a2d3c16e {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10rpx;
+  width: 120rpx;
+}
+.rate-progress-box .rate-progress-item .rate-progress-item-text .rate-progress-item-text-title.data-v-a2d3c16e {
+  font-size: 28rpx;
+  color: #606266;
+}
+.rate-progress-box .rate-progress-item .rate-progress-item-text .rate-progress-item-text-value.data-v-a2d3c16e {
+  font-size: 40rpx;
+  color: #303133;
+  margin-top: 20rpx;
+  font-weight: 500;
+}

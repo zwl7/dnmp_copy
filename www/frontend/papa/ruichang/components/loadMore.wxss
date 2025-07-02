@@ -1,0 +1,3 @@
+.load-more-container {
+  padding: 32rpx 0;
+}

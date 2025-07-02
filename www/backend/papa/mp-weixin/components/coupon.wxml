@@ -1,0 +1,1 @@
+<view class="coupon_container" bindtap="{{d}}"><view class="main_container"><view class="left"><view class="title">{{a}}</view><view class="tips">{{b}}</view></view><view class="right"><image src="{{c}}" class="image"></image></view></view></view>

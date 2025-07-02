@@ -1,0 +1,1 @@
+<view class="main-container data-v-c05ade46"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="item-container data-v-c05ade46" bindtap="{{item.d}}"><view class="icon data-v-c05ade46"><image class="img data-v-c05ade46" src="{{item.a}}" alt=""/></view><view class="name data-v-c05ade46">{{item.b}}</view></view></view>

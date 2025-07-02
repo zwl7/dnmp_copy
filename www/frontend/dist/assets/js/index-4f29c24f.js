@@ -1,0 +1,1 @@
+import{_ as e,o as n,a as o}from"./index-73817fb6.js";const r={};function s(c,t){return n(),o("div",null,"\u9996\u9875")}const a=e(r,[["render",s],["__file","/Users/zwl/dnmp/www/frontend/ppos-sport-online/src/views/home/index.vue"]]);export{a as default};

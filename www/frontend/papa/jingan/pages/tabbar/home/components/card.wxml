@@ -1,0 +1,1 @@
+<view class="card data-v-91c5f7c8" style="{{d + ';' + e}}"><view wx:if="{{a}}" class="card-bg data-v-91c5f7c8"><image src="{{b}}" class="image data-v-91c5f7c8" mode="aspectFill"></image></view><view class="{{['data-v-91c5f7c8', c]}}"><view class="body data-v-91c5f7c8"><slot></slot></view></view></view>

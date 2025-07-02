@@ -1,0 +1,1 @@
+<view class="tab-container data-v-d28c6ddc"><view class="{{['tab-item', 'data-v-d28c6ddc', a && 'active']}}" bindtap="{{b}}"> 点单人评价 </view><view class="{{['tab-item', 'data-v-d28c6ddc', c && 'active']}}" bindtap="{{d}}"> 群众评价 </view></view>

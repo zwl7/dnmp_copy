@@ -1,0 +1,42 @@
+.personal-detail.data-v-fe2d2466 {
+  padding: 32rpx;
+}
+.personal-detail .logout-btn.data-v-fe2d2466 {
+  min-width: 330rpx;
+  height: 80rpx;
+  opacity: 1;
+  border-radius: 200rpx;
+  background: var(--hubei-plain-button-bg-color, transparent);
+  border: 1px solid var(--hubei-plain-button-border-color, #303133);
+  color: var(--hubei-plain-button-font-color, #303133);
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.personal-detail .save-btn.data-v-fe2d2466 {
+  min-width: 330rpx;
+  height: 80rpx;
+  opacity: 1;
+  border-radius: 200rpx;
+  background: var(--hubei-primary-button-bg-color, #409eff);
+  color: var(--hubei-primary-button-font-color, #ffffff);
+  border: 1px solid var(--hubei-primary-button-border-color, #409eff);
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.personal-detail .img-wrap.data-v-fe2d2466 {
+  margin-right: 10rpx;
+}
+.personal-detail .img-wrap image.data-v-fe2d2466 {
+  width: 72rpx;
+  height: 72rpx;
+  border-radius: 50%;
+}
+.personal-detail.data-v-fe2d2466 .uv-input__content__field-wrapper__field {
+  text-align: right !important;
+}
+.personal-detail.data-v-fe2d2466 .uv-line {
+  border-color: #f5f5f5 !important;
+}
+.personal-detail.data-v-fe2d2466 .uv-form-item__body {
+  padding: 28rpx 0;
+}

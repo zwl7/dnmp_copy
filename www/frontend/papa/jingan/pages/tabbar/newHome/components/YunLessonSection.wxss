@@ -1,0 +1,96 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.yun-lesson-section.data-v-b867e29e {
+  margin: 16px 0;
+  background: #fff;
+  border-radius: 12px;
+}
+.section-title.data-v-b867e29e {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18rpx;
+  font-size: 16px;
+  font-weight: bold;
+}
+.section-title .title.data-v-b867e29e {
+  height: 50rpx;
+}
+.section-title .title image.data-v-b867e29e {
+  height: 50rpx;
+}
+.more.data-v-b867e29e {
+  font-size: 13px;
+  color: #409eff;
+  cursor: pointer;
+}
+.lesson-list.data-v-b867e29e {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+}
+.lesson-card.data-v-b867e29e {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 140px;
+  padding: 24rpx 16rpx 28rpx;
+  border-radius: 24rpx;
+  background: linear-gradient(180deg, rgb(255, 253, 249) 0%, rgb(255, 232, 202) 100%);
+  width: 290rpx;
+  height: 394rpx;
+  box-sizing: border-box;
+}
+.lesson-img.data-v-b867e29e {
+  width: 100%;
+  height: 146rpx;
+  margin-bottom: 32rpx;
+  border-radius: 20rpx;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+}
+.lesson-img .lesson-cover.data-v-b867e29e {
+  width: 100%;
+  height: 100%;
+}
+.lesson-img .play-icon.data-v-b867e29e {
+  width: 46rpx;
+  height: 46rpx;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.lesson-title.data-v-b867e29e {
+  margin-bottom: 12rpx;
+  font-size: 28rpx;
+  color: #333;
+  line-height: 40rpx;
+}
+.lesson-sub.data-v-b867e29e {
+  margin-bottom: 20rpx;
+  font-size: 12px;
+  color: #fff;
+  background: #303133;
+  border-radius: 8rpx;
+  padding: 4rpx 12rpx;
+}
+.play-btn.data-v-b867e29e {
+  padding: 2px 18px;
+  font-size: 13px;
+  color: #fff;
+  background: #409eff;
+  border: none;
+  border-radius: 16px;
+}

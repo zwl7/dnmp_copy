@@ -1,0 +1,54 @@
+
+.score-card.data-v-e7a1ec19 {
+  background-color: #fff;
+  padding: 20rpx;
+  border-radius: 24rpx;
+}
+.score-item.data-v-e7a1ec19 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+.item-label.data-v-e7a1ec19 {
+  width: 120rpx;
+  font-size: 28rpx;
+  color: #333;
+}
+.stars-container.data-v-e7a1ec19 {
+  display: flex;
+  gap: 10rpx;
+}
+.score-reason.data-v-e7a1ec19 {
+  padding-top: 20rpx;
+}
+.reason-label.data-v-e7a1ec19 {
+  font-size: 28rpx;
+  color: #666;
+  margin-bottom: 10rpx;
+  display: block;
+}
+.reason-content.data-v-e7a1ec19 {
+  font-size: 26rpx;
+  color: #999;
+}
+
+/* 添加新的样式 */
+.card-header.data-v-e7a1ec19 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.header-right.data-v-e7a1ec19 {
+  display: flex;
+  align-items: baseline;
+}
+.corner-score.data-v-e7a1ec19 {
+  font-size: 48rpx;
+  color: #4cd964;
+  font-weight: bold;
+}
+.corner-label.data-v-e7a1ec19 {
+  font-size: 24rpx;
+  color: #666;
+  margin-left: 4rpx;
+}

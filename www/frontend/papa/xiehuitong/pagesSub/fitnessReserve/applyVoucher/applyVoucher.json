@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "报名凭证",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "sport-code-card": "../../../pages/sportCodeRights/components/sportCodeCard",
+    "order-code-card": "../../../pages/orderVoucher/components/orderCodeCard",
+    "apply-voucher-card": "./components/applyVoucherCard"
+  }
+}

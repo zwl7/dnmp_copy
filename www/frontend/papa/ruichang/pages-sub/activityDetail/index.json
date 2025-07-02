@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "活动详情",
+  "usingComponents": {
+    "activity-item": "../../components/ActivityItem/index",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-avatar": "../../node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar"
+  }
+}

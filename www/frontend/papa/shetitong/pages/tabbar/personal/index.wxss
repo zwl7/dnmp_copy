@@ -1,0 +1,25 @@
+.personal-page.data-v-be176c92 {
+  box-sizing: border-box;
+  padding-top: 200rpx;
+  padding-bottom: 200rpx;
+  position: relative;
+  background: var(--hubei-mine-top-bg, linear-gradient(180deg, #D3E8FF 0%, #D9ECFF 54.25%, #FFFFFF 100%));
+  background-size: 100% 508rpx;
+  background-repeat: no-repeat;
+}
+.personal-page .user-info.data-v-be176c92 {
+  opacity: 1;
+  z-index: 1;
+}
+.personal-page .user-info .uv-id.data-v-be176c92 {
+  color: rgb(165, 173, 186);
+}
+.out-card-box.data-v-be176c92 {
+  margin: 32rpx;
+}
+.out-card-box .border-box.data-v-be176c92 {
+  padding: 32rpx;
+  box-sizing: border-box;
+  border-radius: 24rpx;
+  box-shadow: 0px 1px 4px rgba(26, 163, 135, 0.08), 0px 0px 18px rgba(0, 133, 82, 0.09);
+}

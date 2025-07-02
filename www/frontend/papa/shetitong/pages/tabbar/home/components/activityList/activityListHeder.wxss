@@ -1,0 +1,19 @@
+.title-switch-wrapper.data-v-16c1c9ad {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.title-switch-wrapper .left-content.data-v-16c1c9ad {
+  display: flex;
+  align-items: center;
+  gap: 20rpx;
+}
+.title-switch-wrapper .left-content .title-icon.data-v-16c1c9ad {
+  width: 180rpx;
+  height: 56rpx;
+}
+.title-switch-wrapper .left-content .title-text.data-v-16c1c9ad {
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #333;
+}

@@ -1,0 +1,284 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.train-detail-container.data-v-d8729b3b {
+  padding-bottom: 100rpx;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background: #fff;
+}
+.train-detail-container .train-header.data-v-d8729b3b {
+  height: 696rpx;
+  position: relative;
+}
+.train-detail-container .train-header image.data-v-d8729b3b {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.train-detail-container .train-header swiper.data-v-d8729b3b {
+  height: 696rpx;
+}
+.train-detail-container .train-header .swiper-item.data-v-d8729b3b {
+  position: relative;
+  height: 696rpx;
+}
+.train-detail-container .train-header .h-time.data-v-d8729b3b {
+  position: absolute;
+  right: 32rpx;
+  bottom: 44rpx;
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+  color: #fff;
+}
+.train-detail-container .train-header .h-time .t-title.data-v-d8729b3b {
+  font-weight: 500;
+}
+.train-detail-container .train-header .h-time .count-down.data-v-d8729b3b {
+  margin-left: 32rpx;
+}
+.train-detail-container .train-header .h-time .count-down .time.data-v-d8729b3b {
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+  color: #f56c6c;
+}
+.train-detail-container .train-header .h-time .count-down .time .time-item.data-v-d8729b3b {
+  min-width: 46rpx;
+  height: 46rpx;
+  font-size: 28rpx;
+  text-align: center;
+  color: #fff;
+  background-color: #f56c6c;
+  border-radius: 8rpx;
+  font-weight: 600;
+  line-height: 46rpx;
+}
+.train-detail-container .train-header .h-time .count-down .time .time-text.data-v-d8729b3b {
+  padding: 0 8rpx;
+}
+.train-detail-container .train-header .h-time .count-down .time .time-text.data-v-d8729b3b:last-child {
+  padding-right: 0;
+}
+.train-detail-container .bottom-radius.data-v-d8729b3b {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 32rpx;
+  background-color: #fff;
+  border-radius: 32rpx 32rpx 0 0;
+}
+.train-detail-container .train-content.data-v-d8729b3b {
+  position: relative;
+  padding: 0 32rpx 32rpx;
+  border-radius: 32rpx 32rpx 0 0;
+}
+.train-detail-container .train-content .detail-title.data-v-d8729b3b {
+  font-size: 36rpx;
+  font-weight: 610;
+}
+.train-detail-container .train-content .detail-status.data-v-d8729b3b {
+  padding: 24rpx 0;
+  font-size: 24rpx;
+}
+.train-detail-container .train-content .detail-status .status-text.data-v-d8729b3b {
+  display: inline-block;
+  margin-bottom: 5rpx;
+  width: -moz-fit-content;
+  width: fit-content;
+  min-height: 30rpx;
+  padding: 4rpx 8rpx;
+  margin-right: 15rpx;
+  color: #fff;
+  background-color: #4cd964;
+}
+.train-detail-container .train-content .detail-status .status-text.warning.data-v-d8729b3b {
+  background-color: #f0ad4e;
+}
+.train-detail-container .train-content .detail-status .status-text.error.data-v-d8729b3b {
+  background-color: #dd524d;
+}
+.train-detail-container .train-content .detail-status .status-type.data-v-d8729b3b {
+  display: inline-block;
+  margin-bottom: 5rpx;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-right: 5rpx;
+  padding: 4rpx 20rpx;
+  color: #1b8bff;
+  background: #6ad1ff;
+  border: 1px solid #6ad1ff;
+}
+.train-detail-container .train-content .detail-des.data-v-d8729b3b {
+  display: flex;
+  flex-direction: column;
+  font-size: 24rpx;
+  color: #606266;
+}
+.train-detail-container .train-content .detail-des .des-item.data-v-d8729b3b {
+  display: flex;
+  align-items: flex-start;
+  padding: 16rpx 0;
+}
+.train-detail-container .train-content .detail-des .des-item .left.data-v-d8729b3b {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+}
+.train-detail-container .train-content .detail-des .des-item .d-name.data-v-d8729b3b {
+  padding: 0 10rpx;
+  color: #909399;
+  flex-shrink: 0;
+}
+.train-detail-container .train-content .detail-des .des-item.data-v-d8729b3b:last-child {
+  justify-content: space-between;
+}
+.train-detail-container .train-content .detail-des .des-item:last-child .i-left.data-v-d8729b3b {
+  display: flex;
+  align-items: flex-start;
+}
+.train-detail-container .train-content .detail-des .des-item:last-child .i-phone.data-v-d8729b3b {
+  flex-shrink: 0;
+  margin-right: 46rpx;
+}
+.train-detail-container .train-content .detail-des .des-item:last-child .i-right.data-v-d8729b3b {
+  flex-shrink: 0;
+}
+.train-detail-container .train-content .detail-des .des-item .right-icon.data-v-d8729b3b {
+  flex-shrink: 0;
+  display: flex;
+  padding-left: 16rpx;
+}
+.train-detail-container .apply-count.data-v-d8729b3b {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 16rpx;
+  font-size: 24rpx;
+  color: #909399;
+  background-color: #fff;
+}
+.train-detail-container .apply-count .img-wrap.data-v-d8729b3b {
+  padding: 24rpx 32rpx;
+  margin-right: 8rpx;
+}
+.train-detail-container .apply-count .img-wrap img.data-v-d8729b3b,
+.train-detail-container .apply-count .img-wrap image.data-v-d8729b3b {
+  margin-right: -18rpx;
+  width: 56rpx;
+  height: 56rpx;
+  border-radius: 50%;
+}
+.train-detail-container .line.data-v-d8729b3b {
+  height: 30rpx;
+  background-color: #f6f7f9;
+}
+.train-detail-container .train-des.data-v-d8729b3b {
+  position: relative;
+  padding: 32rpx 32rpx 10rpx;
+}
+.train-detail-container .train-des .des-title.data-v-d8729b3b {
+  font-size: 32rpx;
+  font-weight: 610;
+}
+.train-detail-container .train-des .des-item.data-v-d8729b3b {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 32rpx;
+  font-weight: 500;
+  font-size: 28rpx;
+}
+.train-detail-container .train-des .des-item .i-title.data-v-d8729b3b {
+  padding-bottom: 16rpx;
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.train-detail-container .train-des .des-item.data-v-d8729b3b:last-child {
+  padding-top: 16rpx;
+  color: #606266;
+}
+.train-detail-container .train-des .des-content.data-v-d8729b3b {
+  margin-top: 16rpx;
+}
+.train-detail-container .train-footer.data-v-d8729b3b {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(66, 64, 64, 0.2);
+}
+.train-detail-container .train-footer .footer-main.data-v-d8729b3b {
+  display: flex;
+  align-items: center;
+  padding: 10rpx 32rpx 10rpx 0;
+}
+.train-detail-container .train-footer .footer-main .icon.data-v-d8729b3b {
+  width: 40rpx;
+  height: 40rpx;
+}
+.train-detail-container .train-footer .footer-main .icon .image.data-v-d8729b3b {
+  width: 100%;
+  height: 100%;
+}
+.train-detail-container .train-footer .button.data-v-d8729b3b {
+  background-color: #fff;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+}
+.train-detail-container .train-footer .button.data-v-d8729b3b::after {
+  border: none;
+}
+.train-detail-container .train-footer .collect.data-v-d8729b3b {
+  color: #1b8bff !important;
+}
+.train-detail-container .train-footer .collect.data-v-d8729b3b .uni-icons {
+  color: #1b8bff !important;
+}
+.train-detail-container .train-footer .share.data-v-d8729b3b {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20rpx;
+  color: #969799;
+  width: 112rpx;
+  line-height: 1;
+}
+.train-detail-container .train-footer .share text.data-v-d8729b3b {
+  line-height: 1.8;
+}
+.train-detail-container .train-footer .apply-btn.data-v-d8729b3b {
+  height: 80rpx;
+  font-size: 28rpx;
+  color: #fff;
+  background: linear-gradient(227.21deg, #1b8bff 0%, #6ad1ff 100%);
+  border-radius: 200rpx;
+  flex: 1;
+  line-height: 80rpx;
+}
+.des-content.data-v-d8729b3b {
+  font-size: 30rpx;
+  color: #303133;
+  letter-spacing: 0;
+  line-height: 52rpx;
+  white-space: pre-wrap !important;
+  max-width: 100% !important;
+}

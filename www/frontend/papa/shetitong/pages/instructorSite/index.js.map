@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../../uniPage:/cGFnZXMvaW5zdHJ1Y3RvclNpdGUvaW5kZXgudnVl"],"sourcesContent":["import MiniProgramPage from '/Users/guoxiaoming/code/papa-code/pm-yn/uniapp-social-sports-new/src/pages/instructorSite/index.vue'\nwx.createPage(MiniProgramPage)"],"names":["MiniProgramPage"],"mappings":";;AACA,GAAG,WAAWA,MAAe,eAAA;"}

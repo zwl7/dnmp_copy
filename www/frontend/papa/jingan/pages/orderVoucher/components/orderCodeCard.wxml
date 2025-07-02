@@ -1,0 +1,1 @@
+<view class="order-code-card data-v-2785a6d2"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="list-item data-v-2785a6d2"><view class="flex-direction-row item data-v-2785a6d2"><text class="title data-v-2785a6d2">{{item.a}}:</text><text class="content data-v-2785a6d2">{{item.b}}</text></view></view></view>

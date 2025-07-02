@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-checkbox": "../../../../node-modules/@climblee/uv-ui/components/uv-checkbox/uv-checkbox",
+    "uv-checkbox-group": "../../../../node-modules/@climblee/uv-ui/components/uv-checkbox-group/uv-checkbox-group"
+  }
+}

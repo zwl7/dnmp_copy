@@ -1,0 +1,1 @@
+<view class="title-switch-wrapper data-v-1a0d42fb"><view class="left-content data-v-1a0d42fb"><image src="{{a}}" alt="{{b}}" class="title-icon data-v-1a0d42fb" mode="aspectFit"/><text class="title-text data-v-1a0d42fb">{{c}}</text></view></view>

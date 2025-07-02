@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "赛事详情",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "top-hedaer": "./components/topHedaer",
+    "group-data": "./components/groupData",
+    "group-data-des": "./components/groupDataDes",
+    "group-select-dialog": "./components/groupSelectDialog",
+    "bottom-button": "../../../components/bottomButton",
+    "uni-icons": "../../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

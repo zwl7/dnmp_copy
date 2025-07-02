@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-drop-down": "./my-drop-down/uv-drop-down/uv-drop-down",
+    "uv-drop-down-item": "./my-drop-down/uv-drop-down-item/uv-drop-down-item",
+    "uv-drop-down-popup": "./my-drop-down/uv-drop-down-popup/uv-drop-down-popup"
+  }
+}

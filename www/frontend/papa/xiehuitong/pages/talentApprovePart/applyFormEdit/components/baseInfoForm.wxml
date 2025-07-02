@@ -1,0 +1,1 @@
+<view><pa-form wx:if="{{b}}" class="r" u-r="paForm" u-i="808be580-0" bind:__l="__l" u-p="{{b}}"/><button bindtap="{{c}}">校验</button></view>

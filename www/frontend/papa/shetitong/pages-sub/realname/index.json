@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "指导员认证",
+  "usingComponents": {
+    "identity-info": "./components/Identity/index",
+    "success-info": "./components/Success/index",
+    "validate-phone": "./components/ValidatePhone/index",
+    "uv-steps-item": "../../node-modules/@climblee/uv-ui/components/uv-steps-item/uv-steps-item",
+    "uv-steps": "../../node-modules/@climblee/uv-ui/components/uv-steps/uv-steps"
+  }
+}

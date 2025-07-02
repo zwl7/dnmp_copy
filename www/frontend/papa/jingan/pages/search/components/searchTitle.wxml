@@ -1,0 +1,1 @@
+<view class="item-container data-v-9a71a57b"><view class="left data-v-9a71a57b">{{a}}</view><view class="right data-v-9a71a57b" bindtap="{{c}}"><text class="data-v-9a71a57b">更多</text><uni-icons wx:if="{{b}}" class="data-v-9a71a57b" u-i="9a71a57b-0" bind:__l="__l" u-p="{{b}}"></uni-icons></view></view>

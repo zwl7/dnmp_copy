@@ -1,0 +1,1 @@
+<view style="position:relative"><view class="vertical_menu"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="menu_item" bindtap="{{item.d}}"><view class="menu"><image src="{{item.a}}" class="menu-icon"></image><view class="button-title">{{item.b}}</view></view></view></view></view>

@@ -1,0 +1,196 @@
+{
+  "pages": [
+    "pages/tabbar/home/home",
+    "pages/matchIndex/matchIndex",
+    "pages/tabbar/mine/mine",
+    "pages/associationList/associationList",
+    "pages/tourList/tourList",
+    "pages/tourDetail/tourDetail",
+    "pages/newsList/newsList",
+    "pages/newsDetail/newsDetail",
+    "pages/yunLesson/yunLesson",
+    "pages/sportsTraining/sportsTraining",
+    "pages/personalDetail/personalDetail",
+    "pages/myCollect/myCollect",
+    "pages/stadiumOrder/stadiumOrder",
+    "pages/search/search",
+    "pages/sportCodeRights/sportCodeRights",
+    "pages/orderVoucher/orderVoucher",
+    "pages/stadiumApplyForm/stadiumApplyForm",
+    "pages/login/login",
+    "pages/agreement/agreement",
+    "pages/privacy/privacy",
+    "pages/notice/notice",
+    "pages/noticeDetail/noticeDetail",
+    "pages/webView/webView",
+    "pages/videoDetail/videoDetail",
+    "pages/siteDetail/siteDetail",
+    "pages/stadiumOrderDetail/stadiumOrderDetail",
+    "pages/sportTalent/sportTalent",
+    "pages/sportTalentDetail/sportTalentDetail",
+    "pages/enterGuide/enterGuide",
+    "pages/sportsTrainingDetail/sportsTrainingDetail",
+    "pages/orderCenter/orderCenter",
+    "pages/orderCenter/shopOrderCenter",
+    "pages/paySuccess/paySuccess",
+    "pages/register/register",
+    "pages/demo/demo",
+    "pages/coachDetail/coachDetail",
+    "pages/more/more",
+    "pages/feedBack/feedBack",
+    "pages/webviewDownload/index",
+    "pages/newsList/recommend",
+    "pages/eventBidding/eventBidding",
+    "pages/eventBiddingDetail/eventBiddingDetail",
+    "pages/applyHoldEvent/applyHoldEvent",
+    "pages/evenApply/evenApply",
+    "pages/applyBidEvent/applyBidEvent",
+    "pages/bidEventDetail/bidEventDetail",
+    "pages/applyEventResult/applyEventResult"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesSub/votePart",
+      "pages": [
+        "vote/vote",
+        "voteDetail/voteDetail",
+        "voteOptionDetail/voteOptionDetail"
+      ]
+    },
+    {
+      "root": "pagesSub/membershipService",
+      "pages": [
+        "associationAbout/associationAbout",
+        "applyEntrance/applyEntrance",
+        "memberApplyForm/memberApplyForm",
+        "memberApplyResult/memberApplyResult",
+        "serviceAgreement/serviceAgreement",
+        "privacyAgreement/privacyAgreement"
+      ]
+    },
+    {
+      "root": "pagesSub/fitnessReserve",
+      "pages": [
+        "fitnessReserve/index",
+        "reserveDetail/index",
+        "reserveTime/index",
+        "vouncher/index",
+        "bodyResult/index",
+        "applyVoucher/applyVoucher",
+        "activityApplyResult/activityApplyResult"
+      ]
+    },
+    {
+      "root": "pages/bookingVenue",
+      "pages": [
+        "stadiumDetail/stadiumDetail",
+        "stadiumOrder/stadiumOrder"
+      ]
+    },
+    {
+      "root": "pages/matchPart",
+      "pages": [
+        "detail/detail",
+        "score/score",
+        "mien/mien",
+        "applyPage/applyPage",
+        "commonTeamAdd/commonTeamAdd",
+        "teamDetail/teamDetail",
+        "myMatchList/myMatchList",
+        "myMatchDetail/myMatchDetail",
+        "qrcode/qrcode",
+        "commonTeam/commonTeam",
+        "commonUser/commonUser",
+        "commonUserAdd/commonUserAdd",
+        "commonUserEdit/commonUserEdit",
+        "commonTeamEdit/commonTeamEdit",
+        "userApply/userApply",
+        "teamApply/teamApply",
+        "matchCalendar/matchCalendar",
+        "matchCalendar/demo",
+        "applyResult/applyResult",
+        "commonUserDetail/commonUserDetail",
+        "commonTeamDetail/commonTeamDetail"
+      ]
+    },
+    {
+      "root": "pages/talentApprovePart",
+      "pages": [
+        "entry/entry",
+        "applyFormEdit/applyForm",
+        "applyForm/applyForm",
+        "talentIndex/talentIndex",
+        "applySuccess/applySuccess",
+        "approveList/approveList",
+        "applyFormDetail/applyFormDetail",
+        "talentDetail/talentDetail"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "江西省排球协会",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f7f8fa",
+    "rpxCalcBaseDeviceWidth": 375
+  },
+  "tabBar": {
+    "custom": true,
+    "borderStyle": "white",
+    "color": "#A5ADBA",
+    "selectedColor": "#409EFF",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/home/home",
+        "iconPath": "static/tabbar/index.png",
+        "selectedIconPath": "static/tabbar/index-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/associationList/associationList",
+        "iconPath": "static/tabbar/stadium.png",
+        "selectedIconPath": "static/tabbar/stadium-active.png",
+        "text": "会员单位"
+      },
+      {
+        "pagePath": "pages/matchIndex/matchIndex",
+        "iconPath": "static/tabbar/activity.png",
+        "selectedIconPath": "static/tabbar/activity-active.png",
+        "text": "赛事活动"
+      },
+      {
+        "pagePath": "pages/tabbar/mine/mine",
+        "iconPath": "static/tabbar/mine.png",
+        "selectedIconPath": "static/tabbar/mine-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pagesSub/votePart/vote/vote": {
+      "network": "all",
+      "packages": [
+        "pagesSub/votePart"
+      ]
+    }
+  },
+  "__usePrivacyCheck__": false,
+  "requiredPrivateInfos": [
+    "chooseLocation",
+    "getFuzzyLocation"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    },
+    "scope.userFuzzyLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {
+    "empty": "/components/empty",
+    "load-more": "/components/loadMore",
+    "layout-default-uni": "/layouts/default",
+    "layout-tabbar-uni": "/layouts/tabbar"
+  }
+}

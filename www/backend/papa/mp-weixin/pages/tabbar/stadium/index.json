@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "场馆",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "select-search": "./components/selectSearch",
+    "stadium-item": "./components/stadiumItem",
+    "uni-load-more": "../../../uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "activity-item": "./ServiceStyleItem",
+    "uv-button": "../../../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的活动报名",
+  "usingComponents": {
+    "activity-index-item": "./components/ActivityIndexItem",
+    "uv-tabs": "../../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "uv-sticky": "../../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "activity-item": "../../../../../components/ActivityItem/index",
+    "activity-list-heder": "./activityListHeder",
+    "uv-button": "../../../../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

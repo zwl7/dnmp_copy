@@ -1,0 +1,86 @@
+.real-auth.data-v-d06ad73d {
+  padding: 0 32rpx;
+  background: #ffffff;
+  padding-bottom: 600rpx;
+}
+.formItem.data-v-d06ad73d {
+  display: flex;
+  margin-top: 14rpx;
+  font-size: 24rpx;
+  color: rgb(144, 147, 153);
+}
+.formItem .label.data-v-d06ad73d {
+  width: 115rpx;
+}
+.formItem .content.data-v-d06ad73d {
+  flex: 1;
+}
+.myIdentityBox.data-v-d06ad73d {
+  margin-top: 24rpx;
+}
+.myIdentityBox .identityItem.data-v-d06ad73d {
+  position: relative;
+  border-radius: 16rpx;
+  background: linear-gradient(225.64deg, rgb(255, 255, 255) 0%, rgb(236, 247, 255) 100%);
+  margin-bottom: 24rpx;
+  padding: 32rpx 24rpx;
+}
+.myIdentityBox .identityItem .top.data-v-d06ad73d {
+  font-size: 32rpx;
+  font-weight: 500;
+  display: flex;
+  gap: 12rpx;
+  margin-bottom: 10rpx;
+}
+.myIdentityBox .identityItem .tagIcon.data-v-d06ad73d {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--hubei-primary, #409eff);
+  background-size: 100% 100%;
+  min-width: 152rpx;
+  height: 44rpx;
+  border-radius: 0rpx 32rpx 0rpx 32rpx;
+  color: #ffffff;
+  padding: 4rpx 10rpx;
+  font-size: 24rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.unAuthBox.data-v-d06ad73d {
+  margin-top: 188rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.unAuthBox .icon.data-v-d06ad73d {
+  display: flex;
+  justify-content: center;
+}
+.unAuthBox .icon image.data-v-d06ad73d {
+  height: 246rpx;
+  width: 246rpx;
+}
+.unAuthBox .btn.data-v-d06ad73d {
+  margin: 72rpx 32rpx;
+}
+.unAuthBox .desc.data-v-d06ad73d {
+  font-size: 28rpx;
+  text-align: center;
+  margin-top: 50rpx;
+}
+.btm.data-v-d06ad73d {
+  position: fixed;
+  bottom: 80rpx;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 26rpx;
+  line-height: 44rpx;
+  padding: 24rpx;
+  margin: 0 32rpx;
+  background: #f8fbfd;
+  border-radius: 24rpx;
+}

@@ -1,0 +1,1 @@
+<layout-default-uni class="data-v-74996d59" u-s="{{['d']}}" u-i="74996d59-0" bind:__l="__l"><view class="apply-container data-v-74996d59"><view class="form-container data-v-74996d59"><train-apply-form wx:if="{{b}}" class="r data-v-74996d59" u-r="trainApplyForm" u-i="74996d59-1,74996d59-0" bind:__l="__l" u-p="{{b}}"></train-apply-form></view></view></layout-default-uni>

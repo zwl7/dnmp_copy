@@ -1,0 +1,12 @@
+.titleBox.data-v-9b284ecf {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.titleBox .title.data-v-9b284ecf {
+  font-size: 32rpx;
+  color: rgb(50, 50, 51);
+}
+.titleBox .close.data-v-9b284ecf {
+  font-size: 40rpx;
+}

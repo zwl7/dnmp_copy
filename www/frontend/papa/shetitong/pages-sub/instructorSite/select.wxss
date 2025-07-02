@@ -1,0 +1,17 @@
+swiper.data-v-e86245db {
+  height: 442rpx;
+}
+.sticky.data-v-e86245db {
+  top: -1px !important;
+}
+.sticky-container.data-v-e86245db {
+  background-color: #fff;
+  padding-top: 16rpx;
+}
+.main-box.data-v-e86245db {
+  padding: 32rpx;
+  box-sizing: border-box;
+}
+.input-container.data-v-e86245db {
+  margin-bottom: 16rpx;
+}

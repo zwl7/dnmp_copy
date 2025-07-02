@@ -1,0 +1,1 @@
+<view class="x-card-box flex-direction-row data-v-af7a4685"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" style="{{item.c}}" class="{{['x-card-box-item', 'flex-direction', 'flex-1', 'relative', 'pl-12', 'pt-12', 'data-v-af7a4685', item.d && 'mr-22']}}" bindtap="{{item.e}}"><view class="title-box pr-12 data-v-af7a4685">{{item.a}}</view></view></view>

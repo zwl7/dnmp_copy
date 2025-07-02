@@ -1,0 +1,35 @@
+view.data-v-da6ad0be,
+scroll-view.data-v-da6ad0be,
+swiper-item.data-v-da6ad0be {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.uv-rate.data-v-da6ad0be {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  touch-action: none;
+}
+.uv-rate__content.data-v-da6ad0be {
+  display: flex;
+  flex-direction: row;
+}
+.uv-rate__content__item.data-v-da6ad0be {
+  position: relative;
+}
+.uv-rate__content__item__icon-wrap--half.data-v-da6ad0be {
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+.uv-icon.data-v-da6ad0be {
+  box-sizing: border-box;
+}

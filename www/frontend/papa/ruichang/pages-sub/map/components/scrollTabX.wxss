@@ -1,0 +1,83 @@
+.box.data-v-be0d9ec5 {
+  width: 100%;
+  overflow: auto;
+}
+.scroll-Y.data-v-be0d9ec5 {
+  height: 300rpx;
+}
+.scroll-view_H.data-v-be0d9ec5 {
+  padding: 0rpx 32rpx;
+  white-space: nowrap;
+  width: 100%;
+}
+.scroll-view-item.data-v-be0d9ec5 {
+  height: 300rpx;
+  line-height: 300rpx;
+  text-align: center;
+  font-size: 36rpx;
+}
+.main-box.data-v-be0d9ec5 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 50rpx 20rpx 24rpx 24rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.scroll-view-item_H.data-v-be0d9ec5 {
+  display: inline-block;
+  position: relative;
+}
+.scroll-view-item_H .item-card.data-v-be0d9ec5 {
+  min-width: 152rpx;
+  height: 102rpx;
+  opacity: 1;
+  border-radius: 16rpx;
+  position: relative;
+}
+.scroll-view-item_H .item-card .image-box.data-v-be0d9ec5 {
+  top: -32rpx;
+  position: absolute;
+  background: #fff;
+  width: 64rpx;
+  height: 64rpx;
+  border-radius: 50%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.scroll-view-item_H .item-card .image-box .image-icon.data-v-be0d9ec5 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.scroll-view-item_H .item-card .image-box .image-icon .image.data-v-be0d9ec5 {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  opacity: unset;
+  height: 100%;
+}
+.scroll-view-item_H .item-card .image-box.image-icon-active.data-v-be0d9ec5 {
+  border: 5rpx solid var(--hubei-primary, #409eff);
+}
+.scroll-view-item_H .item-card .image-box.image-icon-inactive.data-v-be0d9ec5 {
+  border: 5rpx solid #c7e2ff;
+}
+.scroll-view-item_H .image-box-title.data-v-be0d9ec5 {
+  margin-top: 10rpx;
+  font-size: 28rpx;
+}
+.scroll-view-item_H .active-item.data-v-be0d9ec5 {
+  background: var(--hubei-map-tab-color-active, #409EFF);
+  color: var(--hubei-map-tab-color-active-text, #ffffff);
+  font-weight: 600;
+}
+.scroll-view-item_H .inactive-item.data-v-be0d9ec5 {
+  background: var(--hubei-map-tab-color-inactive, #e4f1ff);
+  color: var(--hubei-map-tab-color-inactive-text, #606266);
+}
+.padding-right-34.data-v-be0d9ec5 {
+  padding-right: 34rpx;
+}
+.padding-right-24.data-v-be0d9ec5 {
+  padding-right: 24rpx;
+}

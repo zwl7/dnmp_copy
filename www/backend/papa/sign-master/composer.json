@@ -1,0 +1,17 @@
+{
+  "name": "onetech/sign",
+  "description": "基于Redis的bitmap实现的签到功能",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "郭贻体",
+      "email": "740644717@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Onetech\\": "src"
+    }
+  }
+}

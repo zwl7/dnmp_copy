@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "赛事申办详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../components/navBar",
+    "cell-item": "./components/CellItem",
+    "event-tab-des": "./components/EventTabDes",
+    "bottom-button": "../../components/bottomButton"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "404",
+  "usingComponents": {
+    "uv-empty": "../../../node-modules/@climblee/uv-ui/components/uv-empty/uv-empty"
+  }
+}

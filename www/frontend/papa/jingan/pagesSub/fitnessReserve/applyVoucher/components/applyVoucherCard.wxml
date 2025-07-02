@@ -1,0 +1,1 @@
+<view class="apply-voucher-card data-v-75ebd2ec"><view class="card-title data-v-75ebd2ec">报名信息</view><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="item data-v-75ebd2ec"><view class="flex-direction-row data-v-75ebd2ec"><view class="title data-v-75ebd2ec">{{item.a}}:</view><text class="content sle data-v-75ebd2ec">{{item.b}}</text></view></view></view>

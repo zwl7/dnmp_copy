@@ -1,0 +1,1 @@
+<layout-tabbar-uni class="data-v-5ab5f878" u-s="{{['d']}}" u-i="5ab5f878-0" bind:__l="__l"><view class="siteIndex data-v-5ab5f878"><instructor wx:if="{{a}}" class="data-v-5ab5f878" u-i="5ab5f878-1,5ab5f878-0" bind:__l="__l"/><index-site wx:else class="data-v-5ab5f878" u-i="5ab5f878-2,5ab5f878-0" bind:__l="__l"/></view></layout-tabbar-uni>

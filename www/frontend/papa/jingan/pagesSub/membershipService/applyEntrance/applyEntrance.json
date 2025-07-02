@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "会员招募",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index"
+  }
+}

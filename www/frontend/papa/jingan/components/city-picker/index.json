@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-picker": "../../node-modules/@climblee/uv-ui/components/uv-picker/uv-picker"
+  }
+}

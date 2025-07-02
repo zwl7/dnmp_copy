@@ -1,0 +1,1 @@
+<view class="uv-drop-down-item data-v-06b4fdad" bindtap="{{d}}"><uv-text wx:if="{{a}}" class="data-v-06b4fdad" u-i="06b4fdad-0" bind:__l="__l" u-p="{{a}}"></uv-text><uv-icon wx:if="{{b}}" class="data-v-06b4fdad" u-i="06b4fdad-1" bind:__l="__l" u-p="{{c}}"></uv-icon></view>

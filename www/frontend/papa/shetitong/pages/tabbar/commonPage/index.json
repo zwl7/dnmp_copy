@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "公共页面",
+  "usingComponents": {
+    "instructor": "../../instructor/index",
+    "index-site": "../../instructorSite/index"
+  }
+}

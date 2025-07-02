@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "服务风采",
+  "enablePullDownRefresh": true,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "service-style-item": "../../../pages/tabbar/newHome/components/ServiceStyleItem/index",
+    "home-drop-down": "./components/homeDropDown",
+    "month-card": "./components/monthCard"
+  }
+}

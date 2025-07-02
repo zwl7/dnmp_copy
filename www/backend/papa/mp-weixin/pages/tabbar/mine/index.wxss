@@ -1,0 +1,193 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page {
+  background-color: #f6f7f7;
+}
+.mine {
+  box-sizing: border-box;
+  min-height: calc(100vh - 100rpx);
+  background-color: #f6f7f7;
+}
+.header_container {
+  width: 100%;
+  height: 420rpx;
+  background-color: #e05830;
+  box-sizing: border-box;
+  padding: 68rpx 30rpx 94rpx 30rpx;
+  display: flex;
+  align-items: flex-start;
+}
+.header_container .image_box {
+  margin-right: 34rpx;
+  flex-grow: 0;
+  flex-shrink: 0;
+  width: 162rpx;
+  height: 162rpx;
+  box-sizing: border-box;
+  border-radius: 100rpx;
+  overflow: hidden;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.header_container .image_box .image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.header_container .info_box .top {
+  width: 400rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_container .info_box .top .icon {
+  line-height: 96rpx;
+}
+.header_container .info_box .nick_name {
+  font-family: PingFangSC-Medium;
+  font-size: 48rpx;
+  color: #ffffff;
+  font-weight: 500;
+  line-height: 96rpx;
+}
+.header_container .info_box .register {
+  display: flex;
+  align-items: center;
+  font-family: PingFangSC-Regular;
+  font-size: 28rpx;
+  color: #ffffff;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+.main-box {
+  transform: translateY(-100rpx);
+}
+.order_box {
+  width: 100%;
+  box-sizing: border-box;
+  height: 100%;
+  position: relative;
+  padding: 0 30rpx;
+}
+.order_box .main {
+  width: 100%;
+  height: 194rpx;
+  padding: 0 50rpx;
+  box-sizing: border-box;
+  background: #ffffff;
+  border-radius: 12rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.order_box .main .vertical {
+  width: 4rpx;
+  height: 78rpx;
+  background-color: #e05830;
+}
+.order_box .main .item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.order_box .main .item .image {
+  display: block;
+  width: 88rpx;
+  height: 88rpx;
+}
+.order_box .main .item .title {
+  font-family: PingFangSC-Regular;
+  font-size: 28rpx;
+  color: #040404;
+  letter-spacing: 0;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 20rpx;
+}
+.service {
+  padding: 0 30rpx;
+  padding-bottom: 60rpx;
+}
+.service .service1,
+.service .service2 {
+  margin-top: 28rpx;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 12rpx;
+}
+.service .service1 .title,
+.service .service2 .title {
+  font-family: PingFangSC-Medium;
+  font-size: 32rpx;
+  color: #040404;
+  letter-spacing: 0;
+  font-weight: 600;
+  padding: 20rpx 26rpx;
+}
+.service .service1 .service_content,
+.service .service2 .service_content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.service .service1 .service_content .item,
+.service .service2 .service_content .item {
+  width: 25%;
+  margin-bottom: 28rpx;
+}
+.service .service1 .service_content .item .item_contern,
+.service .service2 .service_content .item .item_contern {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.service .service1 .service_content .item .item_img,
+.service .service2 .service_content .item .item_img {
+  margin: 12rpx 0;
+  display: block;
+  width: 52rpx;
+  height: 52rpx;
+}
+.service .service1 .service_content .item .title,
+.service .service2 .service_content .item .title {
+  font-family: PingFangSC-Regular;
+  font-size: 24rpx;
+  color: #040404;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+.info_dialog {
+  padding: 30rpx;
+}
+.info_dialog .van-radio {
+  margin-bottom: 30rpx;
+}
+.info_dialog.van-cell {
+  padding: 20rpx;
+}

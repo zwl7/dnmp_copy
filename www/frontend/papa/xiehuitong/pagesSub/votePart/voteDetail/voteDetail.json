@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "投票活动详情",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "tabs": "../../../components/tabs/index",
+    "option-item": "./componets/optionItem",
+    "sort-list": "./componets/sortList",
+    "uv-count-down": "../../../node-modules/@climblee/uv-ui/components/uv-count-down/uv-count-down",
+    "uv-sticky": "../../../node-modules/@climblee/uv-ui/components/uv-sticky/uv-sticky"
+  }
+}

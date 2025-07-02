@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "my-tab-bar": "../components/my-tab-bar/index"
+  }
+}

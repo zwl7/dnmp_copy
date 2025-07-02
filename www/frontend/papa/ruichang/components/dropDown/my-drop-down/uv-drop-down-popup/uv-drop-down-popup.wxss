@@ -1,0 +1,13 @@
+.uv-dp__container.data-v-33418d24 {
+  overflow: hidden;
+  transition: all 0.15s;
+  overflow: scroll;
+  background-color: #fff;
+  border-radius: 0 0 32rpx 32rpx;
+}
+.uv-dp__container__list--item.data-v-33418d24 {
+  padding: 20rpx 32rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

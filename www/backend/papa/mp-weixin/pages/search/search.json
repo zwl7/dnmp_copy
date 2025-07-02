@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mytabs": "../../components/tabs/mytabs",
+    "search-item": "./components/searchItem",
+    "search-title": "./components/searchTitle",
+    "history-item": "./components/historyItem",
+    "uni-search-bar": "../../uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="title_container"><view class="left"><view class="title">{{a}}</view></view><view class="right"><view wx:if="{{b}}" class="right_default" bindtap="{{d}}"><text>更多</text><uni-icons wx:if="{{c}}" u-i="4e39fee0-0" bind:__l="__l" u-p="{{c}}"></uni-icons></view></view></view>

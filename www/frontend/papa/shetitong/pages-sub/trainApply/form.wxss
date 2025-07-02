@@ -1,0 +1,24 @@
+.data-v-2cc00de8 .uv-form-item__body__right__content__slot {
+  display: block;
+}
+.fr.data-v-2cc00de8 {
+  float: right;
+}
+.uv-textarea.data-v-2cc00de8 {
+  padding: 0;
+  font-size: 0.875rem;
+  text-align: right;
+}
+.uv-textarea__field.data-v-2cc00de8 {
+  display: flex;
+  align-items: center;
+}
+.uni-textarea-placeholder.data-v-2cc00de8 {
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.uv-textarea--disabled.data-v-2cc00de8 {
+  background-color: transparent;
+}

@@ -1,0 +1,14 @@
+.main-box.data-v-4af2bac9 {
+  padding: 32rpx 24rpx;
+}
+.month-card-box.data-v-4af2bac9 {
+  position: relative;
+  padding: 32rpx 32rpx 0;
+  background-color: #fff;
+}
+.sticky.data-v-4af2bac9 {
+  position: relative;
+}
+.list-item-box.data-v-4af2bac9:last-child {
+  border-bottom: none;
+}

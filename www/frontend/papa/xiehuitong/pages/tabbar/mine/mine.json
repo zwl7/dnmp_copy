@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "user-info": "./components/UserInfo",
+    "card-item": "./components/CardItem"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-avatar": "../../node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar",
+    "uv-form-item": "../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-input": "../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-textarea": "../../node-modules/@climblee/uv-ui/components/uv-textarea/uv-textarea",
+    "uv-radio": "../../node-modules/@climblee/uv-ui/components/uv-radio/uv-radio",
+    "uv-radio-group": "../../node-modules/@climblee/uv-ui/components/uv-radio-group/uv-radio-group",
+    "uv-form": "../../node-modules/@climblee/uv-ui/components/uv-form/uv-form",
+    "uv-picker": "../../node-modules/@climblee/uv-ui/components/uv-picker/uv-picker"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "level-icon": "../../../../components/LevelIcon/index",
+    "uv-avatar": "../../../../node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar",
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-album": "../../../../node-modules/@climblee/uv-ui/components/uv-album/uv-album",
+    "uv-rate": "../../../../node-modules/@climblee/uv-ui/components/uv-rate/uv-rate",
+    "uv-popup": "../../../../node-modules/@climblee/uv-ui/components/uv-popup/uv-popup"
+  }
+}

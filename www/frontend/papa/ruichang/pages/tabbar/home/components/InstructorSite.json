@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "card-type": "./CardType",
+    "rank-icon": "../../../../components/LevelIcon/rank"
+  }
+}

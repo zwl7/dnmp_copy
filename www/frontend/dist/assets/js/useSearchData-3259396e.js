@@ -1,0 +1,1 @@
+import{g as o}from"./project-7708919b.js";import{g as r}from"./saihui-f69ee65f.js";import{r as s}from"./index-73817fb6.js";const g=()=>{const a=s([]),i=async()=>{let t=await o({});t.code==200&&(a.value=t.data)},e=s([]);return{getProjectAll:i,projectList:a,saihuiList:e,getSaiHuiAll:async()=>{let t=await r();t.code==200&&(e.value=t.data)}}};export{g as u};

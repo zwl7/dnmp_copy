@@ -1,0 +1,130 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.page-container.data-v-6a61e80b {
+  background: linear-gradient(180deg, #ffffff 0%, #fafbfc 100%);
+  box-sizing: border-box;
+  padding-bottom: 300rpx;
+}
+.title.data-v-6a61e80b {
+  color: rgb(255, 255, 255);
+}
+.nav_top_bg.data-v-6a61e80b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 422rpx;
+}
+.nav_top_bg .image.data-v-6a61e80b {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.page-pad.data-v-6a61e80b {
+  padding: 20rpx 32rpx 0 32rpx;
+  box-sizing: border-box;
+}
+.notice-box.data-v-6a61e80b {
+  margin-top: -80rpx;
+  z-index: 100;
+}
+.coupon.data-v-6a61e80b {
+  display: flex;
+  justify-content: center;
+  padding: 32rpx 32rpx 48rpx 32rpx;
+}
+.coupon image.data-v-6a61e80b {
+  display: block;
+  width: 686rpx;
+  height: 150rpx;
+  opacity: 1;
+}
+.hall .hall-image.data-v-6a61e80b {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rpx;
+}
+.hall .hall-image .center.data-v-6a61e80b {
+  display: flex;
+  align-items: center;
+  height: 34rpx;
+}
+.hall .hall-image .center image.data-v-6a61e80b {
+  display: block;
+  width: 24rpx;
+  height: 24rpx;
+  margin-right: 12rpx;
+}
+.hall .hall-image .center text.data-v-6a61e80b {
+  opacity: 1;
+  /** 文本1 */
+  font-size: 24rpx;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: rgb(122, 134, 154);
+}
+.hall .main_list.data-v-6a61e80b {
+  padding: 0 32rpx 0 32rpx;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+.hall .main_list .train_list_item.data-v-6a61e80b {
+  width: 50%;
+  box-sizing: border-box;
+}
+.hall .main_list .train_list_item.data-v-6a61e80b:nth-child(odd) {
+  padding-right: 11rpx;
+}
+.hall .main_list .train_list_item.data-v-6a61e80b:nth-child(even) {
+  padding-left: 11rpx;
+}
+.hall .main_list .main_list_item.data-v-6a61e80b {
+  width: 50%;
+  box-sizing: border-box;
+  margin-bottom: 22rpx;
+}
+.hall .main_list .main_list_item.data-v-6a61e80b:nth-child(odd) {
+  padding-right: 11rpx;
+}
+.hall .main_list .main_list_item.data-v-6a61e80b:nth-child(even) {
+  padding-left: 11rpx;
+}
+.information .information-more.data-v-6a61e80b {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 32rpx 32rpx 32rpx 32rpx;
+}
+.information .information-more .more.data-v-6a61e80b {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 686rpx;
+  height: 92rpx;
+  opacity: 1;
+  border-radius: 16rpx;
+  background: var(--hubei-card-bg2, rgba(64, 158, 255, 0.1));
+}
+.information .information-more .more text.data-v-6a61e80b {
+  width: 192rpx;
+  height: 48rpx;
+  opacity: 1;
+  /** 文本1 */
+  font-size: 32rpx;
+  font-weight: 500;
+  color: var(--hubei-primary, #409eff);
+  margin-right: 8rpx;
+}

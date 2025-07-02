@@ -1,0 +1,63 @@
+.tab-switch .tab-container.data-v-1e4bd579 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #516190;
+  border: 1px solid #516190;
+  border-radius: 100rpx;
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0 auto;
+  height: 48rpx;
+}
+.tab-switch .tab-container .tab-item.data-v-1e4bd579 {
+  padding: 4rpx 20rpx;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tab-switch .tab-container .tab-item text.data-v-1e4bd579 {
+  position: relative;
+  z-index: 2;
+  font-size: 28rpx;
+  color: #fff;
+}
+.tab-switch .tab-container .tab-item.active.data-v-1e4bd579 {
+  border-radius: 100rpx 0 0 100rpx;
+  color: #fff;
+  background: var(--hubei-primary, #409EFF);
+}
+.tab-switch .tab-container .tab-item.active.data-v-1e4bd579::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -6rpx;
+  width: 12rpx;
+  height: 100%;
+  background: var(--hubei-primary, #409EFF);
+  transform: skewX(-15deg);
+}
+.tab-switch .tab-container .tab-item.active2.data-v-1e4bd579 {
+  color: #fff;
+  background: var(--hubei-primary, #409EFF);
+  border-radius: 0 100rpx 100rpx 0;
+}
+.tab-switch .tab-container .tab-item.active2.data-v-1e4bd579::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -6rpx;
+  width: 12rpx;
+  height: 100%;
+  background: var(--hubei-primary, #409EFF);
+  transform: skewX(-15deg);
+}
+.tab-switch .tab-container .divider.data-v-1e4bd579 {
+  color: #999;
+  transform: rotate(25deg);
+  margin: 0 10rpx;
+  z-index: 1;
+}

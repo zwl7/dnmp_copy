@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "pa-form": "../../../../components/paForm/paForm"
+  }
+}

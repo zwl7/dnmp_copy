@@ -1,0 +1,21 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "common-title": "./components/commonTitle",
+    "swiper-list": "./components/swiperList",
+    "notice": "./components/notice",
+    "card": "./components/card",
+    "scroll-x": "./components/scrollX",
+    "tabs": "../../../components/tabs/index",
+    "notice-dialog": "./components/noticeDialog",
+    "news-list-item": "../../newsList/components/newsListItem",
+    "page-loading": "../../../components/pageLoading",
+    "show-card": "./components/showCard",
+    "x-card": "./components/xCard",
+    "uni-icons": "../../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

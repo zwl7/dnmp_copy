@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-grid-item": "../../../../node-modules/@climblee/uv-ui/components/uv-grid-item/uv-grid-item",
+    "uv-grid": "../../../../node-modules/@climblee/uv-ui/components/uv-grid/uv-grid"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "zwl/demo",
+    "description": "this is demo package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zwl\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zwl7",
+            "email": "1021103065@qq.com"
+        }
+    ],
+    "require": {
+        "godruoyi/php-snowflake": "2.2.4"
+    }
+}

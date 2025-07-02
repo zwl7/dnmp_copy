@@ -1,0 +1,99 @@
+.list_item.data-v-0bdc386f {
+  box-sizing: border-box;
+  display: flex;
+  background-color: #fff;
+  border-radius: 24rpx;
+  overflow: hidden;
+  padding: 24rpx;
+  box-sizing: border-box;
+}
+.list_item .left.data-v-0bdc386f {
+  width: 190rpx;
+  height: 130rpx;
+  flex-grow: 0;
+  border-radius: 16rpx;
+  overflow: hidden;
+}
+.list_item .image.data-v-0bdc386f {
+  -o-object-fit: cover;
+     object-fit: cover;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.list_item .right.data-v-0bdc386f {
+  flex: 1;
+  padding-left: 26rpx;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.list_item .right .row1.data-v-0bdc386f {
+  overflow: hidden;
+}
+.list_item .right .row1 .title.data-v-0bdc386f {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  width: 100%;
+  font-family: PingFangSC-Regular;
+  font-size: 32rpx;
+  color: rgb(48, 49, 51);
+  letter-spacing: 0;
+  line-height: 46rpx;
+  font-weight: 400;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.list_item .right .row2.data-v-0bdc386f {
+  display: flex;
+  overflow: auto;
+}
+.list_item .right .row2 .sport_item.data-v-0bdc386f {
+  box-sizing: border-box;
+  flex-shrink: 0;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: 100%;
+  height: 40rpx;
+  line-height: 36rpx;
+  border-radius: 4rpx;
+  margin-right: 10rpx;
+  margin-bottom: 6rpx;
+  background: rgb(236, 245, 255);
+  border: 1px solid rgb(217, 236, 255);
+  font-size: 24rpx;
+  color: rgb(64, 158, 255);
+  letter-spacing: 0;
+  text-align: center;
+  font-weight: 500;
+  padding: 0 20rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.list_item .right .row3.data-v-0bdc386f {
+  overflow: hidden;
+}
+.list_item .right .row3 .distance.data-v-0bdc386f {
+  flex-shrink: 0;
+  margin-right: 12rpx;
+  margin-left: 12rpx;
+}
+.list_item .right .row3 .distance.data-v-0bdc386f,
+.list_item .right .row3 .address.data-v-0bdc386f {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: PingFangSC-Regular;
+  font-size: 24rpx;
+  color: rgb(168, 171, 178);
+  line-height: 40rpx;
+  text-align: center;
+  font-weight: 400;
+}
+.flex_between.data-v-0bdc386f {
+  display: flex;
+  align-items: center;
+}

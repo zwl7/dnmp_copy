@@ -1,0 +1,90 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.grid {
+  display: grid;
+  width: 100%;
+  overflow-x: hidden;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-auto-rows: 108rpx;
+  /* 设置网格线大小 */
+  grid-gap: 10rpx;
+  text-align: center;
+}
+.header {
+  color: #909399;
+  font-size: 28rpx;
+  grid-auto-rows: 60rpx;
+  line-height: 60rpx;
+}
+.text-left {
+  text-align: left;
+  display: flex;
+  align-items: center;
+  line-height: 1;
+}
+.text-left .image {
+  display: block;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 80rpx;
+  flex-shrink: 0;
+  margin-right: 16rpx;
+}
+.row {
+  grid-auto-rows: 108rpx;
+  line-height: 108rpx;
+  border-radius: 12rpx;
+  margin-bottom: 16rpx;
+}
+.row.level-1 {
+  background: linear-gradient(270deg, #fffdf8 0%, #fff1d4 100%);
+}
+.row.level-2 {
+  background: linear-gradient(270deg, #fafcff 0%, #e9f3ff 100%);
+}
+.row.level-3 {
+  background: linear-gradient(270deg, #fff9f5 0%, #fff0e6 100%);
+}
+.row view {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #303133;
+}
+.row .image-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: red;
+}
+.row .image {
+  display: block;
+  width: 42rpx;
+  height: 54rpx;
+}
+.row .level-image {
+  display: block;
+  width: 108rpx;
+  height: 40rpx;
+}
+.bottom-box {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  margin-bottom: 0;
+  border-radius: 24rpx 24rpx 0 0;
+  padding-bottom: 36rpx;
+  box-shadow: 0px -2px 26px rgba(15, 62, 164, 0.09);
+}

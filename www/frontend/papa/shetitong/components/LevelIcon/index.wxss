@@ -1,0 +1,23 @@
+.icon-level.data-v-6b7b8a05 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 4rpx 10rpx 4rpx 0;
+  height: 28rpx;
+  font-size: 11px;
+  text-align: right;
+  border-radius: 80rpx;
+}
+.icon-level.l1.data-v-6b7b8a05 {
+  color: #a45f21;
+  background: linear-gradient(270deg, #f6cb7d 0%, #f9d59b 100%);
+}
+.icon-level.l2.data-v-6b7b8a05 {
+  color: #425a81;
+  background: linear-gradient(214.35deg, #c2d4ef 0%, #d4e0f3 100%);
+}
+.empty.data-v-6b7b8a05 {
+  font-size: 28rpx;
+  color: #909090;
+  line-height: 1;
+}

@@ -1,0 +1,49 @@
+.month-switch-card.data-v-d0cf89ba {
+  background: linear-gradient(180deg, var(--hubei-mine-card-end, rgba(64, 158, 255, 0.2)) 0%, var(--hubei-primary-light, #D9ECFF) 100%);
+  box-sizing: border-box;
+  padding: 24rpx;
+  border-radius: 24rpx;
+}
+.month-switch-card .year.data-v-d0cf89ba {
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #303313;
+  margin: 0 6rpx;
+}
+.month-switch-card .total.data-v-d0cf89ba {
+  font-size: 24rpx;
+  color: #606266;
+}
+.month-switch-card .total-num.data-v-d0cf89ba {
+  color: var(--hubei-primary, #409EFF);
+}
+.month-switch-card .body.data-v-d0cf89ba {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 24rpx;
+  margin-top: 32rpx;
+}
+.month-switch-card .month-button.data-v-d0cf89ba {
+  border-radius: 50%;
+  width: 86rpx;
+  height: 86rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28rpx;
+  background-color: #fff;
+  color: #606266;
+  margin: 0 auto;
+}
+.month-switch-card .month-button.active.data-v-d0cf89ba {
+  background-color: var(--hubei-primary, #409EFF);
+  color: #fff;
+}
+.month-switch-card .month-button.active .month-number.data-v-d0cf89ba {
+  color: #fff;
+}
+.month-switch-card .month-number.data-v-d0cf89ba {
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #303313;
+}

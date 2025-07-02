@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "level-icon": "../../../../components/LevelIcon/index",
+    "uv-avatar": "../../../../node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar",
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

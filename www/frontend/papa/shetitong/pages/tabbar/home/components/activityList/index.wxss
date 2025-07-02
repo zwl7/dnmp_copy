@@ -1,0 +1,14 @@
+.list-title-box.data-v-eaa2e97a {
+  padding: 32rpx;
+  box-sizing: border-box;
+}
+.list-item-box.data-v-eaa2e97a {
+  border-bottom: 10px solid #f7f8fa;
+}
+.list-item-box.data-v-eaa2e97a:last-child {
+  border-bottom: none;
+}
+.button-box.data-v-eaa2e97a {
+  padding: 32rpx;
+  box-sizing: border-box;
+}

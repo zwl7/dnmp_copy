@@ -1,0 +1,62 @@
+.detail-service.data-v-54813dab {
+  width: 100%;
+  min-height: 192rpx;
+  display: flex;
+  font-size: 12px;
+  font-weight: 400;
+  color: #909399;
+  border-radius: 20rpx;
+  overflow: hidden;
+  background-image: url(https://cdn-static.papa.com.cn/hubei/images/detailService-bg.png);
+}
+.detail-service .v-phone.data-v-54813dab {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 136rpx;
+  border-left: 12rpx solid #fff;
+  box-sizing: border-box;
+}
+.detail-service .v-phone .icon.data-v-54813dab {
+  margin-bottom: 8rpx;
+  width: 48rpx;
+  height: 48rpx;
+}
+.detail-service .v-phone .icon .img.data-v-54813dab {
+  width: 100%;
+  height: 100%;
+}
+.detail-service .v-address.data-v-54813dab {
+  padding: 44rpx 24rpx 44rpx 24rpx;
+  min-width: 450rpx;
+  display: flex;
+  align-items: center;
+}
+.detail-service .v-address .main.data-v-54813dab {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgb(48, 49, 51);
+}
+.detail-service .v-address .icon.data-v-54813dab {
+  margin-right: 20rpx;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50rpx;
+  height: 100%;
+  box-sizing: border-box;
+}
+.detail-service .v-address .icon-map.data-v-54813dab {
+  margin-bottom: 4rpx;
+  width: 46rpx;
+  height: 60rpx;
+}
+.detail-service .v-address .icon-map .img.data-v-54813dab {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,1 @@
+<view class="fitness-trail-item data-v-06524264" bindtap="{{c}}"><view class="list_item data-v-06524264"><view class="pl-18 pr-18 pt-18 data-v-06524264"><view class="top-img data-v-06524264"><image class="block-100-100 data-v-06524264" src="{{a}}" mode="aspectFill"/></view></view><view class="title_box data-v-06524264">{{b}}</view></view></view>

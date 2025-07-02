@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wu-calendar-block": "../wu-calendar-block/wu-calendar-block",
+    "uv-icon": "../../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-safe-bottom": "../../../../node-modules/@climblee/uv-ui/components/uv-safe-bottom/uv-safe-bottom"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="container"><view class="item activity"><view class="circle">1</view><view class="title">提交申请</view></view><view class="line"></view><view class="{{['item', a]}}"><view class="circle">2</view><view class="title">申请表上传</view></view></view>

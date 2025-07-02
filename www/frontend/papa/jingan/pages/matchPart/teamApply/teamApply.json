@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "团队报名",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "bottom-button": "../../../components/bottomButton",
+    "ceil-line": "../components/ceilLine",
+    "insurance-card-vue": "../../../components/insurance/insuranceCard",
+    "common-team-select-dialog": "../components/commonTeamSelectDialog",
+    "extend-form": "./components/ExtendForm"
+  }
+}

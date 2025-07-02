@@ -1,0 +1,19 @@
+.site-instructors.data-v-a500cf48 {
+  padding: 20rpx 0;
+}
+.site-instructors .instructor-list.data-v-a500cf48 {
+  padding: 0 22rpx;
+}
+.site-instructors .instructor-list .instructor-item.data-v-a500cf48 {
+  width: 100%;
+  margin-top: 32rpx;
+}
+.des-content-title.data-v-a500cf48 {
+  font-size: 30rpx;
+  color: #303313;
+  font-weight: 600;
+  line-height: 1;
+}
+.out-box.data-v-a500cf48 {
+  padding: 0 22rpx;
+}

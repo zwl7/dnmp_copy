@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "活动列表",
+  "usingComponents": {
+    "activity-item": "../../components/ActivityItem/index",
+    "home-drop-down": "./components/homeDropDown",
+    "month-card": "./components/monthCard",
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

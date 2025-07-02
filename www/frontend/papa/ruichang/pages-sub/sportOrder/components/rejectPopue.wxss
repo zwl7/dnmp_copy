@@ -1,0 +1,27 @@
+.contentBox.data-v-b5cb19d4 {
+  position: relative;
+}
+.contentBox .topIcon.data-v-b5cb19d4 {
+  width: 160rpx;
+  height: 172rpx;
+  position: absolute;
+  left: 50%;
+  top: -135rpx;
+  transform: translateX(-40%);
+}
+.titleBox.data-v-b5cb19d4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.titleBox .title.data-v-b5cb19d4 {
+  font-size: 32rpx;
+  color: rgb(50, 50, 51);
+  font-weight: 600;
+}
+.titleBox .close.data-v-b5cb19d4 {
+  font-size: 40rpx;
+}
+.form.data-v-b5cb19d4 {
+  margin: 32rpx auto 40rpx;
+}

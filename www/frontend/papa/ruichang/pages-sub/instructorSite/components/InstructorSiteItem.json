@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "rank-icon": "../../../components/LevelIcon/rank",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

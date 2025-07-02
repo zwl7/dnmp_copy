@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "场地预订",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar",
+    "week-calendar": "./components/weekCalendar"
+  }
+}

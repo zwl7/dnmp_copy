@@ -1,0 +1,1 @@
+<layout-default-uni u-s="{{['d']}}" u-i="52ba45a0-0" bind:__l="__l"><view class="h-full flex justify-center items-center relative -mt-12"> 进入此页面说明你已经实名认证成功 </view></layout-default-uni>

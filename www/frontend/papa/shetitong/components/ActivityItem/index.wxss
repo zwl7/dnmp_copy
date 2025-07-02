@@ -1,0 +1,160 @@
+.activity-container.data-v-89a62a85 {
+  padding: 32rpx;
+  margin-bottom: 16rpx;
+  color: #303133;
+  background-color: #fff;
+}
+.activity-container .activity-header.data-v-89a62a85 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-size: 28rpx;
+}
+.activity-container .activity-header .user-wrap.data-v-89a62a85 {
+  display: flex;
+}
+.activity-container .activity-header .user-wrap .user-img.data-v-89a62a85,
+.activity-container .activity-header .user-wrap image.data-v-89a62a85 {
+  margin-right: 24rpx;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.activity-container .activity-header .user-wrap .user-info-box .uv-name.data-v-89a62a85 {
+  max-width: 300rpx;
+  color: var(--hubei-primary, #409EFF);
+  margin-right: 24rpx;
+}
+.activity-container .activity-header .user-wrap .user-info-box .uv-time.data-v-89a62a85 {
+  font-size: 24rpx;
+  color: #a8abb2;
+  margin-top: 8rpx;
+}
+.activity-container .activity-header .hot.data-v-89a62a85 {
+  display: flex;
+  align-items: center;
+}
+.activity-container .activity-header .hot .hot-num.data-v-89a62a85 {
+  margin-left: 8rpx;
+  font-size: 24rpx;
+  color: #f56c6c;
+}
+.activity-container .activity-header .check-status.data-v-89a62a85 {
+  padding: 4rpx 14rpx;
+  font-size: 24rpx;
+  color: #5ac725;
+  background-color: #f5fff0;
+  border-radius: 100rpx;
+}
+.activity-container .activity-header .check-status.warning.data-v-89a62a85 {
+  color: #f9ae3d;
+  background-color: #fdf6ec;
+}
+.activity-container .activity-header .check-status.error.data-v-89a62a85 {
+  color: #f56c6c;
+  background-color: #f7b2b2;
+}
+.activity-container .activity-des.data-v-89a62a85 {
+  margin: 28rpx 0 24rpx;
+  color: #303133;
+  box-sizing: border-box;
+}
+.activity-container .activity-location.data-v-89a62a85 {
+  display: flex;
+  align-items: center;
+  margin: 24rpx 0 24rpx;
+}
+.activity-container .activity-location .text.data-v-89a62a85 {
+  padding-left: 8rpx !important;
+  font-size: 24rpx !important;
+  color: #a8abb2 !important;
+}
+.activity-container .activity-footer.data-v-89a62a85 {
+  display: flex;
+  justify-content: space-between;
+}
+.activity-container .activity-footer .foo-left.data-v-89a62a85 {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: center;
+  font-size: 24rpx;
+  color: #909399;
+}
+.activity-container .activity-footer .foo-left .img-wrap.data-v-89a62a85 {
+  margin-right: 26rpx;
+}
+.activity-container .activity-footer .foo-left .img-wrap img.data-v-89a62a85,
+.activity-container .activity-footer .foo-left .img-wrap image.data-v-89a62a85 {
+  margin-right: -12rpx;
+  width: 36rpx;
+  height: 36rpx;
+  border-radius: 50%;
+}
+.activity-container .activity-footer .foo-right.data-v-89a62a85 {
+  display: flex;
+  align-items: center;
+}
+.activity-container .activity-footer .foo-right .f-right-item.data-v-89a62a85 {
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+}
+.activity-container .activity-footer .foo-right .f-right-item.data-v-89a62a85:first-child {
+  margin-right: 28rpx;
+}
+.activity-container .activity-footer .foo-right .f-right-item.data-v-89a62a85 :last-child {
+  margin-left: 8rpx;
+}
+.activity-container .activity-footer .foo-right .f-right-item.del.data-v-89a62a85 {
+  margin-left: 10rpx;
+}
+.tip-box.data-v-89a62a85 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8rpx;
+  background-color: rgb(247, 249, 252);
+  padding: 12rpx 24rpx;
+  margin-bottom: 24rpx;
+}
+.tip-box .left.data-v-89a62a85 {
+  font-size: 24rpx;
+  color: #a5adba;
+  font-weight: 400;
+}
+.userBox.data-v-89a62a85 {
+  padding: 32rpx;
+  box-sizing: border-box;
+}
+.userBox .title.data-v-89a62a85 {
+  text-align: center;
+  font-size: 32rpx;
+  font-weight: 500;
+  line-height: 46rpx;
+  color: #303133;
+  position: relative;
+}
+.userBox .close.data-v-89a62a85 {
+  position: absolute;
+  right: 0;
+  top: 4rpx;
+}
+.userBox .card-item.data-v-89a62a85 {
+  padding: 64rpx 0 128rpx;
+}
+.userBox .card-item .tip.data-v-89a62a85 {
+  color: #323233;
+  font-size: 30rpx;
+}
+.userBox .card-item .rate-box.data-v-89a62a85 {
+  display: flex;
+  align-items: center;
+  margin-top: 32rpx;
+}
+.userBox .card-item .rate-box .right.data-v-89a62a85 {
+  margin-left: 32rpx;
+  font-size: 28rpx;
+  color: #ff9e00;
+}

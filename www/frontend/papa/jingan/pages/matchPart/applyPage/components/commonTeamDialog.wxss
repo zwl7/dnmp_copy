@@ -1,0 +1,52 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.userBox.data-v-21683594 {
+  padding: 32rpx;
+  box-sizing: border-box;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.userBox .title.data-v-21683594 {
+  text-align: left;
+  font-size: 32rpx;
+  font-weight: 500;
+  line-height: 46rpx;
+  color: #303133;
+  position: relative;
+}
+.userBox .close.data-v-21683594 {
+  position: absolute;
+  right: 0;
+  top: 4rpx;
+}
+.center-box.data-v-21683594 {
+  flex: 1;
+  overflow: auto;
+  padding: 32rpx 0;
+}
+.center-box .flex-box.data-v-21683594 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32rpx;
+}
+.center-box .flex-box .set-box.data-v-21683594 {
+  flex: 1;
+}
+.center-box .flex-box .add-box.data-v-21683594 {
+  flex: 2;
+}
+.bottom-box.data-v-21683594 {
+  flex-shrink: 0;
+}

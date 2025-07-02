@@ -1,0 +1,1 @@
+<view class="{{['data-v-9beff492', 'round-button-container', b]}}" style="{{c}}" bindtap="{{d}}"><view class="center data-v-9beff492"><slot></slot> {{a}}</view></view>

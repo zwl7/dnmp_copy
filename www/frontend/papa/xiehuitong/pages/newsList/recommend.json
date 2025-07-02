@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "推荐专区",
+  "usingComponents": {
+    "news-list-item": "./components/newsListItem",
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs"
+  }
+}

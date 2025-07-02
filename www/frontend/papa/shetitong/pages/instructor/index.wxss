@@ -1,0 +1,14 @@
+.sticky.data-v-1693e6f6 {
+  top: -1px !important;
+}
+.main-box.data-v-1693e6f6 {
+  padding: 32rpx;
+  box-sizing: border-box;
+}
+.sticky-container.data-v-1693e6f6 {
+  background-color: #fff;
+  padding-top: 16rpx;
+}
+.input-container.data-v-1693e6f6 {
+  margin-bottom: 2rpx;
+}

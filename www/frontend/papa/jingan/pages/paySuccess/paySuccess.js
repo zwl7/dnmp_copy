@@ -1,0 +1,48 @@
+"use strict";
+const common_vendor = require("../../common/vendor.js");
+const mixins_themeMixins = require("../../mixins/themeMixins.js");
+const _sfc_main = {
+  mixins: [mixins_themeMixins.themeMixins],
+  data() {
+    return {
+      title: "支付成功",
+      type: "activity"
+      // helath
+    };
+  },
+  onLoad(options) {
+    this.applicant_id = options.applicant_id;
+    if (options.title) {
+      this.title = options.title;
+    }
+    if (this.type) {
+      this.type = options.type;
+    }
+  },
+  methods: {
+    jumpToQrcode(type) {
+      if (type == 1) {
+        common_vendor.index.reLaunch({
+          url: "/pages/tabbar/newHome/newHome"
+        });
+      } else {
+        common_vendor.index.redirectTo({
+          url: `/pages/sportCodeRights/sportCodeRights`
+        });
+      }
+    }
+  }
+};
+if (!Array) {
+  const _component_layout_default_uni = common_vendor.resolveComponent("layout-default-uni");
+  _component_layout_default_uni();
+}
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return {
+    a: _ctx.getThemeIcon("result_success"),
+    b: common_vendor.t($data.title),
+    c: common_vendor.o(($event) => $options.jumpToQrcode(1))
+  };
+}
+const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-788a4eb2"]]);
+wx.createPage(MiniProgramPage);

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-form-item": "../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-form": "../../node-modules/@climblee/uv-ui/components/uv-form/uv-form"
+  }
+}

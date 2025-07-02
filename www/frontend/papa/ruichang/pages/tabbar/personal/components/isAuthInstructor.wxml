@@ -1,0 +1,1 @@
+<view class="stadium-join-card data-v-8e8f2d53" bindtap="{{a}}"><image src="https://cdn-static.papa.com.cn/social/themeStatic/SkyBlue/social_auth_card.png" class="image data-v-8e8f2d53" mode="widthFix"/></view>

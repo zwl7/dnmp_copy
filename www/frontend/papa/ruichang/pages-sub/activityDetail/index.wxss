@@ -1,0 +1,33 @@
+.activity-detail-container.data-v-9f782bff {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+}
+.activity-detail-container .praise-container.data-v-9f782bff {
+  position: relative;
+  top: -20rpx;
+  display: flex;
+  align-items: center;
+  padding: 20rpx 5rpx;
+  margin: 0 32rpx;
+  background-color: var(--hubei-primary-light, #d9ecff);
+  border-radius: 16rpx;
+}
+.activity-detail-container .praise-container .avatar-wrap.data-v-9f782bff {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 5rpx;
+  margin-left: 5rpx;
+}
+.activity-detail-container .praise-container .avatar-wrap image.data-v-9f782bff {
+  width: 64rpx;
+  height: 64rpx;
+  border-radius: 50%;
+}
+.activity-detail-container .praise-container .praise-text.data-v-9f782bff {
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: -0.01px;
+  line-height: 20px;
+  color: rgb(144, 147, 153);
+}

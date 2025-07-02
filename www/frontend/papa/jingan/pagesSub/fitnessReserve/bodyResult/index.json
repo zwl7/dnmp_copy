@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "体测结果",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "report-item": "./components/reportItem",
+    "foot-item": "./components/footItem",
+    "uv-form-item": "../../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-form": "../../../node-modules/@climblee/uv-ui/components/uv-form/uv-form"
+  }
+}

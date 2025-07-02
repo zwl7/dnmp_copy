@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "预约时间",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#e7f2fe",
+  "backgroundColor": "#e7f2fe",
+  "usingComponents": {
+    "fitness-reserve-item": "../fitnessReserve/components/fitnessReserveItem",
+    "week-calendar": "./components/weekCalendar",
+    "time-select": "./components/timeSelect",
+    "people-item": "./components/peopleItem",
+    "add-user-popup": "./components/addUserPopup",
+    "notice-popup": "./components/noticePopup",
+    "bottom-button": "../../../components/bottomButton",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-safe-bottom": "../../../node-modules/@climblee/uv-ui/components/uv-safe-bottom/uv-safe-bottom"
+  }
+}

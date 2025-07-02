@@ -1,0 +1,1 @@
+<view class="tabs-container data-v-1e309488"><uv-tabs wx:if="{{b}}" class="data-v-1e309488" bindclick="{{a}}" u-i="1e309488-0" bind:__l="__l" u-p="{{b}}"></uv-tabs></view>

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "体育地图",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "nav-bar": "../../components/navBar/index",
+    "show-map-info-popup": "./components/showMapInfoPopup",
+    "scroll-tab-x": "./components/scrollTabX"
+  }
+}

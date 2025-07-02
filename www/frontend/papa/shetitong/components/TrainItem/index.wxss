@@ -1,0 +1,106 @@
+.activity-container.data-v-b7ad720d {
+  padding: 32rpx;
+  margin: 0 auto 16rpx;
+  font-size: 28rpx;
+  color: #303133;
+  background-color: #fff;
+  border-radius: 24rpx;
+}
+.activity-container .activety-centent.data-v-b7ad720d {
+  display: flex;
+  align-items: center;
+  margin-bottom: 32rpx;
+}
+.activity-container .activety-centent .imag-tag.data-v-b7ad720d {
+  font-size: 20rpx;
+  min-width: 90rpx;
+  height: 40rpx;
+  position: absolute;
+  z-index: 1;
+  color: #fff;
+  clip-path: polygon(80% 0%, 0% 0%, 0% 100%, 100% 100%);
+  border-radius: 0 30rpx 15rpx 0;
+}
+.activity-container .activety-centent .v-left.data-v-b7ad720d {
+  margin-right: 24rpx;
+  width: 218rpx;
+  height: 218rpx;
+  border-radius: 16rpx;
+}
+.activity-container .activety-centent .v-right.data-v-b7ad720d {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+  height: 218rpx;
+}
+.activity-container .activety-centent .v-right .activity-des.data-v-b7ad720d {
+  font-size: 32rpx;
+  color: #303133;
+}
+.activity-container .activety-centent .v-right .r-center.data-v-b7ad720d {
+  line-height: 2;
+}
+.activity-container .activety-centent .v-right .r-center .activity-location.data-v-b7ad720d,
+.activity-container .activety-centent .v-right .r-center .activity-time.data-v-b7ad720d {
+  display: flex;
+  align-items: center;
+}
+.activity-container .activety-centent .v-right .r-center .activity-location .text.data-v-b7ad720d,
+.activity-container .activety-centent .v-right .r-center .activity-time .text.data-v-b7ad720d {
+  padding-left: 8rpx;
+  font-size: 24rpx;
+  color: #a8abb2;
+}
+.activity-container .activity-footer.data-v-b7ad720d {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.activity-container .activity-footer .foo-left.data-v-b7ad720d {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: center;
+  font-size: 12px;
+  color: #909399;
+}
+.activity-container .activity-footer .foo-left .img-wrap.data-v-b7ad720d {
+  margin-right: 13px;
+}
+.activity-container .activity-footer .foo-left .img-wrap image.data-v-b7ad720d {
+  margin-right: -6px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+}
+.activity-container .activity-footer .foo-right.data-v-b7ad720d {
+  width: 150rpx;
+}
+.row2.data-v-b7ad720d {
+  display: flex;
+  overflow: auto;
+}
+.row2 .sport_item.data-v-b7ad720d {
+  box-sizing: border-box;
+  flex-shrink: 0;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: 100%;
+  height: 40rpx;
+  line-height: 36rpx;
+  border-radius: 4rpx;
+  margin-right: 10rpx;
+  margin-bottom: 6rpx;
+  background: var(--hubei-primary-light, #D9ECFF);
+  border: 1px solid var(--hubei-primary-disabled, #ECF5FF);
+  font-size: 24rpx;
+  color: var(--hubei-primary, #409EFF);
+  letter-spacing: 0;
+  text-align: center;
+  font-weight: 500;
+  padding: 0 20rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

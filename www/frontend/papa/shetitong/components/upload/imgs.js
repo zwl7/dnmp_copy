@@ -1,0 +1,167 @@
+"use strict";
+var __defProp = Object.defineProperty;
+var __defProps = Object.defineProperties;
+var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
+var __getOwnPropSymbols = Object.getOwnPropertySymbols;
+var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __propIsEnum = Object.prototype.propertyIsEnumerable;
+var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
+var __spreadValues = (a, b) => {
+  for (var prop in b || (b = {}))
+    if (__hasOwnProp.call(b, prop))
+      __defNormalProp(a, prop, b[prop]);
+  if (__getOwnPropSymbols)
+    for (var prop of __getOwnPropSymbols(b)) {
+      if (__propIsEnum.call(b, prop))
+        __defNormalProp(a, prop, b[prop]);
+    }
+  return a;
+};
+var __spreadProps = (a, b) => __defProps(a, __getOwnPropDescs(b));
+var __async = (__this, __arguments, generator) => {
+  return new Promise((resolve, reject) => {
+    var fulfilled = (value) => {
+      try {
+        step(generator.next(value));
+      } catch (e) {
+        reject(e);
+      }
+    };
+    var rejected = (value) => {
+      try {
+        step(generator.throw(value));
+      } catch (e) {
+        reject(e);
+      }
+    };
+    var step = (x) => x.done ? resolve(x.value) : Promise.resolve(x.value).then(fulfilled, rejected);
+    step((generator = generator.apply(__this, __arguments)).next());
+  });
+};
+const utils_imageCompress = require("../../utils/image-compress.js");
+const common_vendor = require("../../common/vendor.js");
+const _sfc_main = {
+  props: {
+    multiple: {
+      type: Boolean,
+      default: true
+    },
+    maxCount: {
+      type: Number,
+      default: 6
+    },
+    width: {
+      type: Number,
+      default: 80
+    },
+    height: {
+      type: Number,
+      default: 80
+    },
+    previewFullImage: {
+      type: Boolean,
+      default: false
+    }
+  },
+  emits: ["getFileList"],
+  data() {
+    return {
+      fileList: []
+    };
+  },
+  methods: {
+    getMore() {
+      console.log("查看更多");
+    },
+    deletePic(event) {
+      this.fileList.splice(event.index, 1);
+      this.$emit("getFileList", this.fileList);
+    },
+    uploadFile(file) {
+      console.log("uploadFile", file);
+      return new Promise((resolve, reject) => __async(this, null, function* () {
+        try {
+          utils_imageCompress.mpImageCompress.clearTempImg();
+          let fileInfo = yield utils_imageCompress.mpImageCompress.set(file.url, 1024 * 5, true);
+          let filePath = fileInfo.filePath;
+          this.$api.uploadPic({ filePath, fileSize: 5 }).then((resp) => {
+            let res = JSON.parse(resp.data);
+            if (res.code == 200) {
+              resolve(res.data);
+            } else {
+              this.$toast(res.message);
+              reject(res.data);
+            }
+          });
+        } catch (error) {
+          console.error("error", error);
+          reject({});
+        }
+      }));
+    },
+    afterRead(event) {
+      return __async(this, null, function* () {
+        let lists = [].concat(event.file);
+        let fileListLen = this[`fileList${event.name}`].length;
+        lists.map((item) => {
+          this[`fileList${event.name}`].push(__spreadProps(__spreadValues({}, item), {
+            status: "uploading",
+            message: "上传中"
+          }));
+          return item;
+        });
+        for (let i = 0; i < lists.length; i++) {
+          let result = {};
+          let status = "success";
+          let message = "";
+          try {
+            result = yield this.uploadFile(lists[i]);
+          } catch (error) {
+            console.error("error", error);
+            status = "failed";
+            message = "上传失败";
+          }
+          let item = this[`fileList${event.name}`][fileListLen];
+          this[`fileList${event.name}`].splice(
+            fileListLen,
+            1,
+            Object.assign(item, {
+              status,
+              message,
+              relativeUrl: result.imgPath,
+              url: result.imgUrl,
+              thumb: result.imgUrl
+            })
+          );
+          fileListLen++;
+        }
+        this.$emit("getFileList", this.fileList);
+      });
+    }
+  }
+};
+if (!Array) {
+  const _easycom_uv_upload2 = common_vendor.resolveComponent("uv-upload");
+  _easycom_uv_upload2();
+}
+const _easycom_uv_upload = () => "../../node-modules/@climblee/uv-ui/components/uv-upload/uv-upload.js";
+if (!Math) {
+  _easycom_uv_upload();
+}
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return {
+    a: common_vendor.o($options.afterRead),
+    b: common_vendor.o($options.deletePic),
+    c: common_vendor.p({
+      fileList: $data.fileList,
+      width: $props.width,
+      height: $props.height,
+      multiple: $props.multiple,
+      maxCount: $props.maxCount,
+      previewFullImage: $props.previewFullImage
+    })
+  };
+}
+const Component = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render]]);
+wx.createComponent(Component);
+//# sourceMappingURL=imgs.js.map

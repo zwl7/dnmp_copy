@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "活动报名",
+  "usingComponents": {
+    "activity-index-item": "./components/ActivityIndexItem",
+    "round-button": "./components/RoundButton",
+    "bottom-button": "../../../components/bottomButton",
+    "pa-form": "../../../components/paForm/paForm",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

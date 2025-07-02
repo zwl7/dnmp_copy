@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "发布服务风采",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "imgs": "../../../components/upload/imgs",
+    "uv-textarea": "../../../node-modules/@climblee/uv-ui/components/uv-textarea/uv-textarea",
+    "uv-form-item": "../../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-input": "../../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-form": "../../../node-modules/@climblee/uv-ui/components/uv-form/uv-form"
+  }
+}

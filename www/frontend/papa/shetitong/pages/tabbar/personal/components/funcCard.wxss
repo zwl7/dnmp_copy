@@ -1,0 +1,28 @@
+.func-card-out.data-v-19a811ad {
+  box-sizing: border-box;
+}
+.func-card-out .func-card.data-v-19a811ad {
+  box-sizing: border-box;
+}
+.func-card-out .func-card .card-header.data-v-19a811ad {
+  display: flex;
+  align-items: center;
+  margin-bottom: 32rpx;
+}
+.func-card-out .func-card .card-header .card-header-image.data-v-19a811ad {
+  display: block;
+  width: 36rpx;
+  height: 36rpx;
+  margin-right: 12rpx;
+}
+.func-card-out .func-card .card-header .card-header-title.data-v-19a811ad {
+  color: #303313;
+  font-size: 28rpx;
+  line-height: 44rpx;
+  font-weight: 500;
+}
+.func-card-out .func-card .card-container .text-tip.data-v-19a811ad {
+  font-size: 26rpx;
+  height: 44rpx;
+  color: #909399;
+}

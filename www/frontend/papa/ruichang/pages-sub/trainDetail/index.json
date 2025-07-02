@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "培训详情",
+  "usingComponents": {
+    "uv-count-down": "../../node-modules/@climblee/uv-ui/components/uv-count-down/uv-count-down",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-parse": "../../node-modules/@climblee/uv-ui/components/uv-parse/uv-parse",
+    "uv-button": "../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

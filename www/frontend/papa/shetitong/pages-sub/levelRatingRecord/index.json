@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "级别评定记录",
+  "usingComponents": {
+    "time-line-card": "../../components/TimeLineCard/index",
+    "rating-card": "./components/RatingCard",
+    "z-paging": "../../node-modules/z-paging/components/z-paging/z-paging"
+  }
+}

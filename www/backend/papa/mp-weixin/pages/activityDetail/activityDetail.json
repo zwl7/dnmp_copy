@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "活动详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "stadium-recommend": "../../components/stadiumRecommend",
+    "good-nav": "../../components/goodNav/goodNav",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-countdown": "../../uni_modules/uni-countdown/components/uni-countdown/uni-countdown"
+  }
+}

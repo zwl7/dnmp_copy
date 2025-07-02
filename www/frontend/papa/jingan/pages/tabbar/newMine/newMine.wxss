@@ -1,0 +1,112 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+.mine-page.data-v-d6e021b3 {
+  min-height: 100vh;
+  background: #fff;
+  position: relative;
+  padding-bottom: 100rpx;
+}
+.mine-bg-wrap.data-v-d6e021b3 {
+  width: 100vw;
+  height: 516rpx;
+  position: relative;
+}
+.mine-bg-wrap .mine-bg.data-v-d6e021b3 {
+  width: 100vw;
+  height: 320rpx;
+  -o-object-fit: cover;
+     object-fit: cover;
+  display: block;
+}
+.user-info-wrap.data-v-d6e021b3 {
+  position: absolute;
+  top: 186rpx;
+  left: 32rpx;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.card-group.data-v-d6e021b3 {
+  margin-top: -70rpx;
+  padding: 0 24rpx 48rpx 24rpx;
+}
+.card-block.data-v-d6e021b3 {
+  background: transparent;
+  border-radius: 24rpx;
+  margin-bottom: 32rpx;
+  padding-bottom: 12rpx;
+}
+.card-block .card-title-custom.data-v-d6e021b3 {
+  background: #222;
+  color: #b6f730;
+  font-size: 32rpx;
+  font-weight: 500;
+  height: 80rpx;
+  width: 208rpx;
+  line-height: 64rpx;
+  margin-bottom: -24rpx;
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMTA0IDM4IiBmaWxsPSJub25lIj4KPHBhdGggICAgIGZpbGw9IiMzMDMxMzMiICBkPSJNMCAxMkwwIDM4TDEwNCAzOEw5Mi4yNSA3LjY2QzkwLjQ2IDMuMDQwMjIgODYuMDE0NCAwIDgxLjA2IDBMMTIgMEM1LjM3MjU4IDAgMCA1LjM3MjU4IDAgMTIiPgo8L3BhdGg+Cjwvc3ZnPgo=") no-repeat;
+  position: relative;
+  z-index: 1;
+  padding: 0 40rpx 0 30rpx;
+  display: flex;
+}
+.card-block .card-list-custom.data-v-d6e021b3 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  flex-wrap: wrap;
+  gap: 10rpx;
+  padding: 42rpx 0;
+  border: 1px solid #303133;
+  border-radius: 24rpx;
+  background: #fff;
+  z-index: 2;
+  position: relative;
+}
+.card-item.data-v-d6e021b3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-item .card-icon-wrap.data-v-d6e021b3 {
+  position: relative;
+}
+.card-item .card-icon-wrap .card-icon-text.data-v-d6e021b3 {
+  position: absolute;
+  top: -10rpx;
+  right: -10rpx;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30rpx;
+  height: 30rpx;
+  background: red;
+  border-radius: 50%;
+  font-size: 24rpx;
+  color: #fff;
+  font-weight: 400;
+  padding: 4rpx;
+}
+.card-item .card-icon.data-v-d6e021b3 {
+  width: 80rpx;
+  height: 80rpx;
+  margin-bottom: 8rpx;
+  filter: drop-shadow(0 2rpx 8rpx rgba(182, 247, 48, 0.2666666667));
+}
+.card-item .card-label.data-v-d6e021b3 {
+  font-size: 28rpx;
+  color: #303133;
+  font-weight: 400;
+}

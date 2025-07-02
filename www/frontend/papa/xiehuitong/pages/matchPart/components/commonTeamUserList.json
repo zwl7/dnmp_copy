@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "ceil-line": "./ceilLine",
+    "uv-icon": "../../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

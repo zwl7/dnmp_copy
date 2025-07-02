@@ -1,0 +1,15 @@
+
+.banner-swiper.data-v-d7181268 {
+  box-sizing: border-box;
+  width: 100%;
+  height: 320rpx;
+  /* padding: 20rpx 24rpx; */
+  overflow: hidden;
+  border-radius: 28rpx;
+}
+.banner-img.data-v-d7181268 {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  border-radius: 28rpx;
+}

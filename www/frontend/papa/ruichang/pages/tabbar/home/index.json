@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "../../../components/navBar/index",
+    "swiper-list": "./components/SwiperList",
+    "notice-bar": "./components/NoticeBar",
+    "king-kong-area": "./components/KingKongArea",
+    "service-card": "./components/ServiceCard",
+    "instructor-region": "./components/InstructorRegion",
+    "service-style": "./components/ServiceStyle",
+    "stadium": "./components/Stadium",
+    "instructor-people": "./components/InstructorPeople",
+    "sports-org": "./components/SportsOrg",
+    "instructor-site": "./components/InstructorSite"
+  }
+}

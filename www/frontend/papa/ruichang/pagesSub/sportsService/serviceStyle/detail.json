@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "服务风采详情",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "service-style-item": "../components/ServiceStyleItem/index",
+    "uv-skeleton": "../../../node-modules/@climblee/uv-ui/components/uv-skeleton/uv-skeleton",
+    "uv-avatar": "../../../node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar"
+  }
+}

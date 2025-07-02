@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-form-item": "../../../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-code": "../../../../node-modules/@climblee/uv-ui/components/uv-code/uv-code",
+    "uv-input": "../../../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-form": "../../../../node-modules/@climblee/uv-ui/components/uv-form/uv-form",
+    "uv-button": "../../../../node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}
